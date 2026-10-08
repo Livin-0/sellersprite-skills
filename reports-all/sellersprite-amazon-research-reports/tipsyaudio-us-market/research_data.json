@@ -1,0 +1,58 @@
+{
+  "market_research": {
+    "code": "ERROR_SECRET_KEY_INVALID",
+    "message": "秘钥无效"
+  },
+  "market_research_statistics": {
+    "code": "ERROR_SECRET_KEY_INVALID",
+    "message": "秘钥无效"
+  },
+  "market_price_distribution": {
+    "code": "ERROR_SECRET_KEY_INVALID",
+    "message": "秘钥无效"
+  },
+  "market_brand_concentration": {
+    "code": "ERROR_SECRET_KEY_INVALID",
+    "message": "秘钥无效"
+  },
+  "market_product_concentration": {
+    "code": "ERROR_SECRET_KEY_INVALID",
+    "message": "秘钥无效"
+  },
+  "market_seller_concentration": {
+    "code": "ERROR_SECRET_KEY_INVALID",
+    "message": "秘钥无效"
+  },
+  "market_rating_distribution": {
+    "code": "ERROR_SECRET_KEY_INVALID",
+    "message": "秘钥无效"
+  },
+  "market_ratings_count_distribution": {
+    "code": "ERROR_SECRET_KEY_INVALID",
+    "message": "秘钥无效"
+  },
+  "market_listing_date_distribution": {
+    "code": "ERROR_SECRET_KEY_INVALID",
+    "message": "秘钥无效"
+  },
+  "market_listing_trend_distribution": {
+    "code": "ERROR_SECRET_KEY_INVALID",
+    "message": "秘钥无效"
+  },
+  "market_seller_country_distribution": {
+    "code": "ERROR_SECRET_KEY_INVALID",
+    "message": "秘钥无效"
+  },
+  "market_seller_type_concentration": {
+    "code": "ERROR_SECRET_KEY_INVALID",
+    "message": "秘钥无效"
+  },
+  "market_ebc_distribution": {
+    "code": "ERROR_SECRET_KEY_INVALID",
+    "message": "秘钥无效"
+  },
+  "market_product_demand_trend": {
+    "code": "ERROR_SECRET_KEY_INVALID",
+    "message": "秘钥无效"
+  }
+}

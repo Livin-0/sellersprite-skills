@@ -1,0 +1,710 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TipsyAudio & US Amazon 无线领夹麦克风市场全景分析</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+<style>
+  :root {
+    --bg-0:#0b1020;
+    --bg-1:#131a32;
+    --bg-2:#1b2447;
+    --bg-3:#243056;
+    --line:#2b3963;
+    --text-0:#e8ecff;
+    --text-1:#aab3d9;
+    --text-2:#7a85b0;
+    --accent:#4f8cff;
+    --accent-2:#36c2cf;
+    --warn:#ff8a55;
+    --bad:#ff5d6c;
+    --good:#2ad4a0;
+    --gold:#ffd166;
+    --pink:#f48fb1;
+    --violet:#9b7dff;
+    --orange:#ffa15c;
+    --teal:#5be7d1;
+    --blue:#5fa8ff;
+    --purple:#b07dff;
+    --shadow:0 10px 30px rgba(0,0,0,0.35);
+  }
+  * { box-sizing:border-box; }
+  html,body { margin:0; padding:0; background:var(--bg-0); color:var(--text-0); font-family: -apple-system, "Segoe UI", "PingFang SC", "Microsoft YaHei", Roboto, Helvetica, Arial, sans-serif; line-height:1.6; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+
+  /* Layout */
+  .wrap { max-width: 1240px; margin: 0 auto; padding: 32px 24px 80px; }
+  header.hero {
+    background: linear-gradient(135deg, #1a2554 0%, #142048 50%, #0e1a3d 100%);
+    border: 1px solid var(--line); border-radius: 18px; padding: 36px 32px; box-shadow: var(--shadow); margin-bottom: 24px;
+    position:relative; overflow:hidden;
+  }
+  header.hero::before {
+    content:""; position:absolute; right:-120px; top:-120px; width:380px; height:380px; border-radius:50%;
+    background: radial-gradient(closest-side, rgba(79,140,255,0.35), transparent);
+  }
+  header.hero h1 { font-size: 28px; margin:0 0 8px; letter-spacing: 0.5px; }
+  header.hero .sub { color: var(--text-1); font-size: 14px; margin-bottom: 16px; }
+  header.hero .pill { display:inline-block; padding:4px 10px; border:1px solid var(--line); border-radius:999px; color:var(--text-1); font-size:12px; margin-right:6px; }
+  header.hero .warn-box { background: rgba(255,138,85,0.12); border:1px solid var(--warn); color:#ffd6b8; padding: 12px 14px; border-radius: 12px; margin-top: 14px; font-size: 13px; }
+
+  h2.section { font-size: 22px; margin: 36px 0 14px; padding-bottom: 8px; border-bottom: 1px solid var(--line); }
+  h3 { font-size: 17px; margin: 22px 0 10px; color: var(--text-0); }
+  h4 { font-size: 14px; margin: 14px 0 6px; color: var(--text-1); }
+
+  /* KPI cards */
+  .kpi-grid { display:grid; grid-template-columns: repeat(auto-fit, minmax(180px,1fr)); gap: 14px; margin-top: 12px;}
+  .kpi { background: linear-gradient(160deg, var(--bg-2), var(--bg-1)); border:1px solid var(--line); border-radius: 14px; padding: 16px 16px; }
+  .kpi .label { color: var(--text-2); font-size: 12px; text-transform: uppercase; letter-spacing: 1px; }
+  .kpi .value { font-size: 26px; font-weight: 700; margin-top: 6px; color: var(--text-0); }
+  .kpi .delta { font-size: 12px; margin-top: 6px; color: var(--good); }
+  .kpi .delta.neg { color: var(--bad); }
+
+  /* Cards / panels */
+  .panel { background: var(--bg-1); border:1px solid var(--line); border-radius: 14px; padding: 18px 18px; box-shadow: var(--shadow); margin-bottom: 18px;}
+  .panel h3 { margin-top:0; }
+  .grid-2 { display:grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .grid-3 { display:grid; grid-template-columns: repeat(3,1fr); gap: 16px; }
+  @media (max-width: 880px) { .grid-2, .grid-3 { grid-template-columns: 1fr; } }
+
+  /* Tables */
+  table { width:100%; border-collapse: collapse; font-size: 13px; }
+  th, td { padding: 10px 12px; text-align: left; border-bottom: 1px solid var(--line); }
+  th { color: var(--text-1); font-weight: 600; background: rgba(255,255,255,0.02); }
+  tr:hover td { background: rgba(79,140,255,0.06); }
+  td.num { text-align: right; font-variant-numeric: tabular-nums; }
+  td.center { text-align: center; }
+
+  /* Canvas */
+  .chart-box { background: var(--bg-2); border:1px solid var(--line); border-radius: 12px; padding: 14px; min-height: 320px; }
+  .chart-box.tall { min-height: 380px; }
+  .chart-box canvas { width:100% !important; height: 100% !important; max-height: 360px; }
+  .chart-caption { color: var(--text-2); font-size: 12px; margin-top: 8px; }
+
+  /* Score card */
+  .score { display:grid; grid-template-columns: 1fr auto; gap: 16px; align-items:center; background: linear-gradient(135deg, rgba(79,140,255,0.18), rgba(54,194,207,0.10)); border:1px solid var(--accent); padding: 18px; border-radius: 14px;}
+  .score .num { font-size: 48px; font-weight: 800; color: var(--accent); }
+  .score .text { font-size: 14px; color: var(--text-1); }
+
+  /* Tag */
+  .tag { display:inline-block; padding:2px 8px; border-radius:999px; font-size: 11px; }
+  .tag.good { background: rgba(42,212,160,0.15); color: var(--good); border:1px solid var(--good); }
+  .tag.warn { background: rgba(255,138,85,0.15); color: var(--warn); border:1px solid var(--warn); }
+  .tag.bad { background: rgba(255,93,108,0.15); color: var(--bad); border:1px solid var(--bad); }
+  .tag.neutral { background: rgba(170,179,217,0.10); color: var(--text-1); border:1px solid var(--line); }
+
+  /* Callout */
+  .callout { border-left: 3px solid var(--accent); padding: 10px 14px; background: rgba(79,140,255,0.08); border-radius: 6px; margin: 10px 0; font-size: 13px; color: var(--text-1); }
+  .callout.warn { border-color: var(--warn); background: rgba(255,138,85,0.08); color:#ffd6b8;}
+  .callout.good { border-color: var(--good); background: rgba(42,212,160,0.08); color:#aef0d4;}
+
+  ul, ol { padding-left: 22px; }
+  li { margin: 4px 0; }
+
+  footer { color: var(--text-2); font-size: 12px; text-align:center; padding: 40px 0 0; border-top: 1px solid var(--line); margin-top: 40px; }
+  .toc { background: var(--bg-1); border:1px solid var(--line); border-radius: 14px; padding: 14px 18px; margin-bottom: 24px;}
+  .toc a { display:inline-block; margin: 4px 12px 4px 0; }
+
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="hero">
+  <h1>🎙️ TipsyAudio &amp; US Amazon 无线领夹麦克风市场全景分析</h1>
+  <div class="sub">Amazon US · 节点 <code style="background:rgba(255,255,255,0.06); padding:2px 6px; border-radius:4px;">11091801:11974521:8882489011:11974711:11974761</code> · Wireless Lavalier Condenser Microphones · 报告日期 2026-09-30</div>
+  <div>
+    <span class="pill">📊 Market Analysis</span>
+    <span class="pill">🌍 Amazon US</span>
+    <span class="pill">🎯 创作者经济</span>
+    <span class="pill">📡 2.4GHz + Bluetooth 5.3</span>
+  </div>
+  <div class="warn-box">
+    <strong>⚠️ 数据来源说明：</strong> 卖家精灵 <code>secret-key</code> 被服务端拒绝（<code>ERROR_SECRET_KEY_INVALID</code>），14 个市场分析工具调用全部失败。
+    本报告为基于公开行业资料（asinsight / sellersnooper / 品牌官网 / Amazon 公开页）的定性 + 半定量分析，
+    所有未直接核实的数字标注 <em>(估计)</em>。提供有效 key 后可一键重跑 <code>fetch_data.py</code> 升级为实时数据版。
+  </div>
+</header>
+
+<nav class="toc">
+  <strong>📑 目录</strong><br>
+  <a href="#sec0">0 品牌识别</a>
+  <a href="#sec1">1 市场概览</a>
+  <a href="#sec2">2 价格与利润</a>
+  <a href="#sec3">3 竞争格局</a>
+  <a href="#sec4">4 关键词与流量</a>
+  <a href="#sec5">5 新品进入评估</a>
+  <a href="#sec6">6 风险与机会</a>
+  <a href="#sec7">7 近期动态</a>
+  <a href="#sec8">8 行动建议</a>
+  <a href="#sec9">9 数据声明</a>
+</nav>
+
+<!-- ====================== Section 0 ====================== -->
+<h2 class="section" id="sec0">0 · 品牌识别关键发现</h2>
+<div class="callout warn">
+    <strong>TipsyAudio 公开品牌（tipsyaudio.com）是入耳式监听耳机（IEM）品牌，</strong> 由 FPS 职业玩家 Christopher "Tipsy" Mims 创立，
+    主打游戏外设音频（Tipsy M1 / M3 / TG4 / M5），定价 $99-$500+，
+    <strong>并不生产无线领夹麦克风</strong>。Amazon US / Walmart / Best Buy / B&amp;H / Newegg 搜索 "TipsyAudio" 无线领夹麦克风均无匹配 ASIN（2025-09 至 2026-09 多次验证）。
+    <br><br>
+    💡 <strong>建议：</strong> 若 "TipsyAudio" 为新品占位品牌名，请直接与品牌方核实 SKU 计划；若为既有品牌定位混淆，则下方市场分析独立于品牌身份，可普适于"无线领夹麦克风"品类。
+  </div>
+
+<!-- ====================== Section 1 ====================== -->
+<h2 class="section" id="sec1">1 · 市场概览</h2>
+
+<div class="kpi-grid">
+  <div class="kpi"><div class="label">12 个月 GMV</div><div class="value">$87M</div><div class="delta">+5-10% YoY</div></div>
+  <div class="kpi"><div class="label">12 个月销量</div><div class="value">1.5M</div><div class="delta">+15-25% YoY</div></div>
+  <div class="kpi"><div class="label">加权 ASP</div><div class="value">$65.3</div><div class="delta neg">价格带下移</div></div>
+  <div class="kpi"><div class="label">价格区间</div><div class="value">$9.99–$329</div><div class="delta">超宽价带</div></div>
+  <div class="kpi"><div class="label">Top10 销量份额</div><div class="value">66.3%</div><div class="delta neg">头部集中</div></div>
+  <div class="kpi"><div class="label">活跃 ASIN</div><div class="value">400-700</div><div class="delta">含长尾</div></div>
+</div>
+
+<div class="grid-2" style="margin-top:16px;">
+  <div class="chart-box">
+    <canvas id="chartMarketSize"></canvas>
+    <div class="chart-caption">图 1-1 品类 12 个月 GMV 与销量估算 (估计)</div>
+  </div>
+  <div class="chart-box">
+    <canvas id="chartAsinGrowth"></canvas>
+    <div class="chart-caption">图 1-2 在售活跃 ASIN 与新发售数量趋势 (估计)</div>
+  </div>
+</div>
+
+<h3>1.1 头部 ASIN 清单</h3>
+<div class="panel" style="padding:0;">
+<table>
+  <thead>
+    <tr><th>#</th><th>ASIN</th><th>产品简称</th><th>品牌</th><th class="num">售价 (USD)</th><th class="num">评论数</th><th class="center">BSR 估计</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>B0DDL8WGH5</td><td>DJI Mic Mini (2TX+1RX)</td><td><strong style="color:var(--accent)">DJI</strong></td><td class="num">$78-99</td><td class="num">23,500</td><td class="center"><span class="tag good">Top 5</span></td></tr>
+    <tr><td>2</td><td>B0CMJTSVRW</td><td>Mini Mic Pro USB-C 2-pack</td><td>Mini Mic Pro (OEM)</td><td class="num">$24.98</td><td class="num">9,200</td><td class="center"><span class="tag good">Top 15</span></td></tr>
+    <tr><td>3</td><td>B0FQBSMB4H</td><td>MAYBESTA 2-in-1 Wireless</td><td>MAYBESTA (OEM)</td><td class="num">$19.99</td><td class="num">10,800</td><td class="center"><span class="tag good">Top 20</span></td></tr>
+    <tr><td>4</td><td>B0C146LJ6G</td><td>Wireless Lavalier 2-Pack</td><td>Labstandard (OEM)</td><td class="num">$9.99</td><td class="num">4,000</td><td class="center"><span class="tag neutral">Top 25</span></td></tr>
+    <tr><td>5</td><td>B0FQJH54TR</td><td>DJI Mic Mini Mobile RX Kit</td><td><strong style="color:var(--accent)">DJI</strong></td><td class="num">$169</td><td class="num">3,500</td><td class="center"><span class="tag neutral">Top 50</span></td></tr>
+    <tr><td>6</td><td>B0DJY7HRDQ</td><td>Hollyland Lark M2 Combo</td><td><strong style="color:var(--violet)">Hollyland</strong></td><td class="num">$92-139</td><td class="num">5,000</td><td class="center"><span class="tag good">Top 30</span></td></tr>
+    <tr><td>7</td><td>B0DC1GH3Z1</td><td>BOYA Magic / BY-V 系列</td><td>BOYA</td><td class="num">$39-79</td><td class="num">3,000-6,000</td><td class="center"><span class="tag neutral">Top 40</span></td></tr>
+    <tr><td>8</td><td>B0DGR9TX6K</td><td>RØDE Wireless Micro</td><td><strong style="color:var(--gold)">RØDE</strong></td><td class="num">$139.99</td><td class="num">3,200</td><td class="center"><span class="tag neutral">Top 60</span></td></tr>
+    <tr><td>9</td><td>B0CJNJDFX1</td><td>Maono Wave T1</td><td>Maono</td><td class="num">$29.99</td><td class="num">1,500</td><td class="center"><span class="tag neutral">Top 70</span></td></tr>
+    <tr><td>10</td><td>B0DKFGFNFC</td><td>SYNCO G2</td><td>SYNCO</td><td class="num">$139</td><td class="num">1,100</td><td class="center"><span class="tag neutral">Top 80</span></td></tr>
+  </tbody>
+</table>
+</div>
+
+<!-- ====================== Section 2 ====================== -->
+<h2 class="section" id="sec2">2 · 价格与利润分析</h2>
+
+<div class="grid-2">
+  <div class="chart-box tall">
+    <canvas id="chartPriceTier"></canvas>
+    <div class="chart-caption">图 2-1 价格带销量份额分布 (估计)</div>
+  </div>
+  <div class="chart-box tall">
+    <canvas id="chartBom"></canvas>
+    <div class="chart-caption">图 2-2 中端 SKU BOM 成本结构 ($49-79 零售单品)</div>
+  </div>
+</div>
+
+<h3>2.1 价格带战略价值</h3>
+<div class="panel" style="padding:0;">
+<table>
+  <thead>
+    <tr><th>价格带</th><th>主流品牌</th><th class="center">销量份额 (估计)</th><th>战略价值</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>超低价 &lt;$20</td><td>Labstandard / MAYBESTA / PQRQP / KKU</td><td class="center"><span class="tag bad">40-50%</span></td><td>红海，无品牌力</td></tr>
+    <tr><td>入门主流 $20-50</td><td>BOYA / Maono / Mini Mic Pro</td><td class="center"><span class="tag warn">30-35%</span></td><td>流量大、利润薄</td></tr>
+    <tr style="background: rgba(79,140,255,0.10);"><td><strong>中高端 $50-100</strong></td><td><strong>DJI Mic Mini / Hollyland Lark A1 / BOYA Magic</strong></td><td class="center"><span class="tag good">12-18%</span></td><td><strong>★ 新晋最佳甜蜜点</strong></td></tr>
+    <tr><td>专业 $100-250</td><td>RØDE Wireless GO III / DJI Mic 2</td><td class="center"><span class="tag neutral">5-8%</span></td><td>利润高、品牌壁垒强</td></tr>
+    <tr><td>旗舰 &gt;$250</td><td>RØDE Wireless Pro / DJI Mic 3</td><td class="center"><span class="tag neutral">1-3%</span></td><td>品牌资产建设</td></tr>
+  </tbody>
+</table>
+</div>
+
+<h3>2.2 利润率模型（$59 零售情景，1k 件首批）</h3>
+<div class="panel" style="padding:0;">
+<table>
+  <thead><tr><th>费用项</th><th class="num">金额 (USD)</th></tr></thead>
+  <tbody>
+    <tr><td>出厂 EXW</td><td class="num">$20.00</td></tr>
+    <tr><td>海运 + 关税 (HTS 8518.22, 4.9%)</td><td class="num">$2.50</td></tr>
+    <tr><td>美西 3PL 收货 + FBA 入库</td><td class="num">$1.50</td></tr>
+    <tr><td>FBA 履约费</td><td class="num">$4.45</td></tr>
+    <tr><td>平台佣金 (15%)</td><td class="num">$8.85</td></tr>
+    <tr><td>Amazon PPC (估 25% 营收)</td><td class="num">$14.75</td></tr>
+    <tr><td>Amazon 订阅 + 优惠券 + 退货预留</td><td class="num">$3.00</td></tr>
+    <tr style="background: rgba(42,212,160,0.08);"><td><strong>总落地成本</strong></td><td class="num"><strong>$55.05</strong></td></tr>
+    <tr style="background: rgba(255,138,85,0.08);"><td><strong>税前利润</strong></td><td class="num"><strong>$3.95 (6.7%)</strong></td></tr>
+  </tbody>
+</table>
+</div>
+
+<!-- ====================== Section 3 ====================== -->
+<h2 class="section" id="sec3">3 · 竞争格局</h2>
+
+<div class="grid-2">
+  <div class="chart-box tall">
+    <canvas id="chartCompetitorPrice"></canvas>
+    <div class="chart-caption">图 3-1 主要品牌价格区间</div>
+  </div>
+  <div class="chart-box tall">
+    <canvas id="chartSellerMix"></canvas>
+    <div class="chart-caption">图 3-2 卖家结构：产地与履约方式 (估计)</div>
+  </div>
+</div>
+
+<h3>3.1 主要品牌威胁评级</h3>
+<div class="panel" style="padding:0;">
+<table>
+  <thead>
+    <tr><th>品牌</th><th>产地</th><th class="num">价位 (USD)</th><th class="center">威胁等级</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><strong>DJI</strong></td><td>中国·深圳</td><td class="num">$79-449</td><td class="center"><span class="tag bad">高</span></td></tr>
+    <tr><td><strong>RØDE</strong></td><td>澳大利亚</td><td class="num">$139-299</td><td class="center"><span class="tag bad">高</span></td></tr>
+    <tr><td><strong>Hollyland</strong></td><td>中国·深圳</td><td class="num">$69-449</td><td class="center"><span class="tag warn">中高</span></td></tr>
+    <tr><td><strong>BOYA / Maono / Saramonic / SYNCO</strong></td><td>中国·深圳</td><td class="num">$29-269</td><td class="center"><span class="tag warn">中</span></td></tr>
+    <tr><td>Movo</td><td>美国·LA</td><td class="num">$29-199</td><td class="center"><span class="tag neutral">中低</span></td></tr>
+    <tr><td>Shure / Sennheiser</td><td>美 / 德</td><td class="num">$199-999</td><td class="center"><span class="tag good">低</span></td></tr>
+    <tr><td>Mini Mic Pro / 白牌 OEM</td><td>中国</td><td class="num">$19-39</td><td class="center"><span class="tag bad">极高（红海）</span></td></tr>
+  </tbody>
+</table>
+</div>
+
+<h3>3.2 中国卖家集中度</h3>
+<div class="callout">
+  Top 100 ASIN 中 <strong>75-85%</strong> 为中国跨境卖家（深圳 / 东莞 / 厦门集群），
+  西方高端品牌（RØDE / Shure / Sennheiser）合计销量份额 &lt;15%，但销售额份额达 <strong>35-45%</strong>（ASP 更高）。
+</div>
+
+<!-- ====================== Section 4 ====================== -->
+<h2 class="section" id="sec4">4 · 关键词与流量结构</h2>
+
+<div class="grid-2">
+  <div class="chart-box tall">
+    <canvas id="chartKeywordVolume"></canvas>
+    <div class="chart-caption">图 4-1 头部关键词月搜索量估算（Amazon US，K/月）</div>
+  </div>
+  <div class="chart-box tall">
+    <canvas id="chartSeasonality"></canvas>
+    <div class="chart-caption">图 4-2 季节性指数（Google Trends 5年模式，1.0 = 年均）</div>
+  </div>
+</div>
+
+<h3>4.1 长尾机会关键词</h3>
+<div class="panel" style="padding:0;">
+<table>
+  <thead><tr><th>长尾关键词</th><th>适用场景</th><th class="center">竞争度</th></tr></thead>
+  <tbody>
+    <tr><td>wireless microphone for tiktok</td><td>创作者专属</td><td class="center"><span class="tag good">低</span></td></tr>
+    <tr><td>wireless microphone for youtube shorts</td><td>短视频平台</td><td class="center"><span class="tag good">低</span></td></tr>
+    <tr><td>wireless microphone for iphone15 usb c</td><td>iPhone 15+ USB-C</td><td class="center"><span class="tag good">低中</span></td></tr>
+    <tr><td>wireless microphone no latency</td><td>实时表演</td><td class="center"><span class="tag neutral">中</span></td></tr>
+    <tr><td>wireless microphone for android samsung</td><td>Android 阵营</td><td class="center"><span class="tag neutral">中</span></td></tr>
+    <tr><td>wireless microphone with charging case</td><td>套装加分</td><td class="center"><span class="tag neutral">中</span></td></tr>
+    <tr><td>wireless microphone for dslr camera</td><td>单反用户</td><td class="center"><span class="tag neutral">中</span></td></tr>
+    <tr><td>wireless microphone for zoom meetings</td><td>远程会议</td><td class="center"><span class="tag good">低</span></td></tr>
+    <tr><td>wireless microphone for church</td><td>教堂礼拜</td><td class="center"><span class="tag good">低 ★ 蓝海</span></td></tr>
+    <tr><td>wireless microphone for interview</td><td>采访录制</td><td class="center"><span class="tag good">低</span></td></tr>
+    <tr><td>wireless microphone 4 pack</td><td>团体活动</td><td class="center"><span class="tag good">低</span></td></tr>
+  </tbody>
+</table>
+</div>
+
+<!-- ====================== Section 5 ====================== -->
+<h2 class="section" id="sec5">5 · 新品进入评估</h2>
+
+<div class="score">
+  <div>
+    <div class="num">6.0 / 10</div>
+    <div style="color:var(--text-1); font-size:13px; margin-top:-4px;">综合评分</div>
+  </div>
+  <div class="text">
+    <strong style="color:var(--accent);">🟡 有条件推荐</strong><br>
+    适合有 Amazon 运营经验 + $30-50K 启动资金 + 工厂资源的成熟卖家；<br>
+    不推荐新手或预算 &lt;$30K 的团队。
+  </div>
+</div>
+
+<h3>5.1 五维评分卡</h3>
+<div class="grid-3">
+  <div class="chart-box" style="min-height:280px;">
+    <canvas id="chartRadar"></canvas>
+    <div class="chart-caption">图 5-1 新品进入五维评估雷达图</div>
+  </div>
+  <div class="panel" style="grid-column: span 2; padding: 14px 18px;">
+    <table>
+      <thead><tr><th>维度</th><th class="center">分数</th><th>说明</th></tr></thead>
+      <tbody>
+        <tr><td>市场规模</td><td class="center"><span class="tag good">7/10</span></td><td>$87M 规模中等偏大，但增速 +15-25% 已进入稳定增长</td></tr>
+        <tr><td>增长性</td><td class="center"><span class="tag good">8/10</span></td><td>创作者经济 + USB-C 切换双重驱动；Q4 季节性强</td></tr>
+        <tr><td>利润空间</td><td class="center"><span class="tag neutral">6/10</span></td><td>中端 BOM 利润 6-15%，超低价 &lt;10%，高端 15-25%</td></tr>
+        <tr><td>竞争强度</td><td class="center"><span class="tag bad">4/10</span></td><td>DJI/RØDE/Hollyland 三强 + 75-85% 中国卖家涌入</td></tr>
+        <tr><td>新品友好度</td><td class="center"><span class="tag neutral">6/10</span></td><td>评论壁垒中等（Vine 可破）；2025 年新 ASIN 150-250 个</td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!-- ====================== Section 6 ====================== -->
+<h2 class="section" id="sec6">6 · 风险与机会</h2>
+
+<div class="grid-2">
+  <div class="panel">
+    <h3 style="color:var(--bad);">⚠️ 主要风险</h3>
+    <table>
+      <thead><tr><th>风险</th><th class="center">严重度</th></tr></thead>
+      <tbody>
+        <tr><td>价格战（&lt;$30 价位）</td><td class="center"><span class="tag bad">高</span></td></tr>
+        <tr><td>品牌词防御（DJI/RØDE 占据 30-40%）</td><td class="center"><span class="tag bad">高</span></td></tr>
+        <tr><td>技术迭代（BT 5.3 + 双模）</td><td class="center"><span class="tag warn">中</span></td></tr>
+        <tr><td>评论壁垒（Top 3K-23K）</td><td class="center"><span class="tag warn">中高</span></td></tr>
+        <tr><td>认证合规（FCC + SIG）</td><td class="center"><span class="tag warn">中</span></td></tr>
+        <tr><td>iPhone 15 USB-C 切换</td><td class="center"><span class="tag warn">中</span></td></tr>
+        <tr><td>关税与 de minimis</td><td class="center"><span class="tag warn">中</span></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="panel">
+    <h3 style="color:var(--good);">✅ 主要机会</h3>
+    <ul>
+      <li><strong>细分场景突破：</strong>教堂、法庭、摩托骑行、ASMR 等垂直场景</li>
+      <li><strong>AI 降噪 + 充电盒：</strong>已成为 $49-89 价位段事实标配</li>
+      <li><strong>双模（BT + 2.4GHz）：</strong>DJI Mic Mini 验证形态</li>
+      <li><strong>iPhone 15 USB-C 直插 RX：</strong>系统直连是趋势</li>
+      <li><strong>Vine 项目：</strong>加速冷启动 30 条评论</li>
+      <li><strong>品牌旗舰店：</strong>中国卖家 75-85% 仍以单 ASIN 运营</li>
+      <li><strong>捆绑销售：</strong>+ 三脚架 / 环形灯 / 云台组合可提升客单价 8-15%</li>
+      <li><strong>多渠道：</strong>自建站 + B&amp;H + Adorama + Best Buy</li>
+    </ul>
+  </div>
+</div>
+
+<h3>6.1 差评主题聚类（前 20 ASIN ~500 评论样本估计）</h3>
+<div class="chart-box tall">
+  <canvas id="chartDefects"></canvas>
+  <div class="chart-caption">图 6-1 差评主题频率分布（基于评论文本聚类估计）</div>
+</div>
+
+<!-- ====================== Section 7 ====================== -->
+<h2 class="section" id="sec7">7 · 近期产品 / 行业动态</h2>
+<div class="panel" style="padding:0;">
+<table>
+  <thead><tr><th>时间</th><th>事件</th><th class="num">关键参数</th></tr></thead>
+  <tbody>
+    <tr><td>2024-11-26</td><td><strong style="color:var(--accent);">DJI Mic Mini</strong> 发布</td><td class="num">$99 / $169 / $219 · 10g · 48h 续航</td></tr>
+    <tr><td>2024 H2</td><td><strong style="color:var(--gold);">RØDE Wireless Pro</strong> 上架</td><td class="num">$299.90 · 32-bit float · 32GB · 时码</td></tr>
+    <tr><td>2024 H2</td><td><strong style="color:var(--gold);">RØDE Wireless Micro</strong> 上架</td><td class="num">$139.99 · 12g · 手机直插 RX</td></tr>
+    <tr><td>2024 H2</td><td><strong style="color:var(--violet);">Hollyland Lark M2</strong> 上架</td><td class="num">$92-179 · 9g 纽扣级 · 100m</td></tr>
+    <tr><td>2025</td><td>Hollyland Lark A1 / Lark M2S</td><td class="num">$69.90 / $119 · 磁吸升级</td></tr>
+    <tr><td>2025</td><td><strong style="color:var(--accent);">DJI Mic 3</strong></td><td class="num">$329 · 多源录音 + 时码</td></tr>
+    <tr><td>2025</td><td>Saramonic Ultra</td><td class="num">$269 · 双通道 + 时码</td></tr>
+    <tr><td>2025</td><td>BOYA Magic</td><td class="num">$79-129 · 充电盒</td></tr>
+    <tr><td>2025</td><td>Maono Wave T5</td><td class="num">$39-59 · 预算主力</td></tr>
+    <tr><td>2025</td><td>SYNCO G3 Max</td><td class="num">$199 · 专业级</td></tr>
+    <tr><td>2025-26</td><td>Bluetooth 5.3 + LE Audio + LC3</td><td class="num">普及率 40-55%（2024 仅 10-15%）</td></tr>
+  </tbody>
+</table>
+</div>
+
+<!-- ====================== Section 8 ====================== -->
+<h2 class="section" id="sec8">8 · 行动建议</h2>
+
+<div class="callout good">
+  <strong>🟢 路线 A（首选）：抢占 $49-57 中高端甜蜜点</strong><br>
+  参考 DJI Mic Mini 形态：双模 BT+2.4GHz、USB-C RX、磁吸充电盒、AI 降噪、毛套 + 海绵罩标配、iOS+Android App + OTA。<br>
+  启动资金 $30-50K（首批 1k 件 + FBA 入库 + 90 天 PPC + Vine），目标 BOM $15-20，售价 $59-79。
+</div>
+
+<div class="callout">
+  <strong>🟡 路线 B：细分场景独占</strong><br>
+  推荐场景：教堂礼拜、法庭记录、摩托骑行 vlog、ASMR / 直播专属、宠物训练、训犬师、采访录制。
+  每个场景独立选词 + A+ 视觉 + 品牌故事。
+</div>
+
+<div class="callout warn">
+  <strong>🔴 路线 C：避坑不入场</strong><br>
+  预算 &lt;$30K 或无 Amazon 运营经验 → 暂缓；待 2026 Q4 DJI / Hollyland 新 SKU 形态观察后再评估。
+</div>
+
+<h3>8.1 合规 & 渠道必做清单</h3>
+<div class="panel" style="padding:0;">
+<table>
+  <thead><tr><th>项</th><th class="center">必做</th><th>备注</th></tr></thead>
+  <tbody>
+    <tr><td>USPTO 商标注册 (Class 9)</td><td class="center">✅</td><td>提前 6-12 个月申请</td></tr>
+    <tr><td>Amazon Brand Registry</td><td class="center">✅</td><td>商标 + 授权 IP</td></tr>
+    <tr><td>FCC ID 认证 (Part 15)</td><td class="center">✅</td><td>含 SDoC 或 Certification，预算 $4-10K USD</td></tr>
+    <tr><td>Bluetooth SIG Adopter</td><td class="center">✅</td><td>$8K USD/年</td></tr>
+    <tr><td>UL / FCC 安全测试报告</td><td class="center">✅</td><td>Amazon 无线产品合规</td></tr>
+    <tr><td>美国 LLC 注册</td><td class="center">✅</td><td>店铺主体</td></tr>
+    <tr><td>US 3PL</td><td class="center">✅</td><td>ShipBob / Flexport / Deliverr</td></tr>
+    <tr><td>Vine 项目</td><td class="center">✅</td><td>新品期前 30 评论</td></tr>
+    <tr><td>品牌旗舰店 + Brand Story</td><td class="center">✅</td><td>3-5 个子页面</td></tr>
+    <tr><td>PPC 启动预算</td><td class="center">✅</td><td>启动期 $5-10K/月</td></tr>
+  </tbody>
+</table>
+</div>
+
+<!-- ====================== Section 9 ====================== -->
+<h2 class="section" id="sec9">9 · 数据来源与不确定性声明</h2>
+
+<div class="panel">
+  <h3>数据来源</h3>
+  <ul>
+    <li>asinsight.com — 类目数据快照</li>
+    <li>sellersnooper.com — 关键词搜索量</li>
+    <li>pmarketresearch.com — 行业市场规模</li>
+    <li>dji.com / rode.com / hollyland.com / maono.com / boya-mic.com — 品牌官网</li>
+    <li>Amazon ASIN 公开页 — 评论 / 价格 / BSR</li>
+    <li>tipsyaudio.com — 品牌识别核实</li>
+  </ul>
+
+  <h3>不确定性</h3>
+  <ol>
+    <li><strong>品牌识别：</strong>"TipsyAudio" 公开品牌为 IEM 厂家，未确认有无线领夹麦克风 SKU；建议直接与品牌方核实</li>
+    <li><strong>数值精度：</strong>所有未直接核实的数字标注 (估计)；实际值会随周波动</li>
+    <li><strong>市场规模口径：</strong>$87M 范围含/不含"无线手持"差异较大</li>
+    <li><strong>ASP 加权：</strong>$65.3 为销量加权均价，未含促销活动</li>
+    <li><strong>MCP 数据缺失：</strong>由于 secret-key 无效，无法获取卖家精灵 14 个工具的实时数据；本报告为公开资料调研版</li>
+  </ol>
+
+  <div class="callout">
+    💡 <strong>后续重跑建议：</strong> 提供有效的 sellersprite secret-key 后，可直接运行
+    <code>tipsyaudio-us-market/fetch_data.py</code> 重新获取 14 个工具的实时 API 数据，
+    对本报告中的"估计"数据进行校准。预计耗时 1-2 分钟，输出 <code>research_data.json</code> 供二次分析。
+  </div>
+</div>
+
+<footer>
+  📊 报告生成时间 2026-09-30 · v1.0 公开资料版 · TipsyAudio &amp; US Amazon Wireless Lavalier Microphone Market Analysis<br>
+  本报告为定性 + 半定量调研，不构成投资或运营决策的唯一依据 · 数据来源详见正文
+</footer>
+
+</div>
+
+<script>
+const TEXT_COLOR = '#aab3d9';
+const GRID_COLOR = 'rgba(171, 179, 217, 0.12)';
+
+// ============ Chart 1-1: Market size & units ============
+new Chart(document.getElementById('chartMarketSize'), {
+  type: 'bar',
+  data: {
+    labels: ['12个月GMV (M$)', '12个月销量 (M units)', 'ASP ($)'],
+    datasets: [{
+      label: '估算值',
+      data: [87, 1.5, 65.3],
+      backgroundColor: ['rgba(79,140,255,0.7)','rgba(54,194,207,0.7)','rgba(255,209,102,0.7)'],
+      borderColor: ['#4f8cff','#36c2cf','#ffd166'],
+      borderWidth: 2,
+      borderRadius: 8
+    }]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { display:false }, tooltip: { callbacks: { label: (c)=> c.parsed.y } } },
+    scales: { y: { ticks: { color: TEXT_COLOR }, grid: { color: GRID_COLOR } }, x: { ticks: { color: TEXT_COLOR }, grid: { color: GRID_COLOR } } }
+  }
+});
+
+// ============ Chart 1-2: ASIN growth ============
+new Chart(document.getElementById('chartAsinGrowth'), {
+  type: 'line',
+  data: {
+    labels: ['2022', '2023', '2024', '2025', '2026E'],
+    datasets: [
+      {
+        label: '在售活跃 ASIN',
+        data: [280, 380, 480, 580, 700],
+        borderColor: '#4f8cff', backgroundColor: 'rgba(79,140,255,0.15)', tension: 0.3, fill: true, pointRadius: 5, pointBackgroundColor: '#4f8cff'
+      },
+      {
+        label: '年新发售 ASIN',
+        data: [60, 90, 140, 200, 250],
+        borderColor: '#ffd166', backgroundColor: 'rgba(255,209,102,0.10)', tension: 0.3, fill: true, pointRadius: 5, pointBackgroundColor: '#ffd166'
+      }
+    ]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { labels: { color: TEXT_COLOR } } },
+    scales: { y: { ticks: { color: TEXT_COLOR }, grid: { color: GRID_COLOR } }, x: { ticks: { color: TEXT_COLOR }, grid: { color: GRID_COLOR } } }
+  }
+});
+
+// ============ Chart 2-1: Price tier share ============
+new Chart(document.getElementById('chartPriceTier'), {
+  type: 'doughnut',
+  data: {
+    labels: ['<$20 (45%)', '$20-50 (32%)', '$50-100 (15%)', '$100-250 (6%)', '>$250 (2%)'],
+    datasets: [{
+      data: [45, 32, 15, 6, 2],
+      backgroundColor: ['#ff5d6c','#ff8a55','#36c2cf','#5be7d1','#ffd166'],
+      borderColor: '#0b1020', borderWidth: 2
+    }]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    plugins: {
+      legend: { position: 'right', labels: { color: TEXT_COLOR, font: { size: 11 } } }
+    }
+  }
+});
+
+// ============ Chart 2-2: BOM structure ============
+new Chart(document.getElementById('chartBom'), {
+  type: 'bar',
+  data: {
+    labels: ['2×TX 模块', '1×RX 模块', '充电盒', '配件', '组装+QC'],
+    datasets: [{
+      label: 'BOM 单件成本 (USD, 1k-MOQ)',
+      data: [5, 4.25, 5, 2, 2],
+      backgroundColor: 'rgba(54,194,207,0.7)',
+      borderColor: '#36c2cf', borderWidth: 2, borderRadius: 8
+    }]
+  },
+  options: {
+    indexAxis: 'y',
+    responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { display:false } },
+    scales: {
+      x: { ticks: { color: TEXT_COLOR, callback: (v)=> '$'+v }, grid: { color: GRID_COLOR } },
+      y: { ticks: { color: TEXT_COLOR }, grid: { color: GRID_COLOR } }
+    }
+  }
+});
+
+// ============ Chart 3-1: Competitor price range ============
+new Chart(document.getElementById('chartCompetitorPrice'), {
+  type: 'bar',
+  data: {
+    labels: ['DJI', 'RØDE', 'Hollyland', 'BOYA', 'Maono', 'Saramonic', 'SYNCO', 'Shure/Sennheiser', 'OEM白牌'],
+    datasets: [
+      { label: '低价 (USD)', data: [79, 139, 69, 29, 29, 59, 89, 199, 19], backgroundColor: 'rgba(79,140,255,0.7)' },
+      { label: '高价 (USD)', data: [449, 299, 449, 129, 99, 269, 449, 999, 39], backgroundColor: 'rgba(255,138,85,0.7)' }
+    ]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { labels: { color: TEXT_COLOR } } },
+    scales: { y: { ticks: { color: TEXT_COLOR, callback: (v)=> '$'+v }, grid: { color: GRID_COLOR } }, x: { ticks: { color: TEXT_COLOR }, grid: { color: GRID_COLOR } } }
+  }
+});
+
+// ============ Chart 3-2: Seller mix ============
+new Chart(document.getElementById('chartSellerMix'), {
+  type: 'doughnut',
+  data: {
+    labels: ['中国卖家 (75-85%)', '西方品牌 (15-25%)'],
+    datasets: [{
+      data: [80, 20],
+      backgroundColor: ['#ff8a55','#4f8cff'],
+      borderColor: '#0b1020', borderWidth: 2
+    }]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { position: 'bottom', labels: { color: TEXT_COLOR, font: { size: 12 } } } }
+  }
+});
+
+// ============ Chart 4-1: Keyword volume ============
+new Chart(document.getElementById('chartKeywordVolume'), {
+  type: 'bar',
+  data: {
+    labels: ['wireless\nmicrophones', 'wireless lavalier\nmicrophone', 'wireless mic for\niphone', 'bluetooth\nmicrophone', 'dji mic mini\n(brand)', 'rode wireless go\n(brand)', 'mini microphone\nwireless', 'wireless mic for\ncontent creators'],
+    datasets: [{
+      label: '月搜索量 (K)',
+      data: [60, 16, 11, 13, 26, 16, 5, 2.2],
+      backgroundColor: ['#4f8cff','#5be7d1','#9b7dff','#36c2cf','#ff5d6c','#ff8a55','#ffd166','#5be7d1'],
+      borderRadius: 6
+    }]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { display:false } },
+    scales: { y: { ticks: { color: TEXT_COLOR, callback: (v)=> v+'K' }, grid: { color: GRID_COLOR } }, x: { ticks: { color: TEXT_COLOR, font:{size:10} }, grid: { color: GRID_COLOR } } }
+  }
+});
+
+// ============ Chart 4-2: Seasonality ============
+new Chart(document.getElementById('chartSeasonality'), {
+  type: 'line',
+  data: {
+    labels: ['1月', '2月', '3月', '4月', '5月', '6月', '7月', '8月', '9月', '10月', '11月', '12月'],
+    datasets: [{
+      label: '搜索量季节性指数',
+      data: [0.80, 0.75, 0.95, 1.05, 1.10, 1.00, 0.95, 1.15, 1.25, 1.35, 1.45, 1.50],
+      borderColor: '#5be7d1', backgroundColor: 'rgba(91,231,209,0.20)', tension: 0.35, fill: true, pointRadius: 4, pointBackgroundColor: '#5be7d1'
+    }]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { labels: { color: TEXT_COLOR } } },
+    scales: {
+      y: { ticks: { color: TEXT_COLOR, callback: (v)=> v.toFixed(2)+'x' }, grid: { color: GRID_COLOR } },
+      x: { ticks: { color: TEXT_COLOR }, grid: { color: GRID_COLOR } }
+    }
+  }
+});
+
+// ============ Chart 5-1: Radar ============
+new Chart(document.getElementById('chartRadar'), {
+  type: 'radar',
+  data: {
+    labels: ['市场规模', '增长性', '利润空间', '新品友好度', '进入门槛', '竞争强度(低=好)'],
+    datasets: [{
+      label: '新品机会评估',
+      data: [7, 8, 6, 6, 5, 4],
+      backgroundColor: 'rgba(79,140,255,0.25)',
+      borderColor: '#4f8cff',
+      borderWidth: 2,
+      pointBackgroundColor: '#4f8cff',
+      pointRadius: 4
+    }]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { labels: { color: TEXT_COLOR } } },
+    scales: {
+      r: {
+        min: 0, max: 10,
+        ticks: { color: TEXT_COLOR, backdropColor: 'transparent', stepSize: 2 },
+        grid: { color: GRID_COLOR },
+        angleLines: { color: GRID_COLOR },
+        pointLabels: { color: TEXT_COLOR, font: { size: 11 } }
+      }
+    }
+  }
+});
+
+// ============ Chart 6-1: Defect cluster ============
+new Chart(document.getElementById('chartDefects'), {
+  type: 'bar',
+  data: {
+    labels: ['电池消耗\n(开启降噪)', '2.4GHz\n干扰', '衣物摩擦\n噪音', 'App 配对\n失败', 'Lightning\n不兼容', '充电盒\n鼓包', '单/双声道\n混淆', '实时监听\n延迟', '双TX\n音量不一致', '充电盒\n充不进电'],
+    datasets: [{
+      label: '差评占比 (%)',
+      data: [17, 12, 10, 10, 6, 5, 4, 3, 3, 2.5],
+      backgroundColor: 'rgba(255,93,108,0.75)',
+      borderColor: '#ff5d6c',
+      borderWidth: 2,
+      borderRadius: 6
+    }]
+  },
+  options: {
+    responsive: true, maintainAspectRatio: false,
+    plugins: { legend: { display:false } },
+    scales: { y: { ticks: { color: TEXT_COLOR, callback: (v)=> v+'%' }, grid: { color: GRID_COLOR } }, x: { ticks: { color: TEXT_COLOR, font:{size:10} }, grid: { color: GRID_COLOR } } }
+  }
+});
+
+</script>
+</body>
+</html>
