@@ -1,0 +1,140 @@
+{
+  "uk": {
+    "direction": "D2",
+    "raw_scores": {
+      "market_demand": 3,
+      "dispersion": 3,
+      "price": 3,
+      "new_opportunity": 3,
+      "demand_strength": 1,
+      "brand_compliance": 4
+    },
+    "raw_score_reasons": {
+      "market_demand": "GMV 0.79M，无大季节",
+      "dispersion": "CR10 57%",
+      "price": "毛利率 30% 健康及格",
+      "new_opportunity": "新品占比 5.7%",
+      "demand_strength": "同比 -30.8% 且环比 -10.5%",
+      "brand_compliance": "瑜伽垫无强制认证，外观专利风险低"
+    },
+    "weighted_breakdown": [
+      [
+        "market_demand",
+        3,
+        0.05,
+        0.15
+      ],
+      [
+        "dispersion",
+        3,
+        0.15,
+        0.45
+      ],
+      [
+        "price",
+        3,
+        0.25,
+        0.75
+      ],
+      [
+        "new_opportunity",
+        3,
+        0.25,
+        0.75
+      ],
+      [
+        "demand_strength",
+        1,
+        0.1,
+        0.1
+      ]
+    ],
+    "weighted_total": 3.0,
+    "tier": "T3",
+    "veto_records": [],
+    "skill_25_breakout": {
+      "next_month_growth_pct": 10.0,
+      "off_season_yoy_pct": -30.8,
+      "applied": false
+    },
+    "summary_zh": "UK 站 D2 方向 · 六维 3/3/3/3/1 · 加权 3.0 → T3 放弃",
+    "raw_kpis": {
+      "monthlyGmvUsd": 792606.35,
+      "activeAsinCount": 46331,
+      "supplyDemandRatio": 0,
+      "averagePriceUsd": 22.02,
+      "sampleSizeListings": 46331,
+      "yoyTrendPct": -30.8,
+      "monthlyTrendPct": -10.52
+    }
+  },
+  "fr": {
+    "direction": "D2",
+    "raw_scores": {
+      "market_demand": 3,
+      "dispersion": 1,
+      "price": 4,
+      "new_opportunity": 3,
+      "demand_strength": 3,
+      "brand_compliance": 4
+    },
+    "raw_score_reasons": {
+      "market_demand": "GMV 0.24M，无大季节",
+      "dispersion": "CR10 81% 高度垄断",
+      "price": "毛利率 36% 优质空间",
+      "new_opportunity": "新品占比 10.9%",
+      "demand_strength": "同比 +0.0% ±5% 波动",
+      "brand_compliance": "瑜伽垫无强制认证，外观专利风险低"
+    },
+    "weighted_breakdown": [
+      [
+        "market_demand",
+        3,
+        0.05,
+        0.15
+      ],
+      [
+        "dispersion",
+        1,
+        0.15,
+        0.15
+      ],
+      [
+        "price",
+        4,
+        0.25,
+        1.0
+      ],
+      [
+        "new_opportunity",
+        3,
+        0.25,
+        0.75
+      ],
+      [
+        "demand_strength",
+        3,
+        0.1,
+        0.3
+      ]
+    ],
+    "weighted_total": 3.1,
+    "tier": "T3",
+    "veto_records": [],
+    "skill_25_breakout": {
+      "next_month_growth_pct": 0,
+      "off_season_yoy_pct": 0,
+      "applied": false
+    },
+    "summary_zh": "FR 站 D2 方向 · 六维 3/1/4/3/3 · 加权 3.1 → T3 放弃",
+    "raw_kpis": {
+      "monthlyGmvUsd": 238166.55,
+      "activeAsinCount": 10847,
+      "supplyDemandRatio": 0,
+      "averagePriceUsd": 30.46,
+      "sampleSizeListings": 10847,
+      "yoyTrendPct": 0,
+      "monthlyTrendPct": 0
+    }
+  }
+}

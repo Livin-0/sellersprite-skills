@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "nodeIdPath": "318949011:319535011:671758011:671759011",
+      "nodeLabelPath": "Sports & Outdoors:Fitness:Yoga:Mats",
+      "products": 308,
+      "nodeLabelLocale": "马茨",
+      "nodeLabelPathLocale": "Sports & Outdoors:Fitness:瑜伽:马茨"
+    },
+    {
+      "nodeIdPath": "319535011:671758011:671759011",
+      "nodeLabelPath": "Fitness:Yoga:Mats",
+      "products": 1,
+      "nodeLabelLocale": "垫子",
+      "nodeLabelPathLocale": "健康:瑜伽:垫子"
+    }
+  ],
+  "_list_wrapped": true
+}

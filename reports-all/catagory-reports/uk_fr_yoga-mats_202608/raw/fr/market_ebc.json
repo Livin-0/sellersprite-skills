@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "label": "有A+有视频",
+      "products": 25,
+      "productsRatio": 32.05,
+      "units": 4031,
+      "unitsRatio": 38.89
+    },
+    {
+      "label": "新品无A+无视频",
+      "products": 8,
+      "productsRatio": 44.44,
+      "units": 99,
+      "unitsRatio": 5.88
+    },
+    {
+      "label": "有A+无视频",
+      "products": 31,
+      "productsRatio": 39.74,
+      "units": 5089,
+      "unitsRatio": 49.1
+    },
+    {
+      "label": "新品有A+无视频",
+      "products": 6,
+      "productsRatio": 33.33,
+      "units": 1473,
+      "unitsRatio": 87.52
+    },
+    {
+      "label": "新品无A+有视频",
+      "products": 0,
+      "productsRatio": 0.0,
+      "units": 0,
+      "unitsRatio": 0.0
+    },
+    {
+      "label": "无A+无视频",
+      "products": 21,
+      "productsRatio": 26.92,
+      "units": 1062,
+      "unitsRatio": 10.25
+    },
+    {
+      "label": "新品有A+有视频",
+      "products": 4,
+      "productsRatio": 22.22,
+      "units": 111,
+      "unitsRatio": 6.6
+    },
+    {
+      "label": "无A+有视频",
+      "products": 1,
+      "productsRatio": 1.28,
+      "units": 182,
+      "unitsRatio": 1.76
+    },
+    {
+      "label": "A+",
+      "products": 56,
+      "productsRatio": 71.79,
+      "units": 9120,
+      "unitsRatio": 88.0
+    }
+  ],
+  "_list_wrapped": true
+}

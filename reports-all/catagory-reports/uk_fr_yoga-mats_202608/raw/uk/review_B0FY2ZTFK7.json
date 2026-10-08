@@ -1,0 +1,235 @@
+{
+  "guestId": null,
+  "pages": 15,
+  "page": 1,
+  "size": 10,
+  "total": 146,
+  "took": 0,
+  "url": null,
+  "order": {
+    "field": "",
+    "desc": true
+  },
+  "items": [
+    {
+      "author": "MarcieMarline",
+      "title": "Not the best, proper, pliable yoga mat. But on for the price.",
+      "content": "A mat. Not soft and squishy to do long poses in. Rolls up badly, not a good yoga mat.",
+      "date": 1784228400000,
+      "star": 3,
+      "authorLabels": null,
+      "skus": [
+        "Colour Name: Nude / Old Rose"
+      ],
+      "images": null,
+      "videos": null,
+      "likes": 0,
+      "image": false,
+      "video": false,
+      "verified": true,
+      "vine": false,
+      "free": false,
+      "experience": false
+    },
+    {
+      "author": "Londonskippy",
+      "title": "Usable but not fantastic",
+      "content": "The mat is fine; however, the colour (I ordered the dark blue) comes off on your skin if you start to sweat/ it gets wet, so it is best suited for standing workouts.",
+      "date": 1781636400000,
+      "star": 3,
+      "authorLabels": null,
+      "skus": [
+        "Colour Name: Dark Blue / Gold"
+      ],
+      "images": null,
+      "videos": null,
+      "likes": 2,
+      "image": false,
+      "video": false,
+      "verified": true,
+      "vine": false,
+      "free": false,
+      "experience": false
+    },
+    {
+      "author": "Amazon Customer",
+      "title": "Slippery!",
+      "content": "Bought it because it was supposed to be non-slip and lo and behold my hands slide right out from under me. Utterly useless.<br>",
+      "date": 1779033600000,
+      "star": 1,
+      "authorLabels": null,
+      "skus": [
+        "Colour Name: Black / Orange"
+      ],
+      "images": null,
+      "videos": null,
+      "likes": 0,
+      "image": false,
+      "video": false,
+      "verified": false,
+      "vine": false,
+      "free": false,
+      "experience": false
+    },
+    {
+      "author": "Katerina",
+      "title": "NOT non-slip!",
+      "content": "Definitely NOT non-slip. Waste of money, wouldn’t recommend.<br>",
+      "date": 1777910400000,
+      "star": 1,
+      "authorLabels": [
+        "Verified Purchase"
+      ],
+      "skus": [
+        "Colour Name: Emerald / Mint"
+      ],
+      "images": null,
+      "videos": null,
+      "likes": 0,
+      "image": false,
+      "video": false,
+      "verified": true,
+      "vine": false,
+      "free": false,
+      "experience": false
+    },
+    {
+      "author": "Amazon Customer",
+      "title": "Incorrect thickness advertised",
+      "content": "It is just a regular yoga mat. Colours are nice. Reason for low stars is the advert photo says 6cm thickness which I wanted as it was for sound baths not yoga, so needed the extra comfort. It is in actual fact 6mm thickness, so false advertising.<br>",
+      "date": 1777219200000,
+      "star": 3,
+      "authorLabels": [
+        "Verified Purchase"
+      ],
+      "skus": [
+        "Colour Name: Black / Orange"
+      ],
+      "images": [
+        "https://m.media-amazon.com/images/I/71i5NEIm-xL._SY200.jpg",
+        "https://m.media-amazon.com/images/I/719YjG4cLsL._SY200.jpg"
+      ],
+      "videos": null,
+      "likes": 1,
+      "image": true,
+      "video": false,
+      "verified": true,
+      "vine": false,
+      "free": false,
+      "experience": false
+    },
+    {
+      "author": "Scottface",
+      "title": "Narrow",
+      "content": "This is fine - but it is very narrow (I should have checked dimensions).<br>",
+      "date": 1775836800000,
+      "star": 3,
+      "authorLabels": [
+        "Verified Purchase"
+      ],
+      "skus": [
+        "Colour Name: Wine / Purple"
+      ],
+      "images": null,
+      "videos": null,
+      "likes": 0,
+      "image": false,
+      "video": false,
+      "verified": true,
+      "vine": false,
+      "free": false,
+      "experience": false
+    },
+    {
+      "author": "Andrea Hilton",
+      "title": "No good",
+      "content": "Yes it looks nice but it is ridiculously slippery.<br>You can not do yoga or any other exercise on a slipper mat. I did read some reviews before buying and chose to try it, however I personally found it unusable and have returned it. Also it marked really easily and only used it twice. I had bought a very cheap high street sports store mat years ago which is far superior to this one.<br>",
+      "date": 1775750400000,
+      "star": 1,
+      "authorLabels": [
+        "Verified Purchase"
+      ],
+      "skus": [
+        "Colour Name: Dark Blue / Gold"
+      ],
+      "images": null,
+      "videos": null,
+      "likes": 2,
+      "image": false,
+      "video": false,
+      "verified": true,
+      "vine": false,
+      "free": false,
+      "experience": false
+    },
+    {
+      "author": "RJ",
+      "title": "Not something I’d recommend",
+      "content": "It’s an ok mat! Not the best plus there’s no straps so it all comes undone! The package was damaged and there was no protection<br>",
+      "date": 1774627200000,
+      "star": 2,
+      "authorLabels": [
+        "Verified Purchase"
+      ],
+      "skus": [
+        "Colour Name: Nude / Old Rose"
+      ],
+      "images": null,
+      "videos": null,
+      "likes": 0,
+      "image": false,
+      "video": false,
+      "verified": true,
+      "vine": false,
+      "free": false,
+      "experience": false
+    },
+    {
+      "author": "R.Milnes",
+      "title": "Cannot anchor poses as slip.",
+      "content": "High expectations but found this lacks grip. Found hands and feet slipping when deepening poses. Given to my son for rugby \" yoga\" sessions ie not proper yoga. Disappointed.<br>",
+      "date": 1773072000000,
+      "star": 2,
+      "authorLabels": [
+        "Verified Purchase"
+      ],
+      "skus": [
+        "Colour Name: Dark Blue / Gold"
+      ],
+      "images": null,
+      "videos": null,
+      "likes": 0,
+      "image": false,
+      "video": false,
+      "verified": true,
+      "vine": false,
+      "free": false,
+      "experience": false
+    },
+    {
+      "author": "jess",
+      "title": "It’s defo NOT a non slip mat",
+      "content": "This is defo NOT non stick, it’s ok for basic plank or floor exercises but anything such as a downward dog hands just slip down the mat.<br>",
+      "date": 1772380800000,
+      "star": 1,
+      "authorLabels": [
+        "Verified Purchase"
+      ],
+      "skus": [
+        "Colour Name: Nude / Old Rose"
+      ],
+      "images": null,
+      "videos": null,
+      "likes": 0,
+      "image": false,
+      "video": false,
+      "verified": true,
+      "vine": false,
+      "free": false,
+      "experience": false
+    }
+  ],
+  "terminal": null,
+  "hasNextPage": null,
+  "guestVisited": false
+}

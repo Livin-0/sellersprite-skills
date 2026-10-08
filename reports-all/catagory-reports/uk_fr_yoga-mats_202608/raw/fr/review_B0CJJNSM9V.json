@@ -1,0 +1,78 @@
+{
+  "guestId": null,
+  "pages": 1,
+  "page": 1,
+  "size": 10,
+  "total": 3,
+  "took": 0,
+  "url": null,
+  "order": {
+    "field": "",
+    "desc": true
+  },
+  "items": [
+    {
+      "author": "Jerome",
+      "title": "Efficace mais qualité moyenne",
+      "content": "Tapis épais, confortable pour faire ces séances de sport. Gros point négatif sur la qualité.Utiliser 3fois et il commence a avoir des micro déchirure. Il ne va pas durer longtemps…",
+      "date": 1757433600000,
+      "star": 3,
+      "authorLabels": [
+        "Achat vérifié"
+      ],
+      "skus": null,
+      "images": null,
+      "videos": null,
+      "likes": 0,
+      "image": false,
+      "video": false,
+      "verified": true,
+      "vine": false,
+      "free": false,
+      "experience": false
+    },
+    {
+      "author": "Antoine",
+      "title": "Très confortable mais pas pour la gym",
+      "content": null,
+      "date": 1752595200000,
+      "star": 3,
+      "authorLabels": [
+        "Achat vérifié"
+      ],
+      "skus": null,
+      "images": null,
+      "videos": null,
+      "likes": 0,
+      "image": false,
+      "video": false,
+      "verified": true,
+      "vine": false,
+      "free": false,
+      "experience": false
+    },
+    {
+      "author": "morin",
+      "title": "Bas de gamme",
+      "content": null,
+      "date": 1750521600000,
+      "star": 1,
+      "authorLabels": [
+        "Achat vérifié"
+      ],
+      "skus": null,
+      "images": null,
+      "videos": null,
+      "likes": 0,
+      "image": false,
+      "video": false,
+      "verified": true,
+      "vine": false,
+      "free": false,
+      "experience": false
+    }
+  ],
+  "terminal": null,
+  "hasNextPage": null,
+  "guestVisited": false
+}

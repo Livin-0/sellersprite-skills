@@ -1,0 +1,87 @@
+{
+  "marketplace": "GB",
+  "keyword": "yoga mat",
+  "link": "https://trends.google.com/trends/explore?hl=zh-CN&date=2021-08-30+2026-08-30&geo=GB&q=yoga+mat&gprop=froogle",
+  "items": [
+    {
+      "time": 1632009600000,
+      "value": 6
+    },
+    {
+      "time": 1651968000000,
+      "value": 6
+    },
+    {
+      "time": 1665273600000,
+      "value": 5
+    },
+    {
+      "time": 1668902400000,
+      "value": 8
+    },
+    {
+      "time": 1670716800000,
+      "value": 8
+    },
+    {
+      "time": 1673136000000,
+      "value": 6
+    },
+    {
+      "time": 1676764800000,
+      "value": 25
+    },
+    {
+      "time": 1682208000000,
+      "value": 6
+    },
+    {
+      "time": 1684627200000,
+      "value": 6
+    },
+    {
+      "time": 1699747200000,
+      "value": 7
+    },
+    {
+      "time": 1703376000000,
+      "value": 12
+    },
+    {
+      "time": 1705795200000,
+      "value": 12
+    },
+    {
+      "time": 1707004800000,
+      "value": 4
+    },
+    {
+      "time": 1717891200000,
+      "value": 24
+    },
+    {
+      "time": 1733616000000,
+      "value": 14
+    },
+    {
+      "time": 1737244800000,
+      "value": 20
+    },
+    {
+      "time": 1754179200000,
+      "value": 8
+    },
+    {
+      "time": 1774137600000,
+      "value": 28
+    },
+    {
+      "time": 1779580800000,
+      "value": 66
+    },
+    {
+      "time": 1784419200000,
+      "value": 8
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "_error": "empty (exit=1)",
+  "_stderr": ".get(\"code\") != \"OK\":                                 │\n└─────────────────────────────────────────────────────────────────────────────┘\nValueError: [asin_prediction] 响应数据解析失败: Expecting value: line 1 column \n1 (char 0)\n原始: No enum constant fr in [DE, AE, IN, JP, IT, MX, FR, ES, BR, AU, UK, US, \nCA]\n"
+}

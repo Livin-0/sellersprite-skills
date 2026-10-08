@@ -1,0 +1,163 @@
+{
+  "guestId": null,
+  "pages": 1,
+  "page": 1,
+  "size": 50,
+  "total": 1,
+  "took": 0,
+  "url": null,
+  "order": {
+    "field": "",
+    "desc": true
+  },
+  "items": [
+    {
+      "marketplace": "UK",
+      "currency": "GBP",
+      "nodeId": 671759011,
+      "nodeLabelName": "Mats",
+      "nodeIdPath": "318949011:319535011:671758011:671759011",
+      "nodeLabelPath": "Sports & Outdoors:Fitness:Yoga:Mats",
+      "nodeLabelLocale": "马茨",
+      "nodeLabelPathLocale": "Sports & Outdoors:Fitness:瑜伽:马茨",
+      "top10Images": [
+        {
+          "asin": "B0BRQQVRJW",
+          "image": "https://images-na.ssl-images-amazon.com/images/I/712Hyby6KLL._AC_US200_.jpg"
+        },
+        {
+          "asin": "B0FY2ZTFK7",
+          "image": "https://images-na.ssl-images-amazon.com/images/I/91AQ0lBW9WL._AC_US200_.jpg"
+        },
+        {
+          "asin": "B01MS8ZBY8",
+          "image": "https://images-na.ssl-images-amazon.com/images/I/71TX+EheKpL._AC_US200_.jpg"
+        },
+        {
+          "asin": "B0CLVJZBDS",
+          "image": "https://images-na.ssl-images-amazon.com/images/I/71bz2yFou7L._AC_US200_.jpg"
+        },
+        {
+          "asin": "B0BJ2CMDQH",
+          "image": "https://images-na.ssl-images-amazon.com/images/I/618DTdtF3QL._AC_US200_.jpg"
+        },
+        {
+          "asin": "B0DFR2C2J3",
+          "image": "https://images-na.ssl-images-amazon.com/images/I/61kpSr9sguL._AC_US200_.jpg"
+        },
+        {
+          "asin": "B0GVTQ5Y99",
+          "image": "https://images-na.ssl-images-amazon.com/images/I/615YYBABPNL._AC_US200_.jpg"
+        },
+        {
+          "asin": "B07BKQRWHT",
+          "image": "https://images-na.ssl-images-amazon.com/images/I/614QOsP52pL._AC_US200_.jpg"
+        },
+        {
+          "asin": "B07DGN1CDB",
+          "image": "https://images-na.ssl-images-amazon.com/images/I/91qqlKXV37L._AC_US200_.jpg"
+        },
+        {
+          "asin": "B0BQZGJ1XQ",
+          "image": "https://images-na.ssl-images-amazon.com/images/I/81xIFnHmUAL._AC_US200_.jpg"
+        }
+      ],
+      "totalProducts": 46331,
+      "ranking": 1,
+      "topProducts": 100,
+      "brands": 66,
+      "sellers": 56,
+      "totalUnits": 48117,
+      "totalRevenue": 792606.35,
+      "avgUnits": 481,
+      "avgRevenue": 7926.0,
+      "avgPrice": 22.02,
+      "avgRatings": 2000,
+      "avgRating": 4.4,
+      "avgBsr": 8497,
+      "baseAvgVolume": 15887.09,
+      "avgVolume": 969.49,
+      "baseAvgWeight": 1193.76,
+      "avgWeight": 2.6318,
+      "avgProfit": 72.61,
+      "avgSellers": 1.4,
+      "ebcProportion": 78.0,
+      "amazonSelfProportion": 11.0,
+      "fbaProportion": 38.0,
+      "fbmProportion": 46.0,
+      "sellerNation": "GB",
+      "sellerNationLabel": "英国",
+      "sellerProportion": 78.0,
+      "returnRatio": 1.0632,
+      "avgReturnRatio": 1.6226,
+      "searchToPurchaseRatio": 2.74523,
+      "top3ProductSales": 15862,
+      "top3BrandSales": 17047,
+      "top3SellerSales": 17047,
+      "top3ProductRevenue": 184701.38,
+      "top3BrandRevenue": 202030.33,
+      "top3SellerRevenue": 202030.33,
+      "top3ProductCrn": 0.3297,
+      "top3BrandCrn": 0.3543,
+      "top3SellerCrn": 0.3543,
+      "top5ProductSales": 19186,
+      "top5BrandSales": 21051,
+      "top5SellerSales": 21652,
+      "top5ProductRevenue": 245727.13,
+      "top5BrandRevenue": 282379.28,
+      "top5SellerRevenue": 276843.52,
+      "top5ProductCrn": 0.3987,
+      "top5BrandCrn": 0.4375,
+      "top5SellerCrn": 0.45,
+      "top10ProductSales": 23537,
+      "top10BrandSales": 27685,
+      "top10SellerSales": 30036,
+      "top10ProductRevenue": 317962.58,
+      "top10BrandRevenue": 363039.89,
+      "top10SellerRevenue": 412693.12,
+      "top10ProductCrn": 0.4892,
+      "top10BrandCrn": 0.5754,
+      "top10SellerCrn": 0.6242,
+      "top20ProductSales": 29616,
+      "top20BrandSales": 35373,
+      "top20SellerSales": 38315,
+      "top20ProductRevenue": 403472.46,
+      "top20BrandRevenue": 505571.81,
+      "top20SellerRevenue": 558678.9,
+      "top20ProductCrn": 0.6155,
+      "top20BrandCrn": 0.7351,
+      "top20SellerCrn": 0.7963,
+      "l1NewRatio": 0.01,
+      "l1NewCount": 1,
+      "l1NewAvgPrice": 7.99,
+      "l1NewAvgReviews": 3,
+      "l1NewAvgRating": 4.6,
+      "l1NewAvgSales": 472,
+      "l1NewAvgRevenue": 3771.28,
+      "l3NewRatio": 0.03,
+      "l3NewCount": 3,
+      "l3NewAvgPrice": 14.42,
+      "l3NewAvgReviews": 54,
+      "l3NewAvgRating": 4.5,
+      "l3NewAvgSales": 253,
+      "l3NewAvgRevenue": 3035.2,
+      "l6NewRatio": 0.11,
+      "l6NewCount": 11,
+      "l6NewAvgPrice": 20.2,
+      "l6NewAvgReviews": 37,
+      "l6NewAvgRating": 4.1,
+      "l6NewAvgSales": 261,
+      "l6NewAvgRevenue": 3965.49,
+      "l12NewRatio": 0.2,
+      "l12NewCount": 20,
+      "l12NewAvgPrice": 17.25,
+      "l12NewAvgReviews": 274,
+      "l12NewAvgRating": 4.3,
+      "l12NewAvgSales": 566,
+      "l12NewAvgRevenue": 8012.63
+    }
+  ],
+  "terminal": null,
+  "hasNextPage": null,
+  "guestVisited": false
+}

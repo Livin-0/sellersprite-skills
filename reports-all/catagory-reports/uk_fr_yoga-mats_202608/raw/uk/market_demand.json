@@ -1,0 +1,61 @@
+{
+  "asinCount": 181751,
+  "returnRatio": 1.1271,
+  "searchToPurchaseRatio": 3.13345,
+  "avgReturnRatio": 1.8555,
+  "avgSearchToPurchaseRatio": 2.869,
+  "items": [
+    {
+      "date": "2025-06-01",
+      "glanceViews": 236775
+    },
+    {
+      "date": "2025-07-01",
+      "glanceViews": 774295
+    },
+    {
+      "date": "2025-08-01",
+      "glanceViews": 709425
+    },
+    {
+      "date": "2025-09-01",
+      "glanceViews": 711402
+    },
+    {
+      "date": "2025-10-01",
+      "glanceViews": 729991
+    },
+    {
+      "date": "2025-11-01",
+      "glanceViews": 813640
+    },
+    {
+      "date": "2025-12-01",
+      "glanceViews": 780940
+    },
+    {
+      "date": "2026-01-01",
+      "glanceViews": 997073
+    },
+    {
+      "date": "2026-02-01",
+      "glanceViews": 760847
+    },
+    {
+      "date": "2026-03-01",
+      "glanceViews": 756641
+    },
+    {
+      "date": "2026-04-01",
+      "glanceViews": 726973
+    },
+    {
+      "date": "2026-05-01",
+      "glanceViews": 767121
+    },
+    {
+      "date": "2026-06-01",
+      "glanceViews": 465972
+    }
+  ]
+}

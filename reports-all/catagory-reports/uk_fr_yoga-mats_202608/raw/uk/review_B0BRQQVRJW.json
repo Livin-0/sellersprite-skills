@@ -1,0 +1,62 @@
+{
+  "guestId": null,
+  "pages": 1,
+  "page": 1,
+  "size": 10,
+  "total": 2,
+  "took": 0,
+  "url": null,
+  "order": {
+    "field": "",
+    "desc": true
+  },
+  "items": [
+    {
+      "author": "MissMarshBeams",
+      "title": "Strap was missing",
+      "content": null,
+      "date": 1776614400000,
+      "star": 3,
+      "authorLabels": [
+        "Verified Purchase"
+      ],
+      "skus": [
+        "Colour Name: Teal"
+      ],
+      "images": null,
+      "videos": null,
+      "likes": 1,
+      "image": false,
+      "video": false,
+      "verified": true,
+      "vine": false,
+      "free": false,
+      "experience": false
+    },
+    {
+      "author": "sophie",
+      "title": "Good",
+      "content": "The yoga mat is thick and comfortable and offers support, especially when in happy baby pose etc however, it does move around underfoot and if your hands get a little clammy you will feel yourself start to slip slightly. I love the vibrant colour and it is a nice long mat. Overall decent for the price paid.",
+      "date": 1772380800000,
+      "star": 3,
+      "authorLabels": [
+        "Verified Purchase"
+      ],
+      "skus": [
+        "Colour Name: Teal"
+      ],
+      "images": null,
+      "videos": null,
+      "likes": 2,
+      "image": false,
+      "video": false,
+      "verified": true,
+      "vine": false,
+      "free": false,
+      "experience": false
+    }
+  ],
+  "terminal": null,
+  "hasNextPage": null,
+  "guestVisited": false
+}

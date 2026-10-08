@@ -1,0 +1,10 @@
+{
+  "_comment": "开发调试模式配置（V3.1 配套）。修改后无需重启 IDE，下次运行脚本即生效。",
+  "mock_mode": true,
+  "active_sites": ["fr"],
+  "mock_data_path": "mock_data",
+  "request_interval": 1.5,
+  "max_retries": 3,
+  "batch_size": 3,
+  "rate_limit_per_min": 40
+}

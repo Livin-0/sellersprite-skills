@@ -1,0 +1,1579 @@
+{
+  "guestId": null,
+  "pages": 1,
+  "page": 1,
+  "size": 15,
+  "total": 10,
+  "took": 27,
+  "url": null,
+  "order": {
+    "field": "",
+    "desc": true
+  },
+  "items": [
+    {
+      "marketplace": "UK",
+      "keywords": "yoga mats",
+      "searches": 9825,
+      "purchases": 207,
+      "growth": -10.519125,
+      "purchaseRate": 0.0211,
+      "products": 3465,
+      "supplyDemandRatio": 2.84,
+      "searchDepartments": [
+        {
+          "code": "sports",
+          "label": "Sports & Outdoors",
+          "total": 9825,
+          "ratio": 1.0
+        }
+      ],
+      "month": "2026.07",
+      "supplement": "N",
+      "searchMonthlyCv": -4373,
+      "searchMonthlyCr": -30.8,
+      "searchNearlyCv": -1155,
+      "searchNearlyCr": -10.52,
+      "currency": "£",
+      "avgPrice": 8.99,
+      "avgRatings": 3524,
+      "avgRating": 4.4,
+      "relationAsinList": [
+        {
+          "asin": "B0BMGCKQT4",
+          "imageUrl": "https://m.media-amazon.com/images/I/41jpef22smL._AC_US200_.jpg",
+          "price": 10.99,
+          "ratings": 6590,
+          "rating": 4.5,
+          "title": "OZE SPORTS Yoga Mat, NBR Foam, Extra Thick, Non-Slip, High Density, Large, for Pilates, Gymnastics, HiiT and Fitness, with Free Carry Strap"
+        },
+        {
+          "asin": "B0BMGBYSDS",
+          "imageUrl": "https://m.media-amazon.com/images/I/41rLXeMbGbL._AC_US200_.jpg",
+          "price": 9.99,
+          "ratings": 6590,
+          "rating": 4.5,
+          "title": "OZE SPORTS Yoga Mat, NBR Foam, Extra Thick, Non-Slip, High Density, Large, for Pilates, Gymnastics, HiiT and Fitness, with Free Carry Strap"
+        },
+        {
+          "asin": "B0BRQQVRJW",
+          "imageUrl": "https://m.media-amazon.com/images/I/41VbJ1CXZIL._AC_US200_.jpg",
+          "price": 8.99,
+          "ratings": 4068,
+          "rating": 4.4,
+          "title": "KAYMAN Yoga Mat – Multi-Purpose Extra Thick Foam Exercise Mats – Ideal Floor Mat for Pilates, Stretching, Resistance Workout & Therapy – Home & Gym Equipment Accessory"
+        },
+        {
+          "asin": "B0CM47GRPT",
+          "imageUrl": "https://m.media-amazon.com/images/I/41sKdXcl9IL._AC_US200_.jpg",
+          "price": 9.97,
+          "ratings": 6589,
+          "rating": 4.5,
+          "title": "OZE SPORTS Yoga Mat, NBR Foam, Extra Thick, Non-Slip, High Density, Large, for Pilates, Gymnastics, HiiT and Fitness, with Free Carry Strap"
+        },
+        {
+          "asin": "B0BMGCTJQV",
+          "imageUrl": "https://m.media-amazon.com/images/I/5113yE+VM8L._AC_US200_.jpg",
+          "price": 9.99,
+          "ratings": 6590,
+          "rating": 4.5,
+          "title": "OZE SPORTS Yoga Mat, NBR Foam, Extra Thick, Non-Slip, High Density, Large, for Pilates, Gymnastics, HiiT and Fitness, with Free Carry Strap"
+        },
+        {
+          "asin": "B0BMGB6FTQ",
+          "imageUrl": "https://m.media-amazon.com/images/I/411aKoEvdgL._AC_US200_.jpg",
+          "price": 9.99,
+          "ratings": 6590,
+          "rating": 4.5,
+          "title": "OZE SPORTS Yoga Mat, NBR Foam, Extra Thick, Non-Slip, High Density, Large, for Pilates, Gymnastics, HiiT and Fitness, with Free Carry Strap"
+        },
+        {
+          "asin": "B098TNYB1X",
+          "imageUrl": "https://m.media-amazon.com/images/I/41q1kNrh7wL._AC_US200_.jpg",
+          "price": 8.99,
+          "ratings": 4068,
+          "rating": 4.4,
+          "title": "KAYMAN Yoga Mat – Multi-Purpose Extra Thick Foam Exercise Mats – Ideal Floor Mat for Pilates, Stretching, Resistance Workout & Therapy – Home & Gym Equipment Accessory"
+        },
+        {
+          "asin": "B095SY8HJ1",
+          "imageUrl": "https://m.media-amazon.com/images/I/41XgD2e0fVL._AC_US200_.jpg",
+          "price": 7.89,
+          "ratings": 3524,
+          "rating": 4.5,
+          "title": "NBR Yoga Mat Exercise Fitness foam Extra Thick Non-Slip Large Padded High Density for Pilates gymnastics stretching Workout with Free Carry Strap"
+        },
+        {
+          "asin": "B0BJ2CMDQH",
+          "imageUrl": "https://m.media-amazon.com/images/I/41J2tTnRvIL._AC_US200_.jpg",
+          "price": 25.99,
+          "ratings": 1132,
+          "rating": 4.7,
+          "title": "Gymnastic Tumble Exercise Mat Non Slip PU Leather Surface High Density Polyether Material 6FT Long Tri Folding Crash With Carry Handles perfect for gymnastics yoga Pilates"
+        },
+        {
+          "asin": "B098TPC6S9",
+          "imageUrl": "https://m.media-amazon.com/images/I/41MKOud2cnL._AC_US200_.jpg",
+          "price": 8.99,
+          "ratings": 4068,
+          "rating": 4.4,
+          "title": "KAYMAN Yoga Mat – Multi-Purpose Extra Thick Foam Exercise Mats – Ideal Floor Mat for Pilates, Stretching, Resistance Workout & Therapy – Home & Gym Equipment Accessory"
+        }
+      ],
+      "bidMin": 0.44,
+      "bidMax": 0.74,
+      "bid": 0.59,
+      "araAsinList": [
+        {
+          "asin": "B095SY8HJ1",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/41XgD2e0fVL._AC_US200_.jpg",
+          "clickRate": 0.3236,
+          "conversionShareRate": 0.0069
+        },
+        {
+          "asin": "B0FY2ZTFK7",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/41V4u0m8LaL._AC_US200_.jpg",
+          "clickRate": 0.0698,
+          "conversionShareRate": 0.0069
+        },
+        {
+          "asin": "B098TNYB1X",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/41q1kNrh7wL._AC_US200_.jpg",
+          "clickRate": 0.0455,
+          "conversionShareRate": 0.0275
+        }
+      ],
+      "araClickRate": 0.4388,
+      "araShareRate": 0.0413,
+      "goodsValue": 0.1057,
+      "marketPeriod": "N",
+      "brand": null,
+      "hasBrandWord": false,
+      "keywordCn": "瑜伽垫",
+      "brands": [
+        "Sparta",
+        "Yogii",
+        "KAYMAN"
+      ],
+      "categories": [
+        "Sports",
+        "Home",
+        "Apparel"
+      ],
+      "titleDensityExact": 10,
+      "clicks": 4766,
+      "impressions": 273193,
+      "topAsins": null
+    },
+    {
+      "marketplace": "UK",
+      "keywords": "yoga matters mats",
+      "searches": 616,
+      "purchases": 3,
+      "growth": -5.230769,
+      "purchaseRate": 0.0048,
+      "products": 190,
+      "supplyDemandRatio": 3.24,
+      "searchDepartments": [
+        {
+          "code": "sports",
+          "label": "Sports & Outdoors",
+          "total": 616,
+          "ratio": 1.0
+        }
+      ],
+      "month": "2026.07",
+      "supplement": "N",
+      "searchMonthlyCv": 123,
+      "searchMonthlyCr": 24.95,
+      "searchNearlyCv": -152,
+      "searchNearlyCr": -18.95,
+      "currency": "£",
+      "avgPrice": 32.0,
+      "avgRatings": 789,
+      "avgRating": 4.5,
+      "relationAsinList": [
+        {
+          "asin": "B0D7MLM452",
+          "imageUrl": "https://m.media-amazon.com/images/I/41m5EPJ5bKL._AC_US200_.jpg",
+          "price": 33.0,
+          "ratings": 789,
+          "rating": 4.6,
+          "title": "Yogamatters Sticky Yoga Mat - Original | Non-Slip | Workout Exercise Gym Mat | 4.5mm"
+        },
+        {
+          "asin": "B079S78QS1",
+          "imageUrl": "https://m.media-amazon.com/images/I/41Aj0fzbULL._AC_US200_.jpg",
+          "price": 32.0,
+          "ratings": 789,
+          "rating": 4.6,
+          "title": "Yogamatters Sticky Yoga Mat - Original | Non-Slip | Workout Exercise Gym Mat | 4.5mm"
+        },
+        {
+          "asin": "B0BMGB6FTQ",
+          "imageUrl": "https://m.media-amazon.com/images/I/411aKoEvdgL._AC_US200_.jpg",
+          "price": 9.99,
+          "ratings": 6590,
+          "rating": 4.5,
+          "title": "OZE SPORTS Yoga Mat, NBR Foam, Extra Thick, Non-Slip, High Density, Large, for Pilates, Gymnastics, HiiT and Fitness, with Free Carry Strap"
+        },
+        {
+          "asin": "B0999HDCS4",
+          "imageUrl": "https://m.media-amazon.com/images/I/21ESlnAUmBS._AC_US200_.jpg",
+          "price": 70.0,
+          "ratings": 3,
+          "rating": 5.0,
+          "title": "Yogamatters Eco Cork Yoga Mat 4mm | Eco Friendly and Vegan | Natural Rubber Base | Non-Slip Exercise Mat for Yoga, Pilates, Gym and Fitness"
+        },
+        {
+          "asin": "B0BRQQVRJW",
+          "imageUrl": "https://m.media-amazon.com/images/I/41VbJ1CXZIL._AC_US200_.jpg",
+          "price": 8.99,
+          "ratings": 4069,
+          "rating": 4.4,
+          "title": "KAYMAN Yoga Mat – Multi-Purpose Extra Thick Foam Exercise Mats – Ideal Floor Mat for Pilates, Stretching, Resistance Workout & Therapy – Home & Gym Equipment Accessory"
+        },
+        {
+          "asin": "B0FY33BPQM",
+          "imageUrl": "https://m.media-amazon.com/images/I/41O2enDdnfL._AC_US200_.jpg",
+          "price": 17.99,
+          "ratings": 3405,
+          "rating": 4.4,
+          "title": "Yogii Yoga Mat - Non-Slip 6mm Thick TPE & Travel-friendly Yoga Mat - Perfect for Home & Gym Exercise Fitness & Pilates - With Laser Alignment Guides for Men & Women"
+        },
+        {
+          "asin": "B0FY345Z19",
+          "imageUrl": "https://m.media-amazon.com/images/I/41Yg3dUDRjL._AC_US200_.jpg",
+          "price": 17.99,
+          "ratings": 3405,
+          "rating": 4.4,
+          "title": "Yogii Yoga Mat - Non-Slip 6mm Thick TPE & Travel-friendly Yoga Mat - Perfect for Home & Gym Exercise Fitness & Pilates - With Laser Alignment Guides for Men & Women"
+        },
+        {
+          "asin": "B0CJ39LHNX",
+          "imageUrl": "https://m.media-amazon.com/images/I/41xYUJtQhEL._AC_US200_.jpg",
+          "price": 24.99,
+          "ratings": 7676,
+          "rating": 4.4,
+          "title": "YOGATI Yoga Mat with Alignment Lines. Yoga Mats with carry strap perfect for Pilates and Fitness Workout, Eco Friendly Non Slip Thick Yoga Mats for women and men - Yoga Matt."
+        },
+        {
+          "asin": "B0F54Q6L4P",
+          "imageUrl": "https://m.media-amazon.com/images/I/41nH4S-MVSL._AC_US200_.jpg",
+          "price": 16.99,
+          "ratings": 3405,
+          "rating": 4.4,
+          "title": "Yogii Yoga Mat - Non-Slip 6mm Thick TPE & Travel-friendly Yoga Mat - Perfect for Home & Gym Exercise Fitness & Pilates - With Laser Alignment Guides for Men & Women"
+        },
+        {
+          "asin": "B08SLNVT61",
+          "imageUrl": "https://m.media-amazon.com/images/I/41lJpeRoIwL._AC_US200_.jpg",
+          "price": 32.29,
+          "ratings": 1741,
+          "rating": 4.4,
+          "title": "CAMBIVO Non-Slip TPE Yoga Mat for Home Gym & Pilates – 6mm/8mm Cushioning for Joint Support – Double-Sided Grip Exercise Mat for Stretching, Meditation & Fitness (Carry Strap Included)"
+        }
+      ],
+      "bidMin": 0.32,
+      "bidMax": 0.54,
+      "bid": 0.43,
+      "araAsinList": [
+        {
+          "asin": "B07JMWXD72",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/31UI1iikcQL._AC_US200_.jpg",
+          "clickRate": 0.2857,
+          "conversionShareRate": 0.0
+        },
+        {
+          "asin": "B079S78QS1",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/41Aj0fzbULL._AC_US200_.jpg",
+          "clickRate": 0.2143,
+          "conversionShareRate": 0.0
+        },
+        {
+          "asin": "B0B9YR9HP4",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/41GebCNy6mL._AC_US200_.jpg",
+          "clickRate": 0.1429,
+          "conversionShareRate": 0.0
+        }
+      ],
+      "araClickRate": 0.6427,
+      "araShareRate": 0.0,
+      "goodsValue": 0.0256,
+      "marketPeriod": "N",
+      "brand": null,
+      "hasBrandWord": false,
+      "keywordCn": "瑜伽垫",
+      "brands": [
+        "Yogamatters",
+        "Yogii",
+        "cambivo"
+      ],
+      "categories": [
+        "Sports"
+      ],
+      "titleDensityExact": 0,
+      "clicks": 297,
+      "impressions": 15495,
+      "topAsins": null
+    },
+    {
+      "marketplace": "UK",
+      "keywords": "lifeform yoga mats",
+      "searches": 314,
+      "purchases": 2,
+      "growth": -66.20022,
+      "purchaseRate": 0.0048,
+      "products": 149,
+      "supplyDemandRatio": 2.11,
+      "searchDepartments": [],
+      "month": "2026.07",
+      "supplement": "N",
+      "searchMonthlyCv": -1435,
+      "searchMonthlyCr": -82.05,
+      "searchNearlyCv": -615,
+      "searchNearlyCr": -66.2,
+      "currency": "£",
+      "avgPrice": 129.95,
+      "avgRatings": 3077,
+      "avgRating": 4.5,
+      "relationAsinList": [
+        {
+          "asin": "B01CGLCGRA",
+          "imageUrl": "https://m.media-amazon.com/images/I/21kdKJj8JuL._AC_US200_.jpg",
+          "price": 129.95,
+          "ratings": 3003,
+          "rating": 4.7,
+          "title": "Liforme Original Yoga Mat – Free Yoga Bag Included - Patented Alignment System, Warrior-like Grip, Non-slip, Eco-friendly and Biodegradable, sweat-resistant, long, wide, 4.2mm thick mat for comfort"
+        },
+        {
+          "asin": "B0CF63V362",
+          "imageUrl": "https://m.media-amazon.com/images/I/31Y3-cIdzRL._AC_US200_.jpg",
+          "price": 129.95,
+          "ratings": 3000,
+          "rating": 4.7,
+          "title": "Liforme Original Yoga Mat – Free Yoga Bag Included - Patented Alignment System, Warrior-like Grip, Non-slip, Eco-friendly and Biodegradable, sweat-resistant, long, wide, 4.2mm thick mat for comfort"
+        },
+        {
+          "asin": "B01CGLCG8O",
+          "imageUrl": "https://m.media-amazon.com/images/I/31l6JOCTLlL._AC_US200_.jpg",
+          "price": 128.0,
+          "ratings": 3006,
+          "rating": 4.7,
+          "title": "Liforme Original Yoga Mat – Free Yoga Bag Included - Patented Alignment System, Warrior-like Grip, Non-slip, Eco-friendly and Biodegradable, sweat-resistant, long, wide, 4.2mm thick mat for comfort"
+        },
+        {
+          "asin": "B099KC3XNW",
+          "imageUrl": "https://m.media-amazon.com/images/I/41Hmv+BAQzS._AC_US200_.jpg",
+          "price": 124.95,
+          "ratings": 847,
+          "rating": 4.4,
+          "title": "Liforme Travel Yoga mat – Patented Alignment System, Warrior-like Grip, Non-slip, Eco-friendly and Biodegradable, Ultra-lightweight, Sweat resistant, Long, Wide and Thick"
+        },
+        {
+          "asin": "B01CI6SO1A",
+          "imageUrl": "https://m.media-amazon.com/images/I/21kdKJj8JuL._AC_US200_.jpg",
+          "price": 102.0,
+          "ratings": 847,
+          "rating": 4.4,
+          "title": "Liforme Travel Yoga mat – Patented Alignment System, Warrior-like Grip, Non-slip, Eco-friendly and Biodegradable, Ultra-lightweight, Sweat resistant, Long, Wide and Thick"
+        },
+        {
+          "asin": "B0999GQTG8",
+          "imageUrl": "https://m.media-amazon.com/images/I/31YtD5Rn46L._AC_US200_.jpg",
+          "price": 154.95,
+          "ratings": 261,
+          "rating": 4.7,
+          "title": "Liforme Printed Yoga Mat Collection - Free Yoga Bag, Patented Alignment System, Warrior-like Grip, Non-Slip, Eco-friendly, Sweat-resistant, Long, Wide and Thick for Comfort"
+        },
+        {
+          "asin": "B09K4FNFXW",
+          "imageUrl": "https://m.media-amazon.com/images/I/31FSB8UdUDL._AC_US200_.jpg",
+          "price": 124.95,
+          "ratings": 847,
+          "rating": 4.4,
+          "title": "Liforme Travel Yoga mat – Patented Alignment System, Warrior-like Grip, Non-slip, Eco-friendly and Biodegradable, Ultra-lightweight, Sweat resistant, Long, Wide and Thick"
+        },
+        {
+          "asin": "B09X3P6P9M",
+          "imageUrl": "https://m.media-amazon.com/images/I/31GFjqFJ6SL._AC_US200_.jpg",
+          "price": 173.0,
+          "ratings": 69,
+          "rating": 4.8,
+          "title": "Liforme XL Yoga Mat – Free Yoga Bag Included - Patented Alignment System, Warrior-like Grip, Non-slip, Eco-friendly, sweat-resistant, long, wide, 4.2mm thick mat for comfort"
+        },
+        {
+          "asin": "B01N5V8XHK",
+          "imageUrl": "https://m.media-amazon.com/images/I/31bgQkxNejL._AC_US200_.jpg",
+          "price": 134.95,
+          "ratings": 653,
+          "rating": 4.6,
+          "title": "Liforme Special Yoga Mat - Free Yoga Bag Included - Patented Alignment System, Warrior-Like Grip, Non-Slip, Biodegradable"
+        },
+        {
+          "asin": "B01N07RHTB",
+          "imageUrl": "https://m.media-amazon.com/images/I/31Iwwv6rI2L._AC_US200_.jpg",
+          "price": 103.67,
+          "ratings": 181,
+          "rating": 4.4,
+          "title": "Liforme Evolve Yoga Mat – Free Yoga Bag, Patented Alignment System, Warrior-like Grip, Non-slip, Eco-friendly and Biodegradable, sweat-resistant, long, wide and 4.2mm thick mat for comfort"
+        }
+      ],
+      "bidMin": 0.25,
+      "bidMax": 0.41,
+      "bid": 0.33,
+      "araAsinList": [
+        {
+          "asin": "B0CF63V362",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/31Y3-cIdzRL._AC_US200_.jpg",
+          "clickRate": 0.2727,
+          "conversionShareRate": 0.0
+        },
+        {
+          "asin": "B01CGLCGRA",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/31CUWHm+UHL._AC_US200_.jpg",
+          "clickRate": 0.1818,
+          "conversionShareRate": 0.0
+        },
+        {
+          "asin": "B09X66N6GX",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/210iU8j-21L._AC_US200_.jpg",
+          "clickRate": 0.1212,
+          "conversionShareRate": 0.0
+        }
+      ],
+      "araClickRate": 0.5756,
+      "araShareRate": 0.0,
+      "goodsValue": 0.0099,
+      "marketPeriod": "N",
+      "brand": null,
+      "hasBrandWord": false,
+      "keywordCn": "Lifeform 瑜伽垫",
+      "brands": [
+        "Liforme",
+        "Yogii",
+        "Ellylife"
+      ],
+      "categories": [
+        "Sports"
+      ],
+      "titleDensityExact": 0,
+      "clicks": 148,
+      "impressions": 8064,
+      "topAsins": null
+    },
+    {
+      "marketplace": "UK",
+      "keywords": "yoga mats for women",
+      "searches": 16898,
+      "purchases": 532,
+      "growth": -8.846693,
+      "purchaseRate": 0.0315,
+      "products": 962,
+      "supplyDemandRatio": 17.57,
+      "searchDepartments": [
+        {
+          "code": "Luggage",
+          "label": "Luggage",
+          "total": null,
+          "ratio": null
+        },
+        {
+          "code": "sports",
+          "label": "Sports & Outdoors",
+          "total": 16590,
+          "ratio": 0.981773
+        },
+        {
+          "code": "fashion",
+          "label": "Fashion",
+          "total": 308,
+          "ratio": 0.01822701
+        }
+      ],
+      "month": "2026.07",
+      "supplement": "N",
+      "searchMonthlyCv": -23283,
+      "searchMonthlyCr": -57.95,
+      "searchNearlyCv": -4986,
+      "searchNearlyCr": -21.2,
+      "currency": "£",
+      "avgPrice": 16.99,
+      "avgRatings": 3524,
+      "avgRating": 4.5,
+      "relationAsinList": [
+        {
+          "asin": "B0BMGCKQT4",
+          "imageUrl": "https://m.media-amazon.com/images/I/41jpef22smL._AC_US200_.jpg",
+          "price": 10.99,
+          "ratings": 6590,
+          "rating": 4.5,
+          "title": "OZE SPORTS Yoga Mat, NBR Foam, Extra Thick, Non-Slip, High Density, Large, for Pilates, Gymnastics, HiiT and Fitness, with Free Carry Strap"
+        },
+        {
+          "asin": "B0BMGBYSDS",
+          "imageUrl": "https://m.media-amazon.com/images/I/41rLXeMbGbL._AC_US200_.jpg",
+          "price": 9.99,
+          "ratings": 6590,
+          "rating": 4.5,
+          "title": "OZE SPORTS Yoga Mat, NBR Foam, Extra Thick, Non-Slip, High Density, Large, for Pilates, Gymnastics, HiiT and Fitness, with Free Carry Strap"
+        },
+        {
+          "asin": "B0BMGB6FTQ",
+          "imageUrl": "https://m.media-amazon.com/images/I/411aKoEvdgL._AC_US200_.jpg",
+          "price": 9.99,
+          "ratings": 6590,
+          "rating": 4.5,
+          "title": "OZE SPORTS Yoga Mat, NBR Foam, Extra Thick, Non-Slip, High Density, Large, for Pilates, Gymnastics, HiiT and Fitness, with Free Carry Strap"
+        },
+        {
+          "asin": "B0GHYRWSM3",
+          "imageUrl": "https://m.media-amazon.com/images/I/41vesTII33L._AC_US200_.jpg",
+          "price": 20.82,
+          "ratings": 67,
+          "rating": 4.6,
+          "title": "HAPBEAR Foldable Yoga Mat - 183×61cm×6mm, Non-Slip TPE Exercise Mat for Home Workout, Yoga, Pilates,Stretching, & Travel, Durable & Eco-Friendly, Includes Carry Bag"
+        },
+        {
+          "asin": "B0BRQQVRJW",
+          "imageUrl": "https://m.media-amazon.com/images/I/41VbJ1CXZIL._AC_US200_.jpg",
+          "price": 8.99,
+          "ratings": 4068,
+          "rating": 4.4,
+          "title": "KAYMAN Yoga Mat – Multi-Purpose Extra Thick Foam Exercise Mats – Ideal Floor Mat for Pilates, Stretching, Resistance Workout & Therapy – Home & Gym Equipment Accessory"
+        },
+        {
+          "asin": "B0BMGCTJQV",
+          "imageUrl": "https://m.media-amazon.com/images/I/5113yE+VM8L._AC_US200_.jpg",
+          "price": 9.99,
+          "ratings": 6590,
+          "rating": 4.5,
+          "title": "OZE SPORTS Yoga Mat, NBR Foam, Extra Thick, Non-Slip, High Density, Large, for Pilates, Gymnastics, HiiT and Fitness, with Free Carry Strap"
+        },
+        {
+          "asin": "B095SY8HJ1",
+          "imageUrl": "https://m.media-amazon.com/images/I/41XgD2e0fVL._AC_US200_.jpg",
+          "price": 7.89,
+          "ratings": 3524,
+          "rating": 4.5,
+          "title": "NBR Yoga Mat Exercise Fitness foam Extra Thick Non-Slip Large Padded High Density for Pilates gymnastics stretching Workout with Free Carry Strap"
+        },
+        {
+          "asin": "B0H62QD497",
+          "imageUrl": "https://m.media-amazon.com/images/I/41niio6DqCL._AC_US200_.jpg",
+          "price": 16.99,
+          "ratings": null,
+          "rating": null,
+          "title": "Core Balance Foldable Travel Yoga Mat, Non Slip TPE Foam with Textured Grip, 4mm Thick, Folding Exercise & Pilates Mat, Lightweight, Compact & Portable, Tote Bag Included, 183cm × 61cm"
+        },
+        {
+          "asin": "B098TNYB1X",
+          "imageUrl": "https://m.media-amazon.com/images/I/41q1kNrh7wL._AC_US200_.jpg",
+          "price": 8.99,
+          "ratings": 4068,
+          "rating": 4.4,
+          "title": "KAYMAN Yoga Mat – Multi-Purpose Extra Thick Foam Exercise Mats – Ideal Floor Mat for Pilates, Stretching, Resistance Workout & Therapy – Home & Gym Equipment Accessory"
+        },
+        {
+          "asin": "B0F54Q6L4P",
+          "imageUrl": "https://m.media-amazon.com/images/I/41nH4S-MVSL._AC_US200_.jpg",
+          "price": 16.99,
+          "ratings": 3402,
+          "rating": 4.4,
+          "title": "Yogii Yoga Mat - Non-Slip 6mm Thick TPE & Travel-friendly Yoga Mat - Perfect for Home & Gym Exercise Fitness & Pilates - With Laser Alignment Guides for Men & Women"
+        }
+      ],
+      "bidMin": 0.41,
+      "bidMax": 0.69,
+      "bid": 0.55,
+      "araAsinList": [
+        {
+          "asin": "B07656SJ41",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/51SwVonhG0L._AC_US200_.jpg",
+          "clickRate": 0.1549,
+          "conversionShareRate": 0.0062
+        },
+        {
+          "asin": "B095SY8HJ1",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/41XgD2e0fVL._AC_US200_.jpg",
+          "clickRate": 0.151,
+          "conversionShareRate": 0.0023
+        },
+        {
+          "asin": "B0F54Q7RVS",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/51E8cLOu0aL._AC_US200_.jpg",
+          "clickRate": 0.1195,
+          "conversionShareRate": 0.028
+        }
+      ],
+      "araClickRate": 0.4253,
+      "araShareRate": 0.0365,
+      "goodsValue": 0.063,
+      "marketPeriod": "N",
+      "brand": null,
+      "hasBrandWord": false,
+      "keywordCn": "女性瑜伽垫",
+      "brands": [
+        "KAYMAN",
+        "Bionix Professional Support",
+        "Yogii"
+      ],
+      "categories": [
+        "Sports",
+        "Apparel",
+        "Luggage"
+      ],
+      "titleDensityExact": 9,
+      "clicks": 7078,
+      "impressions": 419165,
+      "topAsins": null
+    },
+    {
+      "marketplace": "UK",
+      "keywords": "yoga mats for men",
+      "searches": 1336,
+      "purchases": 39,
+      "growth": -18.287462,
+      "purchaseRate": 0.0292,
+      "products": 345,
+      "supplyDemandRatio": 3.87,
+      "searchDepartments": [
+        {
+          "code": "sports",
+          "label": "Sports & Outdoors",
+          "total": 1307,
+          "ratio": 0.9782934
+        },
+        {
+          "code": "diy",
+          "label": "DIY & Tools",
+          "total": 29,
+          "ratio": 0.02170659
+        }
+      ],
+      "month": "2026.07",
+      "supplement": "N",
+      "searchMonthlyCv": -2597,
+      "searchMonthlyCr": -66.03,
+      "searchNearlyCv": -531,
+      "searchNearlyCr": -24.32,
+      "currency": "£",
+      "avgPrice": 16.99,
+      "avgRatings": 4068,
+      "avgRating": 4.4,
+      "relationAsinList": [
+        {
+          "asin": "B0BMGCKQT4",
+          "imageUrl": "https://m.media-amazon.com/images/I/41jpef22smL._AC_US200_.jpg",
+          "price": 10.99,
+          "ratings": 6590,
+          "rating": 4.5,
+          "title": "OZE SPORTS Yoga Mat, NBR Foam, Extra Thick, Non-Slip, High Density, Large, for Pilates, Gymnastics, HiiT and Fitness, with Free Carry Strap"
+        },
+        {
+          "asin": "B0B9YR9HP4",
+          "imageUrl": "https://m.media-amazon.com/images/I/41GebCNy6mL._AC_US200_.jpg",
+          "price": 17.99,
+          "ratings": 3405,
+          "rating": 4.4,
+          "title": "Yogii Yoga Mat - Non-Slip 6mm Thick TPE & Travel-friendly Yoga Mat - Perfect for Home & Gym Exercise Fitness & Pilates - With Laser Alignment Guides for Men & Women"
+        },
+        {
+          "asin": "B0BRQQVRJW",
+          "imageUrl": "https://m.media-amazon.com/images/I/41VbJ1CXZIL._AC_US200_.jpg",
+          "price": 8.99,
+          "ratings": 4068,
+          "rating": 4.4,
+          "title": "KAYMAN Yoga Mat – Multi-Purpose Extra Thick Foam Exercise Mats – Ideal Floor Mat for Pilates, Stretching, Resistance Workout & Therapy – Home & Gym Equipment Accessory"
+        },
+        {
+          "asin": "B07TNH38MW",
+          "imageUrl": "https://m.media-amazon.com/images/I/41LtN9Zr86L._AC_US200_.jpg",
+          "price": 12.49,
+          "ratings": 1195,
+          "rating": 4.4,
+          "title": "ROMIX Yoga Mat Thick 10 MM Foam Exercise Mat, 180x60x1cm Non Slip Gym Mats With Carry Bag and Strap, Yoga Mats for Women Men Pilates Mat Gymnastics Meditation Home Outdoor"
+        },
+        {
+          "asin": "B01N67BRCF",
+          "imageUrl": "https://m.media-amazon.com/images/I/41Og0OB2mIL._AC_US200_.jpg",
+          "price": 17.99,
+          "ratings": 20361,
+          "rating": 4.4,
+          "title": "KG Physio Yoga Mat - Thick Yoga Mats for Women & Men, High-Density NBR Foam Excercise Mat, Non-Slip & Sweat-Resistant, Ideal for Pilates, Home Fitness and Home Workout - Strap Included"
+        },
+        {
+          "asin": "B0CM47GRPT",
+          "imageUrl": "https://m.media-amazon.com/images/I/41sKdXcl9IL._AC_US200_.jpg",
+          "price": 9.97,
+          "ratings": 6589,
+          "rating": 4.5,
+          "title": "OZE SPORTS Yoga Mat, NBR Foam, Extra Thick, Non-Slip, High Density, Large, for Pilates, Gymnastics, HiiT and Fitness, with Free Carry Strap"
+        },
+        {
+          "asin": "B08W3VYPHK",
+          "imageUrl": "https://m.media-amazon.com/images/I/41b-tDGg+4L._AC_US200_.jpg",
+          "price": 12.95,
+          "ratings": 1055,
+          "rating": 4.6,
+          "title": "Yoga Mat for Men and Women, 185 x 57 cm, Thick 8mm Cushion with Smooth and Ribbed Surfaces, Non-Slip Sweat Resistant Material for Pilates, Stretching, Fitness, and Meditation"
+        },
+        {
+          "asin": "B08W3V4NZL",
+          "imageUrl": "https://m.media-amazon.com/images/I/41TSHiTy3lL._AC_US200_.jpg",
+          "price": 10.79,
+          "ratings": 1057,
+          "rating": 4.6,
+          "title": "Yoga Mat for Men and Women, 185 x 57 cm, Thick 8mm Cushion with Smooth and Ribbed Surfaces, Non-Slip Sweat Resistant Material for Pilates, Stretching, Fitness, and Meditation"
+        },
+        {
+          "asin": "B0BS48N8KS",
+          "imageUrl": "https://m.media-amazon.com/images/I/31hKqT-jM2L._AC_US200_.jpg",
+          "price": 33.32,
+          "ratings": 576,
+          "rating": 4.6,
+          "title": "Large Exercise Mat - 10mm Extra Thick Yoga Mat & Workout Mat, 183cm x 80cm | Carry Bag Included, Non-Slip Textured TPE, Reversible Design, Home Workouts, Pilates, HIIT and Stretching"
+        },
+        {
+          "asin": "B0FY2ZPB3D",
+          "imageUrl": "https://m.media-amazon.com/images/I/41Ljx4+UJvL._AC_US200_.jpg",
+          "price": 17.99,
+          "ratings": 3402,
+          "rating": 4.4,
+          "title": "Yogii Yoga Mat - Non-Slip 6mm Thick TPE & Travel-friendly Yoga Mat - Perfect for Home & Gym Exercise Fitness & Pilates - With Laser Alignment Guides for Men & Women"
+        }
+      ],
+      "bidMin": 0.41,
+      "bidMax": 0.68,
+      "bid": 0.54,
+      "araAsinList": [
+        {
+          "asin": "B07656SJ41",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/51SwVonhG0L._AC_US200_.jpg",
+          "clickRate": 0.2346,
+          "conversionShareRate": 0.0606
+        },
+        {
+          "asin": "B0BRQQVRJW",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/41VbJ1CXZIL._AC_US200_.jpg",
+          "clickRate": 0.1451,
+          "conversionShareRate": 0.0707
+        },
+        {
+          "asin": "B0B9YR9HP4",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/41GebCNy6mL._AC_US200_.jpg",
+          "clickRate": 0.0556,
+          "conversionShareRate": 0.0505
+        }
+      ],
+      "araClickRate": 0.4352,
+      "araShareRate": 0.1818,
+      "goodsValue": 0.063,
+      "marketPeriod": "N",
+      "brand": null,
+      "hasBrandWord": false,
+      "keywordCn": "男士瑜伽垫",
+      "brands": [
+        "Bionix Professional Support",
+        "KAYMAN",
+        "Yogii"
+      ],
+      "categories": [
+        "Sports",
+        "Furniture"
+      ],
+      "titleDensityExact": 0,
+      "clicks": 598,
+      "impressions": 32109,
+      "topAsins": null
+    },
+    {
+      "marketplace": "UK",
+      "keywords": "yoga non slip mats",
+      "searches": 1182,
+      "purchases": 13,
+      "growth": 81.84615,
+      "purchaseRate": 0.0109,
+      "products": 1807,
+      "supplyDemandRatio": 0.65,
+      "searchDepartments": [
+        {
+          "code": "sports",
+          "label": "Sports & Outdoors",
+          "total": 1182,
+          "ratio": 1.0
+        }
+      ],
+      "month": "2026.07",
+      "supplement": "N",
+      "searchMonthlyCv": 1182,
+      "searchMonthlyCr": 1.0,
+      "searchNearlyCv": -291,
+      "searchNearlyCr": -99.66,
+      "currency": "£",
+      "avgPrice": 10.99,
+      "avgRatings": 4068,
+      "avgRating": 4.4,
+      "relationAsinList": [
+        {
+          "asin": "B0BMGCKQT4",
+          "imageUrl": "https://m.media-amazon.com/images/I/41jpef22smL._AC_US200_.jpg",
+          "price": 10.99,
+          "ratings": 6590,
+          "rating": 4.5,
+          "title": "OZE SPORTS Yoga Mat, NBR Foam, Extra Thick, Non-Slip, High Density, Large, for Pilates, Gymnastics, HiiT and Fitness, with Free Carry Strap"
+        },
+        {
+          "asin": "B0B9YR9HP4",
+          "imageUrl": "https://m.media-amazon.com/images/I/41GebCNy6mL._AC_US200_.jpg",
+          "price": 17.99,
+          "ratings": 3405,
+          "rating": 4.4,
+          "title": "Yogii Yoga Mat - Non-Slip 6mm Thick TPE & Travel-friendly Yoga Mat - Perfect for Home & Gym Exercise Fitness & Pilates - With Laser Alignment Guides for Men & Women"
+        },
+        {
+          "asin": "B07ZBGG4KV",
+          "imageUrl": "https://m.media-amazon.com/images/I/51Ay40f0dvL._AC_US200_.jpg",
+          "price": 12.74,
+          "ratings": 2226,
+          "rating": 4.6,
+          "title": "Core Balance TPE Exercise & Yoga Mat"
+        },
+        {
+          "asin": "B0BRQQVRJW",
+          "imageUrl": "https://m.media-amazon.com/images/I/41VbJ1CXZIL._AC_US200_.jpg",
+          "price": 8.99,
+          "ratings": 4068,
+          "rating": 4.4,
+          "title": "KAYMAN Yoga Mat – Multi-Purpose Extra Thick Foam Exercise Mats – Ideal Floor Mat for Pilates, Stretching, Resistance Workout & Therapy – Home & Gym Equipment Accessory"
+        },
+        {
+          "asin": "B0BMGCTJQV",
+          "imageUrl": "https://m.media-amazon.com/images/I/5113yE+VM8L._AC_US200_.jpg",
+          "price": 9.99,
+          "ratings": 6590,
+          "rating": 4.5,
+          "title": "OZE SPORTS Yoga Mat, NBR Foam, Extra Thick, Non-Slip, High Density, Large, for Pilates, Gymnastics, HiiT and Fitness, with Free Carry Strap"
+        },
+        {
+          "asin": "B0F54Q6L4P",
+          "imageUrl": "https://m.media-amazon.com/images/I/41nH4S-MVSL._AC_US200_.jpg",
+          "price": 16.99,
+          "ratings": 3402,
+          "rating": 4.4,
+          "title": "Yogii Yoga Mat - Non-Slip 6mm Thick TPE & Travel-friendly Yoga Mat - Perfect for Home & Gym Exercise Fitness & Pilates - With Laser Alignment Guides for Men & Women"
+        },
+        {
+          "asin": "B0FY2ZPB3D",
+          "imageUrl": "https://m.media-amazon.com/images/I/41Ljx4+UJvL._AC_US200_.jpg",
+          "price": 17.99,
+          "ratings": 3402,
+          "rating": 4.4,
+          "title": "Yogii Yoga Mat - Non-Slip 6mm Thick TPE & Travel-friendly Yoga Mat - Perfect for Home & Gym Exercise Fitness & Pilates - With Laser Alignment Guides for Men & Women"
+        },
+        {
+          "asin": "B08W3V4NZL",
+          "imageUrl": "https://m.media-amazon.com/images/I/41TSHiTy3lL._AC_US200_.jpg",
+          "price": 10.79,
+          "ratings": 1057,
+          "rating": 4.6,
+          "title": "Yoga Mat for Men and Women, 185 x 57 cm, Thick 8mm Cushion with Smooth and Ribbed Surfaces, Non-Slip Sweat Resistant Material for Pilates, Stretching, Fitness, and Meditation"
+        },
+        {
+          "asin": "B0FPCS8NJR",
+          "imageUrl": "https://m.media-amazon.com/images/I/41-nEtaQQtL._AC_US200_.jpg",
+          "price": 15.99,
+          "ratings": 85,
+          "rating": 4.6,
+          "title": "Yoga Mats for Women With Alignment Lines,TPE Mat With Storage Straps | Non-Slip,for Sports Exercise Gymnastics,Pilates,Home, Travel, Men ,Gymnastics Mat with Storage Straps ,183x61x0.6cm"
+        },
+        {
+          "asin": "B0CM47GRPT",
+          "imageUrl": "https://m.media-amazon.com/images/I/41sKdXcl9IL._AC_US200_.jpg",
+          "price": 9.97,
+          "ratings": 6589,
+          "rating": 4.5,
+          "title": "OZE SPORTS Yoga Mat, NBR Foam, Extra Thick, Non-Slip, High Density, Large, for Pilates, Gymnastics, HiiT and Fitness, with Free Carry Strap"
+        }
+      ],
+      "bidMin": 0.5,
+      "bidMax": 0.7,
+      "bid": 0.59,
+      "araAsinList": [
+        {
+          "asin": "B08SLNVT61",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/41lJpeRoIwL._AC_US200_.jpg",
+          "clickRate": 0.0816,
+          "conversionShareRate": 0.0339
+        },
+        {
+          "asin": "B0BRQQVRJW",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/41VbJ1CXZIL._AC_US200_.jpg",
+          "clickRate": 0.0816,
+          "conversionShareRate": 0.0
+        },
+        {
+          "asin": "B0BMGCKQT4",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/41jpef22smL._AC_US200_.jpg",
+          "clickRate": 0.0745,
+          "conversionShareRate": 0.0847
+        }
+      ],
+      "araClickRate": 0.2377,
+      "araShareRate": 0.1186,
+      "goodsValue": 0.0537,
+      "marketPeriod": "N",
+      "brand": null,
+      "hasBrandWord": false,
+      "keywordCn": "瑜伽防滑垫",
+      "brands": [
+        "KAYMAN",
+        "Bionix Professional Support",
+        "OZE SPORTS"
+      ],
+      "categories": [
+        "Sports",
+        "Home"
+      ],
+      "titleDensityExact": 0,
+      "clicks": 555,
+      "impressions": 27231,
+      "topAsins": null
+    },
+    {
+      "marketplace": "UK",
+      "keywords": "yoga mats 10mm",
+      "searches": 1,
+      "purchases": 1,
+      "growth": -99.91166,
+      "purchaseRate": 0.0104,
+      "products": 244,
+      "supplyDemandRatio": 0.0,
+      "searchDepartments": [
+        {
+          "code": "sports",
+          "label": "Sports & Outdoors",
+          "total": 1,
+          "ratio": 1.0
+        }
+      ],
+      "month": "2026.07",
+      "supplement": "N",
+      "searchMonthlyCv": 1,
+      "searchMonthlyCr": 1.0,
+      "searchNearlyCv": -1131,
+      "searchNearlyCr": -99.91,
+      "currency": "£",
+      "avgPrice": 18.99,
+      "avgRatings": 7540,
+      "avgRating": 4.5,
+      "relationAsinList": [
+        {
+          "asin": "B0CM47GRPT",
+          "imageUrl": "https://m.media-amazon.com/images/I/41sKdXcl9IL._AC_US200_.jpg",
+          "price": 9.97,
+          "ratings": 6590,
+          "rating": 4.5,
+          "title": "OZE SPORTS Yoga Mat, NBR Foam, Extra Thick, Non-Slip, High Density, Large, for Pilates, Gymnastics, HiiT and Fitness, with Free Carry Strap"
+        },
+        {
+          "asin": "B0GVTKRB2M",
+          "imageUrl": "https://m.media-amazon.com/images/I/41ENzkx-wmL._AC_US200_.jpg",
+          "price": 7.64,
+          "ratings": 49,
+          "rating": 4.4,
+          "title": "Yoga Mat Unisex Non-Slip Thick Foam Exercise Mat 10mm with Carry Strap – Lightweight Home Gym Equipment for Yoga, Pilates, Stretching"
+        },
+        {
+          "asin": "B01MR4MPA1",
+          "imageUrl": "https://m.media-amazon.com/images/I/41mhj0tVzBL._AC_US200_.jpg",
+          "price": 18.99,
+          "ratings": 1195,
+          "rating": 4.4,
+          "title": "ROMIX Yoga Mat Thick 10 MM Foam Exercise Mat, 180x60x1cm Non Slip Gym Mats With Carry Bag and Strap, Yoga Mats for Women Men Pilates Mat Gymnastics Meditation Home Outdoor"
+        },
+        {
+          "asin": "B07GPGGYY8",
+          "imageUrl": "https://m.media-amazon.com/images/I/41QVItb+DhL._AC_US200_.jpg",
+          "price": 15.99,
+          "ratings": 3389,
+          "rating": 4.6,
+          "title": "Core Balance NBR Pilates Mat, 10mm | Extra-Thick 10mm NBR Foam for Cushioning & Protection, Non-Slip Base, Closed-Cell Construction, Carry Strap Included"
+        },
+        {
+          "asin": "B0H41XCM2R",
+          "imageUrl": "https://m.media-amazon.com/images/I/4101s460rsL._AC_US200_.jpg",
+          "price": 15.99,
+          "ratings": 219,
+          "rating": 4.4,
+          "title": "Phoenix Fitness NBR Yoga Mat – 10mm Extra Thick, Non-Slip Exercise Mat for HIIT, Pilates & Fitness Training at Home & Gym | 183 x 61cm, Black, Pink, Navy or Sage"
+        },
+        {
+          "asin": "B0CTHSRZPG",
+          "imageUrl": "https://m.media-amazon.com/images/I/510LZVQfD+L._AC_US200_.jpg",
+          "price": 12.49,
+          "ratings": 7533,
+          "rating": 4.5,
+          "title": "Xn8 Sports Yoga mat 10mm & 15mm Thick NBR Exercise Mat - Non-Tearable Pilates Mat with Extra Carry Strap - Yoga Mats for Women Men for Aerobics Lunges Planks Indoor & Outdoor 61Lx20Wx1.5 & 1Th"
+        },
+        {
+          "asin": "B07WJWWPYD",
+          "imageUrl": "https://m.media-amazon.com/images/I/41Er69HAM0L._AC_US200_.jpg",
+          "price": 16.99,
+          "ratings": 654,
+          "rating": 4.5,
+          "title": "JLL Yoga Mat Multi-Size Extra Thick Exercise Mats Foam Pilates Mat for Home | 6mm/10mm, Multiple Colors, Non-Slip Texture,Tear-Resistant & Lightweight, Versatile, Floor Workouts, Fitness Mat"
+        },
+        {
+          "asin": "B0GVTCQ4JG",
+          "imageUrl": "https://m.media-amazon.com/images/I/41xculRw4ZL._AC_US200_.jpg",
+          "price": 7.64,
+          "ratings": 49,
+          "rating": 4.4,
+          "title": "Yoga Mat Unisex Non-Slip Thick Foam Exercise Mat 10mm with Carry Strap – Lightweight Home Gym Equipment for Yoga, Pilates, Stretching"
+        },
+        {
+          "asin": "B098MML5SR",
+          "imageUrl": "https://m.media-amazon.com/images/I/41Q9KpjP8NS._AC_US200_.jpg",
+          "price": 9.99,
+          "ratings": 206,
+          "rating": 4.4,
+          "title": "RAXTER Yoga Mat 10mm Thick, Classic Pro Non-Slip Yoga Mat- NBR for Home and Gym Workout Eco-Friendly for Men and Women’s Fitness, Pilates and Gymnastics, Planks & Floor Exercise"
+        },
+        {
+          "asin": "B08P914TRY",
+          "imageUrl": "https://m.media-amazon.com/images/I/41joSaq-NeL._AC_US200_.jpg",
+          "price": 9.99,
+          "ratings": 1207,
+          "rating": 4.4,
+          "title": "Yoga Mat Unisex Non-Slip Thick Foam Fitness Exercise Mat (10mm) Comes with Carrying Strap Lightweight Home Gym Workout Equipment for Yoga, Pilates, Stretching Gymnastics"
+        }
+      ],
+      "bidMin": 0.48,
+      "bidMax": 0.66,
+      "bid": 0.53,
+      "araAsinList": [
+        {
+          "asin": "B01MR4MPA1",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/41mhj0tVzBL._AC_US200_.jpg",
+          "clickRate": 0.1481,
+          "conversionShareRate": 0.0
+        },
+        {
+          "asin": "B0CTHS626B",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/51c8SfMk6vL._AC_US200_.jpg",
+          "clickRate": 0.1481,
+          "conversionShareRate": 0.0
+        },
+        {
+          "asin": "B0CYBHTVT9",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/41ElX0GEzrL._AC_US200_.jpg",
+          "clickRate": 0.1481,
+          "conversionShareRate": 0.0
+        }
+      ],
+      "araClickRate": 0.4442,
+      "araShareRate": 0.0,
+      "goodsValue": 0.0411,
+      "marketPeriod": "N",
+      "brand": null,
+      "hasBrandWord": false,
+      "keywordCn": "10毫米瑜伽垫",
+      "brands": [
+        "PROIRON",
+        "Xn8 Sports",
+        "ROMIX"
+      ],
+      "categories": [
+        "Sports"
+      ],
+      "titleDensityExact": 0,
+      "clicks": 0,
+      "impressions": 26,
+      "topAsins": null
+    },
+    {
+      "marketplace": "UK",
+      "keywords": "thick yoga mats 10mm",
+      "searches": 391,
+      "purchases": 2,
+      "growth": 1.0,
+      "purchaseRate": 0.0062,
+      "products": 4577,
+      "supplyDemandRatio": 0.09,
+      "searchDepartments": [
+        {
+          "code": "sports",
+          "label": "Sports & Outdoors",
+          "total": 391,
+          "ratio": 1.0
+        }
+      ],
+      "month": "2026.07",
+      "supplement": "N",
+      "searchMonthlyCv": 391,
+      "searchMonthlyCr": 1.0,
+      "searchNearlyCv": null,
+      "searchNearlyCr": null,
+      "currency": "£",
+      "avgPrice": 14.16,
+      "avgRatings": 6590,
+      "avgRating": 4.5,
+      "relationAsinList": [
+        {
+          "asin": "B0BMGB6FTQ",
+          "imageUrl": "https://m.media-amazon.com/images/I/411aKoEvdgL._AC_US200_.jpg",
+          "price": 9.99,
+          "ratings": 6590,
+          "rating": 4.5,
+          "title": "OZE SPORTS Yoga Mat, NBR Foam, Extra Thick, Non-Slip, High Density, Large, for Pilates, Gymnastics, HiiT and Fitness, with Free Carry Strap"
+        },
+        {
+          "asin": "B0GVTKRB2M",
+          "imageUrl": "https://m.media-amazon.com/images/I/41ENzkx-wmL._AC_US200_.jpg",
+          "price": 7.64,
+          "ratings": 49,
+          "rating": 4.4,
+          "title": "Yoga Mat Unisex Non-Slip Thick Foam Exercise Mat 10mm with Carry Strap – Lightweight Home Gym Equipment for Yoga, Pilates, Stretching"
+        },
+        {
+          "asin": "B07ZWPZBL9",
+          "imageUrl": "https://m.media-amazon.com/images/I/31ZkPZPyhRL._AC_US200_.jpg",
+          "price": 14.16,
+          "ratings": 654,
+          "rating": 4.5,
+          "title": "JLL Yoga Mat Multi-Size Extra Thick Exercise Mats Foam Pilates Mat for Home | 6mm/10mm, Multiple Colors, Non-Slip Texture,Tear-Resistant & Lightweight, Versatile, Floor Workouts, Fitness Mat"
+        },
+        {
+          "asin": "B07TXRXH8F",
+          "imageUrl": "https://m.media-amazon.com/images/I/4138T-FBt7L._AC_US200_.jpg",
+          "price": 14.99,
+          "ratings": 3388,
+          "rating": 4.6,
+          "title": "Core Balance NBR Pilates Mat, 10mm | Extra-Thick 10mm NBR Foam for Cushioning & Protection, Non-Slip Base, Closed-Cell Construction, Carry Strap Included"
+        },
+        {
+          "asin": "B07WJXSK32",
+          "imageUrl": "https://m.media-amazon.com/images/I/41UAa88hsnL._AC_US200_.jpg",
+          "price": 14.16,
+          "ratings": 654,
+          "rating": 4.5,
+          "title": "JLL Yoga Mat Multi-Size Extra Thick Exercise Mats Foam Pilates Mat for Home | 6mm/10mm, Multiple Colors, Non-Slip Texture,Tear-Resistant & Lightweight, Versatile, Floor Workouts, Fitness Mat"
+        },
+        {
+          "asin": "B0CYBHTVT9",
+          "imageUrl": "https://m.media-amazon.com/images/I/41ElX0GEzrL._AC_US200_.jpg",
+          "price": 22.94,
+          "ratings": 7663,
+          "rating": 4.6,
+          "title": "PROIRON Yoga Mat Thick 10/15MM - NBR Yoga Matt Exercise Fitness Foam Large Padded High Density for Pilates, Stretching, Home Gym Workout for Men Women with Free Carry Strap"
+        },
+        {
+          "asin": "B0BQZGJ1XQ",
+          "imageUrl": "https://m.media-amazon.com/images/I/31b8fLNaqJL._AC_US200_.jpg",
+          "price": 39.99,
+          "ratings": 578,
+          "rating": 4.6,
+          "title": "Large Exercise Mat - 10mm Extra Thick Yoga Mat & Workout Mat, 183cm x 80cm | Carry Bag Included, Non-Slip Textured TPE, Reversible Design, Home Workouts, Pilates, HIIT and Stretching"
+        },
+        {
+          "asin": "B0CTHT4Y4C",
+          "imageUrl": "https://m.media-amazon.com/images/I/51ZjxJqRCpL._AC_US200_.jpg",
+          "price": 11.99,
+          "ratings": 7534,
+          "rating": 4.5,
+          "title": "Xn8 Sports Yoga mat 10mm & 15mm Thick NBR Exercise Mat - Non-Tearable Pilates Mat with Extra Carry Strap - Yoga Mats for Women Men for Aerobics Lunges Planks Indoor & Outdoor 61Lx20Wx1.5 & 1Th"
+        },
+        {
+          "asin": "B0B6W8LRW3",
+          "imageUrl": "https://m.media-amazon.com/images/I/41ZgmpgsbiL._AC_US200_.jpg",
+          "price": 16.67,
+          "ratings": 985,
+          "rating": 4.5,
+          "title": "DH FitLife Yoga Mat 183x61x1cm | Extra Thick 10mm Non-Slip Exercise Mat | Joint-Friendly Cushioning | Tear-Resistant Edge | Gymnastics mat for Yoga, Pilates & Home Workouts | Carry Strap Included"
+        },
+        {
+          "asin": "B0H41XCM2R",
+          "imageUrl": "https://m.media-amazon.com/images/I/4101s460rsL._AC_US200_.jpg",
+          "price": 15.99,
+          "ratings": 219,
+          "rating": 4.4,
+          "title": "Phoenix Fitness NBR Yoga Mat – 10mm Extra Thick, Non-Slip Exercise Mat for HIIT, Pilates & Fitness Training at Home & Gym | 183 x 61cm, Black, Pink, Navy or Sage"
+        }
+      ],
+      "bidMin": null,
+      "bidMax": null,
+      "bid": null,
+      "araAsinList": [
+        {
+          "asin": "B0CYBHTVT9",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/41ElX0GEzrL._AC_US200_.jpg",
+          "clickRate": 0.2286,
+          "conversionShareRate": 0.1111
+        },
+        {
+          "asin": "B0BMGB6FTQ",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/411aKoEvdgL._AC_US200_.jpg",
+          "clickRate": 0.1429,
+          "conversionShareRate": 0.1111
+        },
+        {
+          "asin": "B07WJXSK32",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/41UAa88hsnL._AC_US200_.jpg",
+          "clickRate": 0.1429,
+          "conversionShareRate": 0.0
+        }
+      ],
+      "araClickRate": 0.5144,
+      "araShareRate": 0.2222,
+      "goodsValue": null,
+      "marketPeriod": "N",
+      "brand": null,
+      "hasBrandWord": false,
+      "keywordCn": null,
+      "brands": [
+        "PROIRON",
+        "JLL Fitness",
+        "OZE SPORTS"
+      ],
+      "categories": [
+        "Sports"
+      ],
+      "titleDensityExact": 0,
+      "clicks": 187,
+      "impressions": 11609,
+      "topAsins": null
+    },
+    {
+      "marketplace": "UK",
+      "keywords": "yoga mats for women thick",
+      "searches": 1,
+      "purchases": 1,
+      "growth": 0.0,
+      "purchaseRate": 0.1792,
+      "products": 394,
+      "supplyDemandRatio": 0.0,
+      "searchDepartments": [],
+      "month": "2026.07",
+      "supplement": "N",
+      "searchMonthlyCv": -1153,
+      "searchMonthlyCr": -99.91,
+      "searchNearlyCv": 0,
+      "searchNearlyCr": 0.0,
+      "currency": "£",
+      "avgPrice": 9.99,
+      "avgRatings": 6590,
+      "avgRating": 4.5,
+      "relationAsinList": [
+        {
+          "asin": "B098TNYB1X",
+          "imageUrl": "https://m.media-amazon.com/images/I/41q1kNrh7wL._AC_US200_.jpg",
+          "price": 11.99,
+          "ratings": 3566,
+          "rating": 4.4,
+          "title": "KAYMAN Yoga Mat – Multi-Purpose Extra Thick Foam Exercise Mats – Ideal Floor Mat for Pilates, Stretching, Resistance Workout & Therapy – Home & Gym Equipment Accessory"
+        },
+        {
+          "asin": "B0BMGBYSDS",
+          "imageUrl": "https://m.media-amazon.com/images/I/41rLXeMbGbL._AC_US200_.jpg",
+          "price": 9.99,
+          "ratings": 1351,
+          "rating": 4.6,
+          "title": "Yoga Mat Exercise NBR Fitness foam mat Extra Thick Non-Slip Large Padded High Density ideal for HiiT Pilates gymnastics mats Fitness & Workout with Free Carry Strap (Teal)"
+        },
+        {
+          "asin": "B076DCH3T9",
+          "imageUrl": "https://m.media-amazon.com/images/I/51u1Y-wMWLL._AC_US200_.jpg",
+          "price": 16.99,
+          "ratings": 4845,
+          "rating": 4.6,
+          "title": "Bionix Premium Printed Travel Yoga Exercise Mat w/Carry Straps, Thick NBR Foam, Non-Slip Anti Skid Surface, Perfect for Pilates Gymnastics Fitness Workout Home Gym Training Equipment, for Men & Women"
+        },
+        {
+          "asin": "B0BMGCTJQV",
+          "imageUrl": "https://m.media-amazon.com/images/I/5113yE+VM8L._AC_US200_.jpg",
+          "price": 9.99,
+          "ratings": 862,
+          "rating": 4.6,
+          "title": "Yoga Mat Exercise NBR Fitness foam mat Extra Thick Non-Slip Large Padded High Density ideal for HiiT Pilates gymnastics mats Fitness & Workout with Free Carry Strap (Pink)"
+        },
+        {
+          "asin": "B07S9TD38D",
+          "imageUrl": "https://m.media-amazon.com/images/I/512jINNx0GL._AC_US200_.jpg",
+          "price": 16.99,
+          "ratings": 2409,
+          "rating": 4.6,
+          "title": "DSL Yoga Mat, Thick Non Slip Exercise Mat - Gym Fitness Pilates Workout Mat for Women Men, 15mm Large 61 x 185cm - Black/Blue/Purple/Pink/Green/Red"
+        },
+        {
+          "asin": "B0DJW9XT1P",
+          "imageUrl": "https://m.media-amazon.com/images/I/51ffXPqsOzL._AC_US200_.jpg",
+          "price": 18.9,
+          "ratings": 608,
+          "rating": 4.5,
+          "title": "Kingdom Fitness 15mm 20mm Extra Thick Yoga Mat Set | NBR Non-Slip Exercise Mat, Carry Bag, Strap & Resistance Band"
+        },
+        {
+          "asin": "B098SHPHNL",
+          "imageUrl": "https://m.media-amazon.com/images/I/41p2zgwhD9L._AC_US200_.jpg",
+          "price": 8.99,
+          "ratings": 3439,
+          "rating": 4.5,
+          "title": "NBR Yoga Mat Exercise Fitness foam Extra Thick Non-Slip Large Padded High Density for Pilates gymnastics stretching Workout with Free Carry Strap"
+        },
+        {
+          "asin": "B07PQWR15Y",
+          "imageUrl": "https://m.media-amazon.com/images/I/41ygbwzGTaL._AC_US200_.jpg",
+          "price": 12.99,
+          "ratings": 1873,
+          "rating": 4.5,
+          "title": "Lions Yoga Mat Thick 10MM - 183cm x 60cm Multi Purpose Yoga Matt for Men Women, Non Slip NBR Foam Exercise Mat with Carry Strap, Perfect for Pilates, Stretching, Home Gym Exercise"
+        },
+        {
+          "asin": "B0CYBGQVZH",
+          "imageUrl": "https://m.media-amazon.com/images/I/41estUh1G8L._AC_US200_.jpg",
+          "price": 22.94,
+          "ratings": 6975,
+          "rating": 4.6,
+          "title": "PROIRON Yoga Mat Thick 10/15MM - NBR Yoga Matt Exercise Fitness Foam Large Padded High Density for Pilates, Stretching, Home Gym Workout for Men Women with Free Carry Strap"
+        },
+        {
+          "asin": "B0F54Q7RVS",
+          "imageUrl": "https://m.media-amazon.com/images/I/41RhnAWGFVL._AC_US200_.jpg",
+          "price": 17.99,
+          "ratings": 3066,
+          "rating": 4.4,
+          "title": "Yogii Yoga Mat - Non-Slip 6mm Thick TPE & Travel-friendly Yoga Mat - Perfect for Home & Gym Exercise Fitness & Pilates - With Laser Alignment Guides for Men & Women"
+        }
+      ],
+      "bidMin": 0.57,
+      "bidMax": 0.85,
+      "bid": 0.76,
+      "araAsinList": [
+        {
+          "asin": "B0CYBYXWF4",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/41+BjUJkx6L._AC_US200_.jpg",
+          "clickRate": 0.2414,
+          "conversionShareRate": 0.0
+        },
+        {
+          "asin": "B0BMGBYSDS",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/41rLXeMbGbL._AC_US200_.jpg",
+          "clickRate": 0.1379,
+          "conversionShareRate": 0.0
+        },
+        {
+          "asin": "B0BRQQVRJW",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/41VbJ1CXZIL._AC_US200_.jpg",
+          "clickRate": 0.1034,
+          "conversionShareRate": 0.0
+        }
+      ],
+      "araClickRate": 0.4826,
+      "araShareRate": 0.0,
+      "goodsValue": 0.1001,
+      "marketPeriod": "N",
+      "brand": null,
+      "hasBrandWord": false,
+      "keywordCn": "厚厚的女士瑜伽垫",
+      "brands": [
+        "PROIRON",
+        "OZE SPORTS",
+        "KAYMAN"
+      ],
+      "categories": [
+        "Sports"
+      ],
+      "titleDensityExact": 0,
+      "clicks": 0,
+      "impressions": 27,
+      "topAsins": null
+    },
+    {
+      "marketplace": "UK",
+      "keywords": "thick yoga mats for women",
+      "searches": 785,
+      "purchases": 5,
+      "growth": -14.766558,
+      "purchaseRate": 0.0059,
+      "products": 279,
+      "supplyDemandRatio": 2.81,
+      "searchDepartments": [
+        {
+          "code": "sports",
+          "label": "Sports & Outdoors",
+          "total": 785,
+          "ratio": 1.0
+        }
+      ],
+      "month": "2026.07",
+      "supplement": "N",
+      "searchMonthlyCv": -161,
+      "searchMonthlyCr": -17.02,
+      "searchNearlyCv": -230,
+      "searchNearlyCr": -19.98,
+      "currency": "£",
+      "avgPrice": 9.99,
+      "avgRatings": 6590,
+      "avgRating": 4.5,
+      "relationAsinList": [
+        {
+          "asin": "B0BMGBYSDS",
+          "imageUrl": "https://m.media-amazon.com/images/I/41rLXeMbGbL._AC_US200_.jpg",
+          "price": 9.99,
+          "ratings": 6590,
+          "rating": 4.5,
+          "title": "OZE SPORTS Yoga Mat, NBR Foam, Extra Thick, Non-Slip, High Density, Large, for Pilates, Gymnastics, HiiT and Fitness, with Free Carry Strap"
+        },
+        {
+          "asin": "B07TLBYFC6",
+          "imageUrl": "https://m.media-amazon.com/images/I/41YKvWdTJlL._AC_US200_.jpg",
+          "price": 15.99,
+          "ratings": 1195,
+          "rating": 4.4,
+          "title": "ROMIX Yoga Mat Thick 10 MM Foam Exercise Mat, 180x60x1cm Non Slip Gym Mats With Carry Bag and Strap, Yoga Mats for Women Men Pilates Mat Gymnastics Meditation Home Outdoor"
+        },
+        {
+          "asin": "B098TNYB1X",
+          "imageUrl": "https://m.media-amazon.com/images/I/41q1kNrh7wL._AC_US200_.jpg",
+          "price": 8.99,
+          "ratings": 4069,
+          "rating": 4.4,
+          "title": "KAYMAN Yoga Mat – Multi-Purpose Extra Thick Foam Exercise Mats – Ideal Floor Mat for Pilates, Stretching, Resistance Workout & Therapy – Home & Gym Equipment Accessory"
+        },
+        {
+          "asin": "B0BMGCTJQV",
+          "imageUrl": "https://m.media-amazon.com/images/I/5113yE+VM8L._AC_US200_.jpg",
+          "price": 9.99,
+          "ratings": 6590,
+          "rating": 4.5,
+          "title": "OZE SPORTS Yoga Mat, NBR Foam, Extra Thick, Non-Slip, High Density, Large, for Pilates, Gymnastics, HiiT and Fitness, with Free Carry Strap"
+        },
+        {
+          "asin": "B07S9TD38D",
+          "imageUrl": "https://m.media-amazon.com/images/I/512jINNx0GL._AC_US200_.jpg",
+          "price": 17.99,
+          "ratings": 2437,
+          "rating": 4.6,
+          "title": "DSL Yoga Mat, Thick Non Slip Exercise Mat - Gym Fitness Pilates Workout Mat for Women Men, 15mm Large 61 x 185cm - Black/Blue/Purple/Pink/Green/Red"
+        },
+        {
+          "asin": "B0F54Q7RVS",
+          "imageUrl": "https://m.media-amazon.com/images/I/51E8cLOu0aL._AC_US200_.jpg",
+          "price": 20.82,
+          "ratings": 3405,
+          "rating": 4.4,
+          "title": "Yogii Yoga Mat - Non-Slip 6mm Thick TPE & Travel-friendly Yoga Mat - Perfect for Home & Gym Exercise Fitness & Pilates - With Laser Alignment Guides for Men & Women"
+        },
+        {
+          "asin": "B098SHPHNL",
+          "imageUrl": "https://m.media-amazon.com/images/I/41p2zgwhD9L._AC_US200_.jpg",
+          "price": 7.99,
+          "ratings": 3524,
+          "rating": 4.5,
+          "title": "NBR Yoga Mat Exercise Fitness foam Extra Thick Non-Slip Large Padded High Density for Pilates gymnastics stretching Workout with Free Carry Strap"
+        },
+        {
+          "asin": "B07S6JBZ8P",
+          "imageUrl": "https://m.media-amazon.com/images/I/51XkGvL1D2L._AC_US200_.jpg",
+          "price": 15.99,
+          "ratings": 1831,
+          "rating": 4.5,
+          "title": "ROMIX Yoga Mat, 15 MM Thick Foam Exercise Mat, (180x60cm) Non Slip Gym Mat with Carry Bag and Strap, Workout Mat Ideal Yoga Mats for Women Men Pilates Gymnastics Meditation Home and Outdoor Fitness"
+        },
+        {
+          "asin": "B08Y1QXLR5",
+          "imageUrl": "https://m.media-amazon.com/images/I/41l1NH4mo2L._AC_US200_.jpg",
+          "price": 15.99,
+          "ratings": 219,
+          "rating": 4.4,
+          "title": "Phoenix Fitness NBR Yoga Mat – 10mm Extra Thick, Non-Slip Exercise Mat for HIIT, Pilates & Fitness Training at Home & Gym | 183 x 61cm, Black, Pink, Navy or Sage"
+        },
+        {
+          "asin": "B0BMGCKQT4",
+          "imageUrl": "https://m.media-amazon.com/images/I/41jpef22smL._AC_US200_.jpg",
+          "price": 10.99,
+          "ratings": 6590,
+          "rating": 4.5,
+          "title": "OZE SPORTS Yoga Mat, NBR Foam, Extra Thick, Non-Slip, High Density, Large, for Pilates, Gymnastics, HiiT and Fitness, with Free Carry Strap"
+        }
+      ],
+      "bidMin": 0.84,
+      "bidMax": 1.4,
+      "bid": 1.12,
+      "araAsinList": [
+        {
+          "asin": "B0CYBYXWF4",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/41+BjUJkx6L._AC_US200_.jpg",
+          "clickRate": 0.16,
+          "conversionShareRate": 0.0
+        },
+        {
+          "asin": "B098TNYB1X",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/41q1kNrh7wL._AC_US200_.jpg",
+          "clickRate": 0.1,
+          "conversionShareRate": 0.0
+        },
+        {
+          "asin": "B0BMGBYSDS",
+          "title": null,
+          "imageUrl": "https://m.media-amazon.com/images/I/41rLXeMbGbL._AC_US200_.jpg",
+          "clickRate": 0.1,
+          "conversionShareRate": 0.0
+        }
+      ],
+      "araClickRate": 0.36,
+      "araShareRate": 0.0,
+      "goodsValue": 0.1121,
+      "marketPeriod": "N",
+      "brand": null,
+      "hasBrandWord": false,
+      "keywordCn": "厚厚的女士瑜伽垫",
+      "brands": [
+        "KAYMAN",
+        "PROIRON",
+        "OZE SPORTS"
+      ],
+      "categories": [
+        "Sports",
+        "Apparel"
+      ],
+      "titleDensityExact": 2,
+      "clicks": 351,
+      "impressions": 23394,
+      "topAsins": null
+    }
+  ],
+  "terminal": null,
+  "hasNextPage": null,
+  "guestVisited": false
+}

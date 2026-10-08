@@ -1,0 +1,242 @@
+{
+  "guestId": null,
+  "pages": 6,
+  "page": 1,
+  "size": 10,
+  "total": 55,
+  "took": 0,
+  "url": null,
+  "order": {
+    "field": "",
+    "desc": true
+  },
+  "items": [
+    {
+      "author": "rx",
+      "title": "la qualite n'est pas ouf.. trace d'usure",
+      "content": "la qualite n'est pas ouf..  le tapise presente comme des marques d'usure alors qu'il est suppose etre neuf...<br>",
+      "date": 1774886400000,
+      "star": 3,
+      "authorLabels": [
+        "Verified Purchase"
+      ],
+      "skus": [
+        "Colour Name: Black, 1800 x 610 x 15 mm"
+      ],
+      "images": null,
+      "videos": null,
+      "likes": 0,
+      "image": false,
+      "video": false,
+      "verified": true,
+      "vine": false,
+      "free": false,
+      "experience": false
+    },
+    {
+      "author": "Anita P.",
+      "title": "Quality of mat is good",
+      "content": "i didnt get it with the carrier as shown in pic<br>",
+      "date": 1773849600000,
+      "star": 3,
+      "authorLabels": [
+        "Verified Purchase"
+      ],
+      "skus": [
+        "Colour Name: 1830×660×10mm [ blue/Dark grey]"
+      ],
+      "images": null,
+      "videos": null,
+      "likes": 0,
+      "image": false,
+      "video": false,
+      "verified": true,
+      "vine": false,
+      "free": false,
+      "experience": false
+    },
+    {
+      "author": "Bb",
+      "title": "Très mauvaise qualité",
+      "content": "Très mauvaise qualité, se détériore rapidement<br>",
+      "date": 1771862400000,
+      "star": 1,
+      "authorLabels": [
+        "Verified Purchase"
+      ],
+      "skus": [
+        "Colour Name: 1830 x 660 x 10 mm [ dark grey]"
+      ],
+      "images": null,
+      "videos": null,
+      "likes": 0,
+      "image": false,
+      "video": false,
+      "verified": true,
+      "vine": false,
+      "free": false,
+      "experience": false
+    },
+    {
+      "author": "DD",
+      "title": "Mauvaise qualité",
+      "content": "Dès l'ouverture, on voit que la qualité n'est pas là. Mousse fragile qui se déforme et se déchire facilement. Je retourne immédiatement, il n'aurait pas duré plus de deux mois.<br>",
+      "date": 1770652800000,
+      "star": 1,
+      "authorLabels": [
+        "Verified Purchase"
+      ],
+      "skus": [
+        "Colour Name: Black, 1830 x 660 x 10 mm"
+      ],
+      "images": null,
+      "videos": null,
+      "likes": 0,
+      "image": false,
+      "video": false,
+      "verified": true,
+      "vine": false,
+      "free": false,
+      "experience": false
+    },
+    {
+      "author": "Amandinec",
+      "title": "Quelques petits défauts mais sinon parfait",
+      "content": "Livraison hyper rapide, beau tapis mais arrivé avec qq accros. Je ne l'ai pas retourné car j'en avais besoin assez urgemment.<br>",
+      "date": 1769529600000,
+      "star": 3,
+      "authorLabels": [
+        "Verified Purchase"
+      ],
+      "skus": [
+        "Couleur: Vert Foncé 183×66×10mm"
+      ],
+      "images": [
+        "https://m.media-amazon.com/images/I/714s6kLPLQL._SY200.jpg",
+        "https://m.media-amazon.com/images/I/61Qto-AMHPL._SY200.jpg",
+        "https://m.media-amazon.com/images/I/61Nmn0edhpL._SY200.jpg",
+        "https://m.media-amazon.com/images/I/61KOrvWvcpL._SY200.jpg",
+        "https://m.media-amazon.com/images/I/714s6kLPLQL._SY200.jpg"
+      ],
+      "videos": null,
+      "likes": 0,
+      "image": true,
+      "video": false,
+      "verified": true,
+      "vine": false,
+      "free": false,
+      "experience": false
+    },
+    {
+      "author": "Lina yuen",
+      "title": "Quality is not very good",
+      "content": "I found the quality very average. Not very durable and can be damaged very easily. A lot<br>Les durable compare to a real yoga mat<br>",
+      "date": 1769356800000,
+      "star": 3,
+      "authorLabels": [
+        "Verified Purchase"
+      ],
+      "skus": null,
+      "images": null,
+      "videos": null,
+      "likes": 0,
+      "image": false,
+      "video": false,
+      "verified": true,
+      "vine": false,
+      "free": false,
+      "experience": false
+    },
+    {
+      "author": "Audrey",
+      "title": "Tapis très fin attention !!!",
+      "content": "Attention la photo est quelques peu trompeuse et laisse à penser que le tapis est bien épais....En réalité il reste assez fin voir inconfortable pour mes patients.<br>",
+      "date": 1768320000000,
+      "star": 3,
+      "authorLabels": [
+        "Verified Purchase"
+      ],
+      "skus": [
+        "Colour Name: Black, 1830 x 660 x 10 mm"
+      ],
+      "images": null,
+      "videos": null,
+      "likes": 0,
+      "image": false,
+      "video": false,
+      "verified": true,
+      "vine": false,
+      "free": false,
+      "experience": false
+    },
+    {
+      "author": "Nada",
+      "title": "رياض",
+      "content": "حلوه بس خفيفه",
+      "date": 1767715200000,
+      "star": 3,
+      "authorLabels": [
+        "Achat vérifié"
+      ],
+      "skus": [
+        "Couleur: Violet Clair 183×66×10mm"
+      ],
+      "images": null,
+      "videos": null,
+      "likes": 0,
+      "image": false,
+      "video": false,
+      "verified": true,
+      "vine": false,
+      "free": false,
+      "experience": false
+    },
+    {
+      "author": "Client d'Amazon",
+      "title": "Glissant",
+      "content": "Bien moelleux et confortable mais il se déforme sous l’effort et est glissant<br>",
+      "date": 1767542400000,
+      "star": 3,
+      "authorLabels": [
+        "Verified Purchase"
+      ],
+      "skus": [
+        "Colour Name: 1830 x 660 x 10 mm (green/grey)"
+      ],
+      "images": null,
+      "videos": null,
+      "likes": 0,
+      "image": false,
+      "video": false,
+      "verified": true,
+      "vine": false,
+      "free": false,
+      "experience": false
+    },
+    {
+      "author": "Vida",
+      "title": "Quality",
+      "content": "👉 “The mat tore after a minute of use.”<br>",
+      "date": 1759852800000,
+      "star": 1,
+      "authorLabels": [
+        "Verified Purchase"
+      ],
+      "skus": [
+        "Colour Name: 1830 x 660 x 10 mm (purple/yellow)"
+      ],
+      "images": null,
+      "videos": null,
+      "likes": 0,
+      "image": false,
+      "video": false,
+      "verified": true,
+      "vine": false,
+      "free": false,
+      "experience": false
+    }
+  ],
+  "terminal": null,
+  "hasNextPage": null,
+  "guestVisited": false
+}

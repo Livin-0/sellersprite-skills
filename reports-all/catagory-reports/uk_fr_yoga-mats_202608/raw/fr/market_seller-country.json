@@ -1,0 +1,204 @@
+{
+  "items": [
+    {
+      "label": "法国",
+      "country": "法国",
+      "asins": [
+        "B09WDQVSBZ",
+        "B0B9YR9HP4",
+        "B087LTYTQV",
+        "B0CJ935DNX",
+        "B078R4PR3R",
+        "B07M7DZ27N",
+        "B0CJJNSM9V",
+        "B0CNRNJ3Y4",
+        "B0DN5SBPG3",
+        "B0BZVGJDC2",
+        "B0CTK83R3P",
+        "B07S6JBZ8P",
+        "B09W2BKQJW",
+        "B0GHNM946J",
+        "B0766565HG",
+        "B0C3D3NQN3",
+        "B07JFC1NX1",
+        "B0GRMVGQTH",
+        "B0D45QZBD5",
+        "B00FY0GWEE",
+        "B0919MNZRH",
+        "B0B5195NZV",
+        "B01FCNF4LO",
+        "B0B725G6WJ",
+        "B0GS1Q6TFG",
+        "B088TMSTP7",
+        "B0FVR4CQ2H",
+        "B0DC74Q61C",
+        "B0GT9R2YGC",
+        "B0H2V7FRPK",
+        "B0DM91WVX4",
+        "B0DM6GFVT5",
+        "B0CS311P4L"
+      ],
+      "products": 33,
+      "units": 6277,
+      "revenue": 132140.89,
+      "unitsRatio": 0.6057,
+      "revenueRatio": 0.5218
+    },
+    {
+      "label": "中国",
+      "country": "中国",
+      "asins": [
+        "B0F8BHD1C8",
+        "B0FN3L6P1V",
+        "B0F48K4TXJ",
+        "B08VGDGQK9",
+        "B0DDCHKCPT",
+        "B0BR6RHXGZ",
+        "B07BKQRWHT",
+        "B0C3R8XDPT",
+        "B0FC5W5SVR",
+        "B0GXKDVHL3",
+        "B0H8CTJX49",
+        "B0CNRBQFMN",
+        "B0H8YLR6M2",
+        "B0CXCQPD81",
+        "B0FPLQNZT5",
+        "B0CRH5L8SB",
+        "B08P2Q5HM5",
+        "B09CKLH3DK"
+      ],
+      "products": 18,
+      "units": 2350,
+      "revenue": 72104.16,
+      "unitsRatio": 0.2267,
+      "revenueRatio": 0.2847
+    },
+    {
+      "label": "德国",
+      "country": "德国",
+      "asins": [
+        "B0B3NCRBYR",
+        "B08XMR2BPF",
+        "B01EYWPI1A",
+        "B08V1QXTRD",
+        "B08698J1RW",
+        "B01MA4YG8F",
+        "B0GRC7KHW9",
+        "B00PY4V48Y",
+        "B01DVVB2K6",
+        "B0B6W4WDRX"
+      ],
+      "products": 10,
+      "units": 939,
+      "revenue": 27796.9,
+      "unitsRatio": 0.0906,
+      "revenueRatio": 0.1098
+    },
+    {
+      "label": "意大利",
+      "country": "意大利",
+      "asins": [
+        "B0FP5C9TRQ",
+        "B0FP5FZWPT",
+        "B0DLBRGCLF",
+        "B0FP5GRHCZ"
+      ],
+      "products": 4,
+      "units": 95,
+      "revenue": 2229.39,
+      "unitsRatio": 0.0092,
+      "revenueRatio": 0.0088
+    },
+    {
+      "label": "波兰",
+      "country": "波兰",
+      "asins": [
+        "B0DXQCBH7S",
+        "B0FB9F8JHR",
+        "B0GPR8V4HK"
+      ],
+      "products": 3,
+      "units": 102,
+      "revenue": 2709.46,
+      "unitsRatio": 0.0098,
+      "revenueRatio": 0.0107
+    },
+    {
+      "label": "中国香港",
+      "country": "中国香港",
+      "asins": [
+        "B08JV4HF3N",
+        "B0DZ1YTYTF",
+        "B0CQXNX7QD"
+      ],
+      "products": 3,
+      "units": 79,
+      "revenue": 1942.21,
+      "unitsRatio": 0.0076,
+      "revenueRatio": 0.0077
+    },
+    {
+      "label": "奥地利",
+      "country": "奥地利",
+      "asins": [
+        "B00LFLWX1M",
+        "B0F9YY4D1Z"
+      ],
+      "products": 2,
+      "units": 28,
+      "revenue": 1409.72,
+      "unitsRatio": 0.0027,
+      "revenueRatio": 0.0056
+    },
+    {
+      "label": "英国",
+      "country": "英国",
+      "asins": [
+        "B01CZ4VOTY",
+        "B01N10SV8A"
+      ],
+      "products": 2,
+      "units": 232,
+      "revenue": 4346.2,
+      "unitsRatio": 0.0224,
+      "revenueRatio": 0.0172
+    },
+    {
+      "label": "美国",
+      "country": "美国",
+      "asins": [
+        "B0CJ39LHNX"
+      ],
+      "products": 1,
+      "units": 217,
+      "revenue": 7230.44,
+      "unitsRatio": 0.0209,
+      "revenueRatio": 0.0285
+    },
+    {
+      "label": "瑞典",
+      "country": "瑞典",
+      "asins": [
+        "B004QL7C8C"
+      ],
+      "products": 1,
+      "units": 14,
+      "revenue": 419.86,
+      "unitsRatio": 0.0014,
+      "revenueRatio": 0.0017
+    },
+    {
+      "label": "荷兰",
+      "country": "荷兰",
+      "asins": [
+        "B0CT55BF94"
+      ],
+      "products": 1,
+      "units": 31,
+      "revenue": 929.69,
+      "unitsRatio": 0.003,
+      "revenueRatio": 0.0037
+    }
+  ],
+  "_list_wrapped": true
+}

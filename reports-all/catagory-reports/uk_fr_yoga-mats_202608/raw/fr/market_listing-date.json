@@ -1,0 +1,171 @@
+{
+  "items": [
+    {
+      "label": "1个月",
+      "shelfTime": "1个月",
+      "asins": [],
+      "products": 0,
+      "units": 0,
+      "revenue": 0.0,
+      "unitsRatio": 0.0
+    },
+    {
+      "label": "3个月",
+      "shelfTime": "3个月",
+      "asins": [
+        "B0H8YLR6M2",
+        "B0DDCHKCPT",
+        "B0GRMVGQTH",
+        "B0H2V7FRPK",
+        "B0GXKDVHL3",
+        "B0H8CTJX49"
+      ],
+      "products": 6,
+      "units": 447,
+      "revenue": 8128.14,
+      "unitsRatio": 0.0454
+    },
+    {
+      "label": "半年",
+      "shelfTime": "半年",
+      "asins": [
+        "B0GS1Q6TFG",
+        "B0GT9R2YGC",
+        "B0GRC7KHW9",
+        "B0GPR8V4HK"
+      ],
+      "products": 4,
+      "units": 623,
+      "revenue": 12445.4,
+      "unitsRatio": 0.0633
+    },
+    {
+      "label": "1年",
+      "shelfTime": "1年",
+      "asins": [
+        "B0FN3L6P1V",
+        "B0F48K4TXJ",
+        "B0FVR4CQ2H",
+        "B0FP5C9TRQ",
+        "B0FP5FZWPT",
+        "B0FPLQNZT5",
+        "B0FC5W5SVR",
+        "B0FP5GRHCZ"
+      ],
+      "products": 8,
+      "units": 613,
+      "revenue": 11946.65,
+      "unitsRatio": 0.0623
+    },
+    {
+      "label": "1年半",
+      "shelfTime": "1年半",
+      "asins": [
+        "B0F8BHD1C8",
+        "B0DXQCBH7S",
+        "B0FB9F8JHR",
+        "B0DM6GFVT5",
+        "B0DN5SBPG3",
+        "B0DZ1YTYTF",
+        "B0F9YY4D1Z",
+        "B0DLBRGCLF"
+      ],
+      "products": 8,
+      "units": 797,
+      "revenue": 13655.79,
+      "unitsRatio": 0.081
+    },
+    {
+      "label": "2年",
+      "shelfTime": "2年",
+      "asins": [
+        "B0DC74Q61C",
+        "B0CXCQPD81",
+        "B0DM91WVX4"
+      ],
+      "products": 3,
+      "units": 158,
+      "revenue": 3588.42,
+      "unitsRatio": 0.0161
+    },
+    {
+      "label": "2年半",
+      "shelfTime": "2年半",
+      "asins": [
+        "B0CT55BF94",
+        "B0CJJNSM9V",
+        "B0CRH5L8SB",
+        "B0CS311P4L",
+        "B0D45QZBD5",
+        "B0CTK83R3P"
+      ],
+      "products": 6,
+      "units": 1418,
+      "revenue": 36397.69,
+      "unitsRatio": 0.144
+    },
+    {
+      "label": "3年",
+      "shelfTime": "3年",
+      "asins": [
+        "B0CNRBQFMN",
+        "B0CJ935DNX",
+        "B0C3R8XDPT",
+        "B0CNRNJ3Y4",
+        "B0CJ39LHNX",
+        "B0CQXNX7QD",
+        "B0BZVGJDC2"
+      ],
+      "products": 7,
+      "units": 435,
+      "revenue": 14455.26,
+      "unitsRatio": 0.0442
+    },
+    {
+      "label": "3年以上",
+      "shelfTime": "3年以上",
+      "asins": [
+        "B01CZ4VOTY",
+        "B09WDQVSBZ",
+        "B0B3NCRBYR",
+        "B0B9YR9HP4",
+        "B087LTYTQV",
+        "B078R4PR3R",
+        "B08VGDGQK9",
+        "B08JV4HF3N",
+        "B004QL7C8C",
+        "B07M7DZ27N",
+        "B0BR6RHXGZ",
+        "B07BKQRWHT",
+        "B00LFLWX1M",
+        "B07S6JBZ8P",
+        "B09W2BKQJW",
+        "B08XMR2BPF",
+        "B01EYWPI1A",
+        "B0766565HG",
+        "B01MA4YG8F",
+        "B0C3D3NQN3",
+        "B07JFC1NX1",
+        "B01N10SV8A",
+        "B00PY4V48Y",
+        "B00FY0GWEE",
+        "B09CKLH3DK",
+        "B0919MNZRH",
+        "B08V1QXTRD",
+        "B08698J1RW",
+        "B0B5195NZV",
+        "B01FCNF4LO",
+        "B0B725G6WJ",
+        "B0B6W4WDRX",
+        "B088TMSTP7",
+        "B08P2Q5HM5",
+        "B01DVVB2K6"
+      ],
+      "products": 35,
+      "units": 5353,
+      "revenue": 142246.77,
+      "unitsRatio": 0.5438
+    }
+  ],
+  "_list_wrapped": true
+}

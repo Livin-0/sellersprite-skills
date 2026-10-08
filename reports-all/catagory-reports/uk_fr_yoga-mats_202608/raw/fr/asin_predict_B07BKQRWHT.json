@@ -1,0 +1,3093 @@
+{
+  "asinDetail": {
+    "asin": "B07BKQRWHT",
+    "title": "PROIRON Tapis de Sport Epais 10MM,Antidérapant Tapis pour Yoga Pilates Gym",
+    "brand": "PROIRON",
+    "availableDate": 1533935040000,
+    "category": "Sports et Loisirs",
+    "categoryId": "325614031",
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/614QOsP52pL._AC_US600_.jpg",
+    "rating": 4.7,
+    "ratings": 7763,
+    "trends": null,
+    "nodeIdPath": "325614031:339867031:486077031:486084031",
+    "nodeLabelPath": "Sports et Loisirs:Fitness et musculation:Yoga:Tapis",
+    "subcategories": [
+      {
+        "rank": 1,
+        "code": "486084031",
+        "label": "Tapis (Sports et Loisirs)"
+      }
+    ]
+  },
+  "dailyItemList": [
+    {
+      "date": "2025-07-01",
+      "bsr": 33,
+      "sales": 68,
+      "amount": 2039,
+      "price": 30
+    },
+    {
+      "date": "2025-07-02",
+      "bsr": 33,
+      "sales": 68,
+      "amount": 2039,
+      "price": 30
+    },
+    {
+      "date": "2025-07-03",
+      "bsr": 33,
+      "sales": 68,
+      "amount": 2039,
+      "price": 30
+    },
+    {
+      "date": "2025-07-04",
+      "bsr": 35,
+      "sales": 66,
+      "amount": 1979,
+      "price": 30
+    },
+    {
+      "date": "2025-07-05",
+      "bsr": 39,
+      "sales": 62,
+      "amount": 1859,
+      "price": 30
+    },
+    {
+      "date": "2025-07-06",
+      "bsr": 36,
+      "sales": 65,
+      "amount": 1949,
+      "price": 30
+    },
+    {
+      "date": "2025-07-07",
+      "bsr": 30,
+      "sales": 70,
+      "amount": 2099,
+      "price": 30
+    },
+    {
+      "date": "2025-07-08",
+      "bsr": 24,
+      "sales": 84,
+      "amount": 2519,
+      "price": 30
+    },
+    {
+      "date": "2025-07-09",
+      "bsr": 20,
+      "sales": 85,
+      "amount": 2549,
+      "price": 30
+    },
+    {
+      "date": "2025-07-10",
+      "bsr": 17,
+      "sales": 100,
+      "amount": 2999,
+      "price": 30
+    },
+    {
+      "date": "2025-07-11",
+      "bsr": 18,
+      "sales": 79,
+      "amount": 2369,
+      "price": 30
+    },
+    {
+      "date": "2025-07-12",
+      "bsr": 36,
+      "sales": 63,
+      "amount": 1889,
+      "price": 30
+    },
+    {
+      "date": "2025-07-13",
+      "bsr": 46,
+      "sales": 58,
+      "amount": 1739,
+      "price": 30
+    },
+    {
+      "date": "2025-07-14",
+      "bsr": 44,
+      "sales": 59,
+      "amount": 1769,
+      "price": 30
+    },
+    {
+      "date": "2025-07-15",
+      "bsr": 35,
+      "sales": 87,
+      "amount": 2609,
+      "price": 30
+    },
+    {
+      "date": "2025-07-16",
+      "bsr": 21,
+      "sales": 82,
+      "amount": 2459,
+      "price": 30
+    },
+    {
+      "date": "2025-07-17",
+      "bsr": 19,
+      "sales": 93,
+      "amount": 2789,
+      "price": 30
+    },
+    {
+      "date": "2025-07-18",
+      "bsr": 18,
+      "sales": 90,
+      "amount": 2699,
+      "price": 30
+    },
+    {
+      "date": "2025-07-19",
+      "bsr": 18,
+      "sales": 79,
+      "amount": 2369,
+      "price": 30
+    },
+    {
+      "date": "2025-07-20",
+      "bsr": 23,
+      "sales": 84,
+      "amount": 2519,
+      "price": 30
+    },
+    {
+      "date": "2025-07-21",
+      "bsr": 21,
+      "sales": 84,
+      "amount": 2075,
+      "price": 25
+    },
+    {
+      "date": "2025-07-22",
+      "bsr": 21,
+      "sales": 89,
+      "amount": 2156,
+      "price": 24
+    },
+    {
+      "date": "2025-07-23",
+      "bsr": 17,
+      "sales": 89,
+      "amount": 2156,
+      "price": 24
+    },
+    {
+      "date": "2025-07-24",
+      "bsr": 13,
+      "sales": 97,
+      "amount": 2349,
+      "price": 24
+    },
+    {
+      "date": "2025-07-25",
+      "bsr": 13,
+      "sales": 96,
+      "amount": 2325,
+      "price": 24
+    },
+    {
+      "date": "2025-07-26",
+      "bsr": 12,
+      "sales": 99,
+      "amount": 2398,
+      "price": 24
+    },
+    {
+      "date": "2025-07-27",
+      "bsr": 12,
+      "sales": 91,
+      "amount": 2204,
+      "price": 24
+    },
+    {
+      "date": "2025-07-28",
+      "bsr": 12,
+      "sales": 92,
+      "amount": 2228,
+      "price": 24
+    },
+    {
+      "date": "2025-07-29",
+      "bsr": 11,
+      "sales": 94,
+      "amount": 2277,
+      "price": 24
+    },
+    {
+      "date": "2025-07-30",
+      "bsr": 13,
+      "sales": 85,
+      "amount": 2059,
+      "price": 24
+    },
+    {
+      "date": "2025-07-31",
+      "bsr": 16,
+      "sales": 80,
+      "amount": 1938,
+      "price": 24
+    },
+    {
+      "date": "2025-08-01",
+      "bsr": 15,
+      "sales": 88,
+      "amount": 2618,
+      "price": 30
+    },
+    {
+      "date": "2025-08-02",
+      "bsr": 15,
+      "sales": 79,
+      "amount": 2369,
+      "price": 30
+    },
+    {
+      "date": "2025-08-03",
+      "bsr": 17,
+      "sales": 66,
+      "amount": 1979,
+      "price": 30
+    },
+    {
+      "date": "2025-08-04",
+      "bsr": 21,
+      "sales": 66,
+      "amount": 1979,
+      "price": 30
+    },
+    {
+      "date": "2025-08-05",
+      "bsr": 20,
+      "sales": 65,
+      "amount": 1949,
+      "price": 30
+    },
+    {
+      "date": "2025-08-06",
+      "bsr": 25,
+      "sales": 68,
+      "amount": 2039,
+      "price": 30
+    },
+    {
+      "date": "2025-08-07",
+      "bsr": 23,
+      "sales": 53,
+      "amount": 1589,
+      "price": 30
+    },
+    {
+      "date": "2025-08-08",
+      "bsr": 42,
+      "sales": 51,
+      "amount": 1529,
+      "price": 30
+    },
+    {
+      "date": "2025-08-09",
+      "bsr": 43,
+      "sales": 52,
+      "amount": 1559,
+      "price": 30
+    },
+    {
+      "date": "2025-08-10",
+      "bsr": 45,
+      "sales": 45,
+      "amount": 1350,
+      "price": 30
+    },
+    {
+      "date": "2025-08-11",
+      "bsr": 50,
+      "sales": 47,
+      "amount": 1410,
+      "price": 30
+    },
+    {
+      "date": "2025-08-12",
+      "bsr": 47,
+      "sales": 48,
+      "amount": 1440,
+      "price": 30
+    },
+    {
+      "date": "2025-08-13",
+      "bsr": 48,
+      "sales": 47,
+      "amount": 1136,
+      "price": 24
+    },
+    {
+      "date": "2025-08-14",
+      "bsr": 50,
+      "sales": 67,
+      "amount": 1542,
+      "price": 23
+    },
+    {
+      "date": "2025-08-15",
+      "bsr": 33,
+      "sales": 54,
+      "amount": 1923,
+      "price": 36
+    },
+    {
+      "date": "2025-08-16",
+      "bsr": 35,
+      "sales": 36,
+      "amount": 1282,
+      "price": 36
+    },
+    {
+      "date": "2025-08-17",
+      "bsr": 110,
+      "sales": 25,
+      "amount": 891,
+      "price": 36
+    },
+    {
+      "date": "2025-08-18",
+      "bsr": 125,
+      "sales": 18,
+      "amount": 641,
+      "price": 36
+    },
+    {
+      "date": "2025-08-19",
+      "bsr": 367,
+      "sales": 19,
+      "amount": 677,
+      "price": 36
+    },
+    {
+      "date": "2025-08-20",
+      "bsr": 269,
+      "sales": 12,
+      "amount": 427,
+      "price": 36
+    },
+    {
+      "date": "2025-08-21",
+      "bsr": 554,
+      "sales": 14,
+      "amount": 499,
+      "price": 36
+    },
+    {
+      "date": "2025-08-22",
+      "bsr": 446,
+      "sales": 15,
+      "amount": 534,
+      "price": 36
+    },
+    {
+      "date": "2025-08-23",
+      "bsr": 654,
+      "sales": 15,
+      "amount": 534,
+      "price": 36
+    },
+    {
+      "date": "2025-08-24",
+      "bsr": 547,
+      "sales": 10,
+      "amount": 356,
+      "price": 36
+    },
+    {
+      "date": "2025-08-25",
+      "bsr": 576,
+      "sales": 13,
+      "amount": 463,
+      "price": 36
+    },
+    {
+      "date": "2025-08-26",
+      "bsr": 912,
+      "sales": 12,
+      "amount": 427,
+      "price": 36
+    },
+    {
+      "date": "2025-08-27",
+      "bsr": 963,
+      "sales": 11,
+      "amount": 392,
+      "price": 36
+    },
+    {
+      "date": "2025-08-28",
+      "bsr": 859,
+      "sales": 7,
+      "amount": 249,
+      "price": 36
+    },
+    {
+      "date": "2025-08-29",
+      "bsr": 1154,
+      "sales": 6,
+      "amount": 214,
+      "price": 36
+    },
+    {
+      "date": "2025-08-30",
+      "bsr": 1392,
+      "sales": 10,
+      "amount": 356,
+      "price": 36
+    },
+    {
+      "date": "2025-08-31",
+      "bsr": 1221,
+      "sales": 6,
+      "amount": 214,
+      "price": 36
+    },
+    {
+      "date": "2025-09-01",
+      "bsr": 1396,
+      "sales": 9,
+      "amount": 321,
+      "price": 36
+    },
+    {
+      "date": "2025-09-02",
+      "bsr": 1427,
+      "sales": 7,
+      "amount": 249,
+      "price": 36
+    },
+    {
+      "date": "2025-09-03",
+      "bsr": 1886,
+      "sales": 8,
+      "amount": 285,
+      "price": 36
+    },
+    {
+      "date": "2025-09-04",
+      "bsr": 1991,
+      "sales": 7,
+      "amount": 249,
+      "price": 36
+    },
+    {
+      "date": "2025-09-05",
+      "bsr": 1917,
+      "sales": 8,
+      "amount": 285,
+      "price": 36
+    },
+    {
+      "date": "2025-09-06",
+      "bsr": 1846,
+      "sales": 7,
+      "amount": 249,
+      "price": 36
+    },
+    {
+      "date": "2025-09-07",
+      "bsr": 1832,
+      "sales": 5,
+      "amount": 178,
+      "price": 36
+    },
+    {
+      "date": "2025-09-08",
+      "bsr": 1653,
+      "sales": 7,
+      "amount": 249,
+      "price": 36
+    },
+    {
+      "date": "2025-09-09",
+      "bsr": 2245,
+      "sales": 7,
+      "amount": 249,
+      "price": 36
+    },
+    {
+      "date": "2025-09-10",
+      "bsr": 2365,
+      "sales": 7,
+      "amount": 249,
+      "price": 36
+    },
+    {
+      "date": "2025-09-11",
+      "bsr": 2066,
+      "sales": 7,
+      "amount": 249,
+      "price": 36
+    },
+    {
+      "date": "2025-09-12",
+      "bsr": 2393,
+      "sales": 7,
+      "amount": 249,
+      "price": 36
+    },
+    {
+      "date": "2025-09-13",
+      "bsr": 2206,
+      "sales": 7,
+      "amount": 249,
+      "price": 36
+    },
+    {
+      "date": "2025-09-14",
+      "bsr": 2244,
+      "sales": 5,
+      "amount": 178,
+      "price": 36
+    },
+    {
+      "date": "2025-09-15",
+      "bsr": 2382,
+      "sales": 6,
+      "amount": 214,
+      "price": 36
+    },
+    {
+      "date": "2025-09-16",
+      "bsr": 2145,
+      "sales": 6,
+      "amount": 214,
+      "price": 36
+    },
+    {
+      "date": "2025-09-17",
+      "bsr": 2371,
+      "sales": 6,
+      "amount": 214,
+      "price": 36
+    },
+    {
+      "date": "2025-09-18",
+      "bsr": 2279,
+      "sales": 7,
+      "amount": 249,
+      "price": 36
+    },
+    {
+      "date": "2025-09-19",
+      "bsr": 2389,
+      "sales": 4,
+      "amount": 142,
+      "price": 36
+    },
+    {
+      "date": "2025-09-20",
+      "bsr": 2283,
+      "sales": 7,
+      "amount": 249,
+      "price": 36
+    },
+    {
+      "date": "2025-09-21",
+      "bsr": 1975,
+      "sales": 4,
+      "amount": 142,
+      "price": 36
+    },
+    {
+      "date": "2025-09-22",
+      "bsr": 1651,
+      "sales": 7,
+      "amount": 249,
+      "price": 36
+    },
+    {
+      "date": "2025-09-23",
+      "bsr": 2466,
+      "sales": 4,
+      "amount": 142,
+      "price": 36
+    },
+    {
+      "date": "2025-09-24",
+      "bsr": 2640,
+      "sales": 7,
+      "amount": 249,
+      "price": 36
+    },
+    {
+      "date": "2025-09-25",
+      "bsr": 1721,
+      "sales": 7,
+      "amount": 249,
+      "price": 36
+    },
+    {
+      "date": "2025-09-26",
+      "bsr": 2554,
+      "sales": 7,
+      "amount": 249,
+      "price": 36
+    },
+    {
+      "date": "2025-09-27",
+      "bsr": 1964,
+      "sales": 7,
+      "amount": 249,
+      "price": 36
+    },
+    {
+      "date": "2025-09-28",
+      "bsr": 1713,
+      "sales": 4,
+      "amount": 142,
+      "price": 36
+    },
+    {
+      "date": "2025-09-29",
+      "bsr": 2439,
+      "sales": 5,
+      "amount": 178,
+      "price": 36
+    },
+    {
+      "date": "2025-09-30",
+      "bsr": 2231,
+      "sales": 6,
+      "amount": 214,
+      "price": 36
+    },
+    {
+      "date": "2025-10-01",
+      "bsr": 2850,
+      "sales": 5,
+      "amount": 178,
+      "price": 36
+    },
+    {
+      "date": "2025-10-02",
+      "bsr": 1901,
+      "sales": 6,
+      "amount": 214,
+      "price": 36
+    },
+    {
+      "date": "2025-10-03",
+      "bsr": 2417,
+      "sales": 6,
+      "amount": 214,
+      "price": 36
+    },
+    {
+      "date": "2025-10-04",
+      "bsr": 2368,
+      "sales": 6,
+      "amount": 214,
+      "price": 36
+    },
+    {
+      "date": "2025-10-05",
+      "bsr": 2420,
+      "sales": 4,
+      "amount": 142,
+      "price": 36
+    },
+    {
+      "date": "2025-10-06",
+      "bsr": 2087,
+      "sales": 5,
+      "amount": 178,
+      "price": 36
+    },
+    {
+      "date": "2025-10-07",
+      "bsr": 2600,
+      "sales": 6,
+      "amount": 214,
+      "price": 36
+    },
+    {
+      "date": "2025-10-08",
+      "bsr": 2774,
+      "sales": 5,
+      "amount": 178,
+      "price": 36
+    },
+    {
+      "date": "2025-10-09",
+      "bsr": 2202,
+      "sales": 4,
+      "amount": 142,
+      "price": 36
+    },
+    {
+      "date": "2025-10-10",
+      "bsr": 2849,
+      "sales": 5,
+      "amount": 178,
+      "price": 36
+    },
+    {
+      "date": "2025-10-11",
+      "bsr": 2384,
+      "sales": 5,
+      "amount": 178,
+      "price": 36
+    },
+    {
+      "date": "2025-10-12",
+      "bsr": 2246,
+      "sales": 4,
+      "amount": 142,
+      "price": 36
+    },
+    {
+      "date": "2025-10-13",
+      "bsr": 1952,
+      "sales": 6,
+      "amount": 214,
+      "price": 36
+    },
+    {
+      "date": "2025-10-14",
+      "bsr": 1802,
+      "sales": 3,
+      "amount": 107,
+      "price": 36
+    },
+    {
+      "date": "2025-10-15",
+      "bsr": 2584,
+      "sales": 6,
+      "amount": 214,
+      "price": 36
+    },
+    {
+      "date": "2025-10-16",
+      "bsr": 2744,
+      "sales": 6,
+      "amount": 214,
+      "price": 36
+    },
+    {
+      "date": "2025-10-17",
+      "bsr": 2279,
+      "sales": 6,
+      "amount": 214,
+      "price": 36
+    },
+    {
+      "date": "2025-10-18",
+      "bsr": 2242,
+      "sales": 4,
+      "amount": 142,
+      "price": 36
+    },
+    {
+      "date": "2025-10-19",
+      "bsr": 2366,
+      "sales": 4,
+      "amount": 142,
+      "price": 36
+    },
+    {
+      "date": "2025-10-20",
+      "bsr": 1398,
+      "sales": 7,
+      "amount": 249,
+      "price": 36
+    },
+    {
+      "date": "2025-10-21",
+      "bsr": 1145,
+      "sales": 9,
+      "amount": 321,
+      "price": 36
+    },
+    {
+      "date": "2025-10-22",
+      "bsr": 719,
+      "sales": 6,
+      "amount": 214,
+      "price": 36
+    },
+    {
+      "date": "2025-10-23",
+      "bsr": 1207,
+      "sales": 5,
+      "amount": 178,
+      "price": 36
+    },
+    {
+      "date": "2025-10-24",
+      "bsr": 1618,
+      "sales": 4,
+      "amount": 142,
+      "price": 36
+    },
+    {
+      "date": "2025-10-25",
+      "bsr": 2165,
+      "sales": 7,
+      "amount": 249,
+      "price": 36
+    },
+    {
+      "date": "2025-10-26",
+      "bsr": 1780,
+      "sales": 4,
+      "amount": 142,
+      "price": 36
+    },
+    {
+      "date": "2025-10-27",
+      "bsr": 1701,
+      "sales": 4,
+      "amount": 142,
+      "price": 36
+    },
+    {
+      "date": "2025-10-28",
+      "bsr": 1787,
+      "sales": 6,
+      "amount": 214,
+      "price": 36
+    },
+    {
+      "date": "2025-10-29",
+      "bsr": 1615,
+      "sales": 5,
+      "amount": 178,
+      "price": 36
+    },
+    {
+      "date": "2025-10-30",
+      "bsr": 2146,
+      "sales": 5,
+      "amount": 178,
+      "price": 36
+    },
+    {
+      "date": "2025-10-31",
+      "bsr": 1971,
+      "sales": 6,
+      "amount": 214,
+      "price": 36
+    },
+    {
+      "date": "2025-11-01",
+      "bsr": 2302,
+      "sales": 6,
+      "amount": 214,
+      "price": 36
+    },
+    {
+      "date": "2025-11-02",
+      "bsr": 1965,
+      "sales": 3,
+      "amount": 107,
+      "price": 36
+    },
+    {
+      "date": "2025-11-03",
+      "bsr": 1976,
+      "sales": 3,
+      "amount": 107,
+      "price": 36
+    },
+    {
+      "date": "2025-11-04",
+      "bsr": 2802,
+      "sales": 3,
+      "amount": 107,
+      "price": 36
+    },
+    {
+      "date": "2025-11-05",
+      "bsr": 2206,
+      "sales": 4,
+      "amount": 142,
+      "price": 36
+    },
+    {
+      "date": "2025-11-06",
+      "bsr": 2751,
+      "sales": 5,
+      "amount": 178,
+      "price": 36
+    },
+    {
+      "date": "2025-11-07",
+      "bsr": 1986,
+      "sales": 5,
+      "amount": 178,
+      "price": 36
+    },
+    {
+      "date": "2025-11-08",
+      "bsr": 1550,
+      "sales": 5,
+      "amount": 178,
+      "price": 36
+    },
+    {
+      "date": "2025-11-09",
+      "bsr": 1472,
+      "sales": 3,
+      "amount": 107,
+      "price": 36
+    },
+    {
+      "date": "2025-11-10",
+      "bsr": 1395,
+      "sales": 4,
+      "amount": 142,
+      "price": 36
+    },
+    {
+      "date": "2025-11-11",
+      "bsr": 1566,
+      "sales": 3,
+      "amount": 107,
+      "price": 36
+    },
+    {
+      "date": "2025-11-12",
+      "bsr": 3026,
+      "sales": 4,
+      "amount": 142,
+      "price": 36
+    },
+    {
+      "date": "2025-11-13",
+      "bsr": 1817,
+      "sales": 3,
+      "amount": 107,
+      "price": 36
+    },
+    {
+      "date": "2025-11-14",
+      "bsr": 3057,
+      "sales": 3,
+      "amount": 107,
+      "price": 36
+    },
+    {
+      "date": "2025-11-15",
+      "bsr": 2166,
+      "sales": 3,
+      "amount": 107,
+      "price": 36
+    },
+    {
+      "date": "2025-11-16",
+      "bsr": 2131,
+      "sales": 3,
+      "amount": 107,
+      "price": 36
+    },
+    {
+      "date": "2025-11-17",
+      "bsr": 1563,
+      "sales": 3,
+      "amount": 107,
+      "price": 36
+    },
+    {
+      "date": "2025-11-18",
+      "bsr": 3255,
+      "sales": 5,
+      "amount": 178,
+      "price": 36
+    },
+    {
+      "date": "2025-11-19",
+      "bsr": 2348,
+      "sales": 5,
+      "amount": 150,
+      "price": 30
+    },
+    {
+      "date": "2025-11-20",
+      "bsr": 1467,
+      "sales": 5,
+      "amount": 136,
+      "price": 27
+    },
+    {
+      "date": "2025-11-21",
+      "bsr": 1083,
+      "sales": 8,
+      "amount": 223,
+      "price": 28
+    },
+    {
+      "date": "2025-11-22",
+      "bsr": 749,
+      "sales": 10,
+      "amount": 267,
+      "price": 27
+    },
+    {
+      "date": "2025-11-23",
+      "bsr": 622,
+      "sales": 11,
+      "amount": 285,
+      "price": 26
+    },
+    {
+      "date": "2025-11-24",
+      "bsr": 370,
+      "sales": 16,
+      "amount": 450,
+      "price": 28
+    },
+    {
+      "date": "2025-11-25",
+      "bsr": 298,
+      "sales": 16,
+      "amount": 422,
+      "price": 26
+    },
+    {
+      "date": "2025-11-26",
+      "bsr": 249,
+      "sales": 22,
+      "amount": 622,
+      "price": 28
+    },
+    {
+      "date": "2025-11-27",
+      "bsr": 167,
+      "sales": 24,
+      "amount": 720,
+      "price": 30
+    },
+    {
+      "date": "2025-11-28",
+      "bsr": 148,
+      "sales": 27,
+      "amount": 810,
+      "price": 30
+    },
+    {
+      "date": "2025-11-29",
+      "bsr": 138,
+      "sales": 25,
+      "amount": 750,
+      "price": 30
+    },
+    {
+      "date": "2025-11-30",
+      "bsr": 138,
+      "sales": 32,
+      "amount": 960,
+      "price": 30
+    },
+    {
+      "date": "2025-12-01",
+      "bsr": 110,
+      "sales": 32,
+      "amount": 960,
+      "price": 30
+    },
+    {
+      "date": "2025-12-02",
+      "bsr": 106,
+      "sales": 42,
+      "amount": 1260,
+      "price": 30
+    },
+    {
+      "date": "2025-12-03",
+      "bsr": 73,
+      "sales": 39,
+      "amount": 1170,
+      "price": 30
+    },
+    {
+      "date": "2025-12-04",
+      "bsr": 89,
+      "sales": 40,
+      "amount": 1200,
+      "price": 30
+    },
+    {
+      "date": "2025-12-05",
+      "bsr": 84,
+      "sales": 40,
+      "amount": 1200,
+      "price": 30
+    },
+    {
+      "date": "2025-12-06",
+      "bsr": 86,
+      "sales": 41,
+      "amount": 1230,
+      "price": 30
+    },
+    {
+      "date": "2025-12-07",
+      "bsr": 75,
+      "sales": 41,
+      "amount": 1230,
+      "price": 30
+    },
+    {
+      "date": "2025-12-08",
+      "bsr": 64,
+      "sales": 48,
+      "amount": 1440,
+      "price": 30
+    },
+    {
+      "date": "2025-12-09",
+      "bsr": 56,
+      "sales": 49,
+      "amount": 1470,
+      "price": 30
+    },
+    {
+      "date": "2025-12-10",
+      "bsr": 63,
+      "sales": 50,
+      "amount": 1500,
+      "price": 30
+    },
+    {
+      "date": "2025-12-11",
+      "bsr": 63,
+      "sales": 50,
+      "amount": 1500,
+      "price": 30
+    },
+    {
+      "date": "2025-12-12",
+      "bsr": 52,
+      "sales": 66,
+      "amount": 1979,
+      "price": 30
+    },
+    {
+      "date": "2025-12-13",
+      "bsr": 45,
+      "sales": 70,
+      "amount": 2099,
+      "price": 30
+    },
+    {
+      "date": "2025-12-14",
+      "bsr": 38,
+      "sales": 63,
+      "amount": 1889,
+      "price": 30
+    },
+    {
+      "date": "2025-12-15",
+      "bsr": 37,
+      "sales": 67,
+      "amount": 2009,
+      "price": 30
+    },
+    {
+      "date": "2025-12-16",
+      "bsr": 37,
+      "sales": 69,
+      "amount": 2069,
+      "price": 30
+    },
+    {
+      "date": "2025-12-17",
+      "bsr": 33,
+      "sales": 83,
+      "amount": 2489,
+      "price": 30
+    },
+    {
+      "date": "2025-12-18",
+      "bsr": 32,
+      "sales": 79,
+      "amount": 2369,
+      "price": 30
+    },
+    {
+      "date": "2025-12-19",
+      "bsr": 34,
+      "sales": 77,
+      "amount": 2309,
+      "price": 30
+    },
+    {
+      "date": "2025-12-20",
+      "bsr": 39,
+      "sales": 71,
+      "amount": 2129,
+      "price": 30
+    },
+    {
+      "date": "2025-12-21",
+      "bsr": 49,
+      "sales": 70,
+      "amount": 2099,
+      "price": 30
+    },
+    {
+      "date": "2025-12-22",
+      "bsr": 56,
+      "sales": 66,
+      "amount": 1930,
+      "price": 29
+    },
+    {
+      "date": "2025-12-23",
+      "bsr": 58,
+      "sales": 64,
+      "amount": 1823,
+      "price": 28
+    },
+    {
+      "date": "2025-12-24",
+      "bsr": 56,
+      "sales": 70,
+      "amount": 1994,
+      "price": 28
+    },
+    {
+      "date": "2025-12-25",
+      "bsr": 51,
+      "sales": 77,
+      "amount": 2194,
+      "price": 28
+    },
+    {
+      "date": "2025-12-26",
+      "bsr": 31,
+      "sales": 96,
+      "amount": 2735,
+      "price": 28
+    },
+    {
+      "date": "2025-12-27",
+      "bsr": 23,
+      "sales": 82,
+      "amount": 2336,
+      "price": 28
+    },
+    {
+      "date": "2025-12-28",
+      "bsr": 26,
+      "sales": 93,
+      "amount": 2650,
+      "price": 28
+    },
+    {
+      "date": "2025-12-29",
+      "bsr": 22,
+      "sales": 98,
+      "amount": 2915,
+      "price": 30
+    },
+    {
+      "date": "2025-12-30",
+      "bsr": 22,
+      "sales": 85,
+      "amount": 2549,
+      "price": 30
+    },
+    {
+      "date": "2025-12-31",
+      "bsr": 30,
+      "sales": 74,
+      "amount": 2219,
+      "price": 30
+    },
+    {
+      "date": "2026-01-01",
+      "bsr": 30,
+      "sales": 86,
+      "amount": 2579,
+      "price": 30
+    },
+    {
+      "date": "2026-01-02",
+      "bsr": 26,
+      "sales": 75,
+      "amount": 2249,
+      "price": 30
+    },
+    {
+      "date": "2026-01-03",
+      "bsr": 26,
+      "sales": 74,
+      "amount": 2219,
+      "price": 30
+    },
+    {
+      "date": "2026-01-04",
+      "bsr": 27,
+      "sales": 71,
+      "amount": 2129,
+      "price": 30
+    },
+    {
+      "date": "2026-01-05",
+      "bsr": 27,
+      "sales": 71,
+      "amount": 2036,
+      "price": 29
+    },
+    {
+      "date": "2026-01-06",
+      "bsr": 25,
+      "sales": 79,
+      "amount": 2203,
+      "price": 28
+    },
+    {
+      "date": "2026-01-07",
+      "bsr": 28,
+      "sales": 64,
+      "amount": 1638,
+      "price": 26
+    },
+    {
+      "date": "2026-01-08",
+      "bsr": 35,
+      "sales": 64,
+      "amount": 1631,
+      "price": 25
+    },
+    {
+      "date": "2026-01-09",
+      "bsr": 26,
+      "sales": 76,
+      "amount": 1937,
+      "price": 25
+    },
+    {
+      "date": "2026-01-10",
+      "bsr": 15,
+      "sales": 105,
+      "amount": 2676,
+      "price": 25
+    },
+    {
+      "date": "2026-01-11",
+      "bsr": 12,
+      "sales": 126,
+      "amount": 3212,
+      "price": 25
+    },
+    {
+      "date": "2026-01-12",
+      "bsr": 9,
+      "sales": 99,
+      "amount": 2524,
+      "price": 25
+    },
+    {
+      "date": "2026-01-13",
+      "bsr": 10,
+      "sales": 98,
+      "amount": 2498,
+      "price": 25
+    },
+    {
+      "date": "2026-01-14",
+      "bsr": 10,
+      "sales": 96,
+      "amount": 2447,
+      "price": 25
+    },
+    {
+      "date": "2026-01-15",
+      "bsr": 10,
+      "sales": 77,
+      "amount": 1963,
+      "price": 25
+    },
+    {
+      "date": "2026-01-16",
+      "bsr": 13,
+      "sales": 71,
+      "amount": 1810,
+      "price": 25
+    },
+    {
+      "date": "2026-01-17",
+      "bsr": 16,
+      "sales": 67,
+      "amount": 1708,
+      "price": 25
+    },
+    {
+      "date": "2026-01-18",
+      "bsr": 14,
+      "sales": 74,
+      "amount": 1886,
+      "price": 25
+    },
+    {
+      "date": "2026-01-19",
+      "bsr": 12,
+      "sales": 72,
+      "amount": 1835,
+      "price": 25
+    },
+    {
+      "date": "2026-01-20",
+      "bsr": 12,
+      "sales": 69,
+      "amount": 1759,
+      "price": 25
+    },
+    {
+      "date": "2026-01-21",
+      "bsr": 14,
+      "sales": 59,
+      "amount": 1769,
+      "price": 30
+    },
+    {
+      "date": "2026-01-22",
+      "bsr": 19,
+      "sales": 52,
+      "amount": 1507,
+      "price": 29
+    },
+    {
+      "date": "2026-01-23",
+      "bsr": 24,
+      "sales": 53,
+      "amount": 1430,
+      "price": 27
+    },
+    {
+      "date": "2026-01-24",
+      "bsr": 20,
+      "sales": 58,
+      "amount": 1565,
+      "price": 27
+    },
+    {
+      "date": "2026-01-25",
+      "bsr": 16,
+      "sales": 60,
+      "amount": 1619,
+      "price": 27
+    },
+    {
+      "date": "2026-01-26",
+      "bsr": 14,
+      "sales": 63,
+      "amount": 1700,
+      "price": 27
+    },
+    {
+      "date": "2026-01-27",
+      "bsr": 14,
+      "sales": 63,
+      "amount": 1700,
+      "price": 27
+    },
+    {
+      "date": "2026-01-28",
+      "bsr": 14,
+      "sales": 60,
+      "amount": 1619,
+      "price": 27
+    },
+    {
+      "date": "2026-01-29",
+      "bsr": 16,
+      "sales": 58,
+      "amount": 1565,
+      "price": 27
+    },
+    {
+      "date": "2026-01-30",
+      "bsr": 16,
+      "sales": 61,
+      "amount": 1646,
+      "price": 27
+    },
+    {
+      "date": "2026-01-31",
+      "bsr": 13,
+      "sales": 63,
+      "amount": 1700,
+      "price": 27
+    },
+    {
+      "date": "2026-02-01",
+      "bsr": 11,
+      "sales": 70,
+      "amount": 2064,
+      "price": 29
+    },
+    {
+      "date": "2026-02-02",
+      "bsr": 10,
+      "sales": 69,
+      "amount": 2069,
+      "price": 30
+    },
+    {
+      "date": "2026-02-03",
+      "bsr": 11,
+      "sales": 68,
+      "amount": 2039,
+      "price": 30
+    },
+    {
+      "date": "2026-02-04",
+      "bsr": 11,
+      "sales": 61,
+      "amount": 1829,
+      "price": 30
+    },
+    {
+      "date": "2026-02-05",
+      "bsr": 15,
+      "sales": 69,
+      "amount": 2069,
+      "price": 30
+    },
+    {
+      "date": "2026-02-06",
+      "bsr": 15,
+      "sales": 56,
+      "amount": 1679,
+      "price": 30
+    },
+    {
+      "date": "2026-02-07",
+      "bsr": 13,
+      "sales": 59,
+      "amount": 1769,
+      "price": 30
+    },
+    {
+      "date": "2026-02-08",
+      "bsr": 13,
+      "sales": 61,
+      "amount": 1829,
+      "price": 30
+    },
+    {
+      "date": "2026-02-09",
+      "bsr": 14,
+      "sales": 62,
+      "amount": 1859,
+      "price": 30
+    },
+    {
+      "date": "2026-02-10",
+      "bsr": 12,
+      "sales": 62,
+      "amount": 1859,
+      "price": 30
+    },
+    {
+      "date": "2026-02-11",
+      "bsr": 11,
+      "sales": 64,
+      "amount": 1848,
+      "price": 29
+    },
+    {
+      "date": "2026-02-12",
+      "bsr": 11,
+      "sales": 61,
+      "amount": 1646,
+      "price": 27
+    },
+    {
+      "date": "2026-02-13",
+      "bsr": 12,
+      "sales": 64,
+      "amount": 1727,
+      "price": 27
+    },
+    {
+      "date": "2026-02-14",
+      "bsr": 12,
+      "sales": 70,
+      "amount": 1889,
+      "price": 27
+    },
+    {
+      "date": "2026-02-15",
+      "bsr": 9,
+      "sales": 68,
+      "amount": 1835,
+      "price": 27
+    },
+    {
+      "date": "2026-02-16",
+      "bsr": 9,
+      "sales": 73,
+      "amount": 1970,
+      "price": 27
+    },
+    {
+      "date": "2026-02-17",
+      "bsr": 7,
+      "sales": 85,
+      "amount": 2294,
+      "price": 27
+    },
+    {
+      "date": "2026-02-18",
+      "bsr": 6,
+      "sales": 82,
+      "amount": 2213,
+      "price": 27
+    },
+    {
+      "date": "2026-02-19",
+      "bsr": 7,
+      "sales": 64,
+      "amount": 1727,
+      "price": 27
+    },
+    {
+      "date": "2026-02-20",
+      "bsr": 8,
+      "sales": 61,
+      "amount": 1646,
+      "price": 27
+    },
+    {
+      "date": "2026-02-21",
+      "bsr": 8,
+      "sales": 50,
+      "amount": 1350,
+      "price": 27
+    },
+    {
+      "date": "2026-02-22",
+      "bsr": 11,
+      "sales": 51,
+      "amount": 1491,
+      "price": 29
+    },
+    {
+      "date": "2026-02-23",
+      "bsr": 12,
+      "sales": 36,
+      "amount": 1080,
+      "price": 30
+    },
+    {
+      "date": "2026-02-24",
+      "bsr": 11,
+      "sales": 50,
+      "amount": 1500,
+      "price": 30
+    },
+    {
+      "date": "2026-02-25",
+      "bsr": 10,
+      "sales": 52,
+      "amount": 1559,
+      "price": 30
+    },
+    {
+      "date": "2026-02-26",
+      "bsr": 10,
+      "sales": 51,
+      "amount": 1453,
+      "price": 28
+    },
+    {
+      "date": "2026-02-27",
+      "bsr": 10,
+      "sales": 51,
+      "amount": 1376,
+      "price": 27
+    },
+    {
+      "date": "2026-02-28",
+      "bsr": 10,
+      "sales": 56,
+      "amount": 1511,
+      "price": 27
+    },
+    {
+      "date": "2026-03-01",
+      "bsr": 8,
+      "sales": 55,
+      "amount": 1484,
+      "price": 27
+    },
+    {
+      "date": "2026-03-02",
+      "bsr": 9,
+      "sales": 46,
+      "amount": 1242,
+      "price": 27
+    },
+    {
+      "date": "2026-03-03",
+      "bsr": 12,
+      "sales": 40,
+      "amount": 1080,
+      "price": 27
+    },
+    {
+      "date": "2026-03-04",
+      "bsr": 13,
+      "sales": 46,
+      "amount": 1242,
+      "price": 27
+    },
+    {
+      "date": "2026-03-05",
+      "bsr": 13,
+      "sales": 40,
+      "amount": 1080,
+      "price": 27
+    },
+    {
+      "date": "2026-03-06",
+      "bsr": 14,
+      "sales": 38,
+      "amount": 1026,
+      "price": 27
+    },
+    {
+      "date": "2026-03-07",
+      "bsr": 15,
+      "sales": 42,
+      "amount": 1134,
+      "price": 27
+    },
+    {
+      "date": "2026-03-08",
+      "bsr": 13,
+      "sales": 43,
+      "amount": 1274,
+      "price": 30
+    },
+    {
+      "date": "2026-03-09",
+      "bsr": 13,
+      "sales": 40,
+      "amount": 1200,
+      "price": 30
+    },
+    {
+      "date": "2026-03-10",
+      "bsr": 16,
+      "sales": 41,
+      "amount": 1230,
+      "price": 30
+    },
+    {
+      "date": "2026-03-11",
+      "bsr": 12,
+      "sales": 44,
+      "amount": 1320,
+      "price": 30
+    },
+    {
+      "date": "2026-03-12",
+      "bsr": 10,
+      "sales": 44,
+      "amount": 1320,
+      "price": 30
+    },
+    {
+      "date": "2026-03-13",
+      "bsr": 10,
+      "sales": 44,
+      "amount": 1320,
+      "price": 30
+    },
+    {
+      "date": "2026-03-14",
+      "bsr": 11,
+      "sales": 44,
+      "amount": 1320,
+      "price": 30
+    },
+    {
+      "date": "2026-03-15",
+      "bsr": 11,
+      "sales": 43,
+      "amount": 1290,
+      "price": 30
+    },
+    {
+      "date": "2026-03-16",
+      "bsr": 9,
+      "sales": 50,
+      "amount": 1475,
+      "price": 29
+    },
+    {
+      "date": "2026-03-17",
+      "bsr": 9,
+      "sales": 44,
+      "amount": 1320,
+      "price": 30
+    },
+    {
+      "date": "2026-03-18",
+      "bsr": 12,
+      "sales": 40,
+      "amount": 1200,
+      "price": 30
+    },
+    {
+      "date": "2026-03-19",
+      "bsr": 14,
+      "sales": 41,
+      "amount": 1230,
+      "price": 30
+    },
+    {
+      "date": "2026-03-20",
+      "bsr": 13,
+      "sales": 42,
+      "amount": 1192,
+      "price": 28
+    },
+    {
+      "date": "2026-03-21",
+      "bsr": 12,
+      "sales": 44,
+      "amount": 1188,
+      "price": 27
+    },
+    {
+      "date": "2026-03-22",
+      "bsr": 9,
+      "sales": 49,
+      "amount": 1323,
+      "price": 27
+    },
+    {
+      "date": "2026-03-23",
+      "bsr": 7,
+      "sales": 46,
+      "amount": 1242,
+      "price": 27
+    },
+    {
+      "date": "2026-03-24",
+      "bsr": 10,
+      "sales": 52,
+      "amount": 1403,
+      "price": 27
+    },
+    {
+      "date": "2026-03-25",
+      "bsr": 8,
+      "sales": 54,
+      "amount": 1457,
+      "price": 27
+    },
+    {
+      "date": "2026-03-26",
+      "bsr": 7,
+      "sales": 45,
+      "amount": 1350,
+      "price": 30
+    },
+    {
+      "date": "2026-03-27",
+      "bsr": 8,
+      "sales": 42,
+      "amount": 1186,
+      "price": 28
+    },
+    {
+      "date": "2026-03-28",
+      "bsr": 11,
+      "sales": 42,
+      "amount": 1134,
+      "price": 27
+    },
+    {
+      "date": "2026-03-29",
+      "bsr": 11,
+      "sales": 42,
+      "amount": 1134,
+      "price": 27
+    },
+    {
+      "date": "2026-03-30",
+      "bsr": 11,
+      "sales": 42,
+      "amount": 1134,
+      "price": 27
+    },
+    {
+      "date": "2026-03-31",
+      "bsr": 11,
+      "sales": 46,
+      "amount": 1242,
+      "price": 27
+    },
+    {
+      "date": "2026-04-01",
+      "bsr": 8,
+      "sales": 50,
+      "amount": 1350,
+      "price": 27
+    },
+    {
+      "date": "2026-04-02",
+      "bsr": 8,
+      "sales": 46,
+      "amount": 1242,
+      "price": 27
+    },
+    {
+      "date": "2026-04-03",
+      "bsr": 10,
+      "sales": 42,
+      "amount": 1234,
+      "price": 29
+    },
+    {
+      "date": "2026-04-04",
+      "bsr": 10,
+      "sales": 53,
+      "amount": 1589,
+      "price": 30
+    },
+    {
+      "date": "2026-04-05",
+      "bsr": 9,
+      "sales": 43,
+      "amount": 1290,
+      "price": 30
+    },
+    {
+      "date": "2026-04-06",
+      "bsr": 11,
+      "sales": 40,
+      "amount": 1200,
+      "price": 30
+    },
+    {
+      "date": "2026-04-07",
+      "bsr": 12,
+      "sales": 39,
+      "amount": 1170,
+      "price": 30
+    },
+    {
+      "date": "2026-04-08",
+      "bsr": 15,
+      "sales": 41,
+      "amount": 1230,
+      "price": 30
+    },
+    {
+      "date": "2026-04-09",
+      "bsr": 17,
+      "sales": 37,
+      "amount": 1110,
+      "price": 30
+    },
+    {
+      "date": "2026-04-10",
+      "bsr": 18,
+      "sales": 39,
+      "amount": 1106,
+      "price": 28
+    },
+    {
+      "date": "2026-04-11",
+      "bsr": 14,
+      "sales": 40,
+      "amount": 1080,
+      "price": 27
+    },
+    {
+      "date": "2026-04-12",
+      "bsr": 14,
+      "sales": 43,
+      "amount": 1161,
+      "price": 27
+    },
+    {
+      "date": "2026-04-13",
+      "bsr": 11,
+      "sales": 45,
+      "amount": 1215,
+      "price": 27
+    },
+    {
+      "date": "2026-04-14",
+      "bsr": 9,
+      "sales": 45,
+      "amount": 1215,
+      "price": 27
+    },
+    {
+      "date": "2026-04-15",
+      "bsr": 9,
+      "sales": 45,
+      "amount": 1215,
+      "price": 27
+    },
+    {
+      "date": "2026-04-16",
+      "bsr": 8,
+      "sales": 48,
+      "amount": 1296,
+      "price": 27
+    },
+    {
+      "date": "2026-04-17",
+      "bsr": 8,
+      "sales": 46,
+      "amount": 1242,
+      "price": 27
+    },
+    {
+      "date": "2026-04-18",
+      "bsr": 10,
+      "sales": 50,
+      "amount": 1350,
+      "price": 27
+    },
+    {
+      "date": "2026-04-19",
+      "bsr": 11,
+      "sales": 47,
+      "amount": 1269,
+      "price": 27
+    },
+    {
+      "date": "2026-04-20",
+      "bsr": 10,
+      "sales": 50,
+      "amount": 1350,
+      "price": 27
+    },
+    {
+      "date": "2026-04-21",
+      "bsr": 10,
+      "sales": 51,
+      "amount": 1376,
+      "price": 27
+    },
+    {
+      "date": "2026-04-22",
+      "bsr": 10,
+      "sales": 52,
+      "amount": 1403,
+      "price": 27
+    },
+    {
+      "date": "2026-04-23",
+      "bsr": 13,
+      "sales": 43,
+      "amount": 1109,
+      "price": 26
+    },
+    {
+      "date": "2026-04-24",
+      "bsr": 15,
+      "sales": 46,
+      "amount": 1173,
+      "price": 25
+    },
+    {
+      "date": "2026-04-25",
+      "bsr": 13,
+      "sales": 47,
+      "amount": 1198,
+      "price": 25
+    },
+    {
+      "date": "2026-04-26",
+      "bsr": 11,
+      "sales": 45,
+      "amount": 1147,
+      "price": 25
+    },
+    {
+      "date": "2026-04-27",
+      "bsr": 11,
+      "sales": 45,
+      "amount": 1147,
+      "price": 25
+    },
+    {
+      "date": "2026-04-28",
+      "bsr": 15,
+      "sales": 41,
+      "amount": 1230,
+      "price": 30
+    },
+    {
+      "date": "2026-04-29",
+      "bsr": 16,
+      "sales": 45,
+      "amount": 1350,
+      "price": 30
+    },
+    {
+      "date": "2026-04-30",
+      "bsr": 20,
+      "sales": 39,
+      "amount": 1170,
+      "price": 30
+    },
+    {
+      "date": "2026-05-01",
+      "bsr": 24,
+      "sales": 37,
+      "amount": 1110,
+      "price": 30
+    },
+    {
+      "date": "2026-05-02",
+      "bsr": 26,
+      "sales": 34,
+      "amount": 1020,
+      "price": 30
+    },
+    {
+      "date": "2026-05-03",
+      "bsr": 25,
+      "sales": 39,
+      "amount": 1170,
+      "price": 30
+    },
+    {
+      "date": "2026-05-04",
+      "bsr": 22,
+      "sales": 40,
+      "amount": 1200,
+      "price": 30
+    },
+    {
+      "date": "2026-05-05",
+      "bsr": 22,
+      "sales": 41,
+      "amount": 1230,
+      "price": 30
+    },
+    {
+      "date": "2026-05-06",
+      "bsr": 21,
+      "sales": 42,
+      "amount": 1260,
+      "price": 30
+    },
+    {
+      "date": "2026-05-07",
+      "bsr": 21,
+      "sales": 40,
+      "amount": 1155,
+      "price": 29
+    },
+    {
+      "date": "2026-05-08",
+      "bsr": 23,
+      "sales": 40,
+      "amount": 1080,
+      "price": 27
+    },
+    {
+      "date": "2026-05-09",
+      "bsr": 22,
+      "sales": 44,
+      "amount": 1188,
+      "price": 27
+    },
+    {
+      "date": "2026-05-10",
+      "bsr": 19,
+      "sales": 45,
+      "amount": 1350,
+      "price": 30
+    },
+    {
+      "date": "2026-05-11",
+      "bsr": 18,
+      "sales": 40,
+      "amount": 1200,
+      "price": 30
+    },
+    {
+      "date": "2026-05-12",
+      "bsr": 19,
+      "sales": 72,
+      "amount": 2159,
+      "price": 30
+    },
+    {
+      "date": "2026-05-13",
+      "bsr": 24,
+      "sales": 30,
+      "amount": 825,
+      "price": 27
+    },
+    {
+      "date": "2026-05-14",
+      "bsr": 26,
+      "sales": 57,
+      "amount": 1471,
+      "price": 26
+    },
+    {
+      "date": "2026-05-15",
+      "bsr": 20,
+      "sales": 36,
+      "amount": 918,
+      "price": 25
+    },
+    {
+      "date": "2026-05-16",
+      "bsr": 13,
+      "sales": 59,
+      "amount": 1504,
+      "price": 25
+    },
+    {
+      "date": "2026-05-17",
+      "bsr": 12,
+      "sales": 38,
+      "amount": 1104,
+      "price": 29
+    },
+    {
+      "date": "2026-05-18",
+      "bsr": 13,
+      "sales": 36,
+      "amount": 1080,
+      "price": 30
+    },
+    {
+      "date": "2026-05-19",
+      "bsr": 16,
+      "sales": 101,
+      "amount": 3029,
+      "price": 30
+    },
+    {
+      "date": "2026-05-20",
+      "bsr": 17,
+      "sales": 79,
+      "amount": 2369,
+      "price": 30
+    },
+    {
+      "date": "2026-05-21",
+      "bsr": 21,
+      "sales": 63,
+      "amount": 1736,
+      "price": 28
+    },
+    {
+      "date": "2026-05-22",
+      "bsr": 23,
+      "sales": 64,
+      "amount": 1631,
+      "price": 25
+    },
+    {
+      "date": "2026-05-23",
+      "bsr": 24,
+      "sales": 42,
+      "amount": 1071,
+      "price": 25
+    },
+    {
+      "date": "2026-05-24",
+      "bsr": 21,
+      "sales": 33,
+      "amount": 841,
+      "price": 25
+    },
+    {
+      "date": "2026-05-25",
+      "bsr": 20,
+      "sales": 124,
+      "amount": 3161,
+      "price": 25
+    },
+    {
+      "date": "2026-05-26",
+      "bsr": 24,
+      "sales": 54,
+      "amount": 1619,
+      "price": 30
+    },
+    {
+      "date": "2026-05-27",
+      "bsr": 40,
+      "sales": 40,
+      "amount": 1200,
+      "price": 30
+    },
+    {
+      "date": "2026-05-28",
+      "bsr": 44,
+      "sales": 29,
+      "amount": 870,
+      "price": 30
+    },
+    {
+      "date": "2026-05-29",
+      "bsr": 45,
+      "sales": 43,
+      "amount": 1290,
+      "price": 30
+    },
+    {
+      "date": "2026-05-30",
+      "bsr": 42,
+      "sales": 55,
+      "amount": 1649,
+      "price": 30
+    },
+    {
+      "date": "2026-05-31",
+      "bsr": 41,
+      "sales": 28,
+      "amount": 840,
+      "price": 30
+    },
+    {
+      "date": "2026-06-01",
+      "bsr": 34,
+      "sales": 107,
+      "amount": 3209,
+      "price": 30
+    },
+    {
+      "date": "2026-06-02",
+      "bsr": 29,
+      "sales": 60,
+      "amount": 1799,
+      "price": 30
+    },
+    {
+      "date": "2026-06-03",
+      "bsr": 22,
+      "sales": 84,
+      "amount": 2519,
+      "price": 30
+    },
+    {
+      "date": "2026-06-04",
+      "bsr": 19,
+      "sales": 89,
+      "amount": 2669,
+      "price": 30
+    },
+    {
+      "date": "2026-06-05",
+      "bsr": 21,
+      "sales": 64,
+      "amount": 1919,
+      "price": 30
+    },
+    {
+      "date": "2026-06-06",
+      "bsr": 24,
+      "sales": 38,
+      "amount": 1140,
+      "price": 30
+    },
+    {
+      "date": "2026-06-07",
+      "bsr": 22,
+      "sales": 41,
+      "amount": 1230,
+      "price": 30
+    },
+    {
+      "date": "2026-06-08",
+      "bsr": 21,
+      "sales": 66,
+      "amount": 1979,
+      "price": 30
+    },
+    {
+      "date": "2026-06-09",
+      "bsr": 18,
+      "sales": 136,
+      "amount": 3696,
+      "price": 27
+    },
+    {
+      "date": "2026-06-10",
+      "bsr": 15,
+      "sales": 94,
+      "amount": 3017,
+      "price": 32
+    },
+    {
+      "date": "2026-06-11",
+      "bsr": 15,
+      "sales": 77,
+      "amount": 1963,
+      "price": 25
+    },
+    {
+      "date": "2026-06-12",
+      "bsr": 15,
+      "sales": 93,
+      "amount": 2371,
+      "price": 25
+    },
+    {
+      "date": "2026-06-13",
+      "bsr": 17,
+      "sales": 47,
+      "amount": 1198,
+      "price": 25
+    },
+    {
+      "date": "2026-06-14",
+      "bsr": 13,
+      "sales": 43,
+      "amount": 1096,
+      "price": 25
+    },
+    {
+      "date": "2026-06-15",
+      "bsr": 19,
+      "sales": 106,
+      "amount": 3179,
+      "price": 30
+    },
+    {
+      "date": "2026-06-16",
+      "bsr": 22,
+      "sales": 134,
+      "amount": 4019,
+      "price": 30
+    },
+    {
+      "date": "2026-06-17",
+      "bsr": 12,
+      "sales": 145,
+      "amount": 4349,
+      "price": 30
+    },
+    {
+      "date": "2026-06-18",
+      "bsr": 17,
+      "sales": 78,
+      "amount": 2339,
+      "price": 30
+    },
+    {
+      "date": "2026-06-19",
+      "bsr": 29,
+      "sales": 36,
+      "amount": 1080,
+      "price": 30
+    },
+    {
+      "date": "2026-06-20",
+      "bsr": 35,
+      "sales": 34,
+      "amount": 1020,
+      "price": 30
+    },
+    {
+      "date": "2026-06-21",
+      "bsr": 43,
+      "sales": 31,
+      "amount": 930,
+      "price": 30
+    },
+    {
+      "date": "2026-06-22",
+      "bsr": 43,
+      "sales": 46,
+      "amount": 1380,
+      "price": 30
+    },
+    {
+      "date": "2026-06-23",
+      "bsr": 40,
+      "sales": 38,
+      "amount": 1140,
+      "price": 30
+    },
+    {
+      "date": "2026-06-24",
+      "bsr": 50,
+      "sales": 38,
+      "amount": 1140,
+      "price": 30
+    },
+    {
+      "date": "2026-06-25",
+      "bsr": 48,
+      "sales": 39,
+      "amount": 1170,
+      "price": 30
+    },
+    {
+      "date": "2026-06-26",
+      "bsr": 46,
+      "sales": 41,
+      "amount": 1230,
+      "price": 30
+    },
+    {
+      "date": "2026-06-27",
+      "bsr": 57,
+      "sales": 42,
+      "amount": 1260,
+      "price": 30
+    },
+    {
+      "date": "2026-06-28",
+      "bsr": 50,
+      "sales": 34,
+      "amount": 1020,
+      "price": 30
+    },
+    {
+      "date": "2026-06-29",
+      "bsr": 54,
+      "sales": 38,
+      "amount": 1235,
+      "price": 32
+    },
+    {
+      "date": "2026-06-30",
+      "bsr": 55,
+      "sales": 35,
+      "amount": 1050,
+      "price": 30
+    },
+    {
+      "date": "2026-07-01",
+      "bsr": 59,
+      "sales": 34,
+      "amount": 1020,
+      "price": 30
+    },
+    {
+      "date": "2026-07-02",
+      "bsr": 58,
+      "sales": 36,
+      "amount": 1080,
+      "price": 30
+    },
+    {
+      "date": "2026-07-03",
+      "bsr": 53,
+      "sales": 36,
+      "amount": 999,
+      "price": 28
+    },
+    {
+      "date": "2026-07-04",
+      "bsr": 47,
+      "sales": 51,
+      "amount": 1300,
+      "price": 25
+    },
+    {
+      "date": "2026-07-05",
+      "bsr": 46,
+      "sales": 68,
+      "amount": 1733,
+      "price": 25
+    },
+    {
+      "date": "2026-07-06",
+      "bsr": 29,
+      "sales": 52,
+      "amount": 1325,
+      "price": 25
+    },
+    {
+      "date": "2026-07-07",
+      "bsr": 28,
+      "sales": 72,
+      "amount": 1835,
+      "price": 25
+    },
+    {
+      "date": "2026-07-08",
+      "bsr": 29,
+      "sales": 59,
+      "amount": 1703,
+      "price": 29
+    },
+    {
+      "date": "2026-07-09",
+      "bsr": 36,
+      "sales": 38,
+      "amount": 1140,
+      "price": 30
+    },
+    {
+      "date": "2026-07-10",
+      "bsr": 43,
+      "sales": 41,
+      "amount": 1099,
+      "price": 27
+    },
+    {
+      "date": "2026-07-11",
+      "bsr": 47,
+      "sales": 47,
+      "amount": 1198,
+      "price": 25
+    },
+    {
+      "date": "2026-07-12",
+      "bsr": 45,
+      "sales": 52,
+      "amount": 1559,
+      "price": 30
+    },
+    {
+      "date": "2026-07-13",
+      "bsr": 36,
+      "sales": 64,
+      "amount": 1919,
+      "price": 30
+    },
+    {
+      "date": "2026-07-14",
+      "bsr": 41,
+      "sales": 57,
+      "amount": 1709,
+      "price": 30
+    },
+    {
+      "date": "2026-07-15",
+      "bsr": 49,
+      "sales": 0,
+      "amount": 0,
+      "price": 30
+    },
+    {
+      "date": "2026-07-16",
+      "bsr": 48578,
+      "sales": 55,
+      "amount": 1649,
+      "price": 30
+    },
+    {
+      "date": "2026-07-17",
+      "bsr": 2063,
+      "sales": 4,
+      "amount": 102,
+      "price": 25
+    },
+    {
+      "date": "2026-07-18",
+      "bsr": 34339,
+      "sales": 61,
+      "amount": 1555,
+      "price": 25
+    },
+    {
+      "date": "2026-07-19",
+      "bsr": 34,
+      "sales": 54,
+      "amount": 1619,
+      "price": 30
+    },
+    {
+      "date": "2026-07-20",
+      "bsr": 34,
+      "sales": 51,
+      "amount": 1529,
+      "price": 30
+    },
+    {
+      "date": "2026-07-21",
+      "bsr": 38,
+      "sales": 47,
+      "amount": 1410,
+      "price": 30
+    },
+    {
+      "date": "2026-07-22",
+      "bsr": 37,
+      "sales": 51,
+      "amount": 1529,
+      "price": 30
+    },
+    {
+      "date": "2026-07-23",
+      "bsr": 33,
+      "sales": 49,
+      "amount": 1470,
+      "price": 30
+    },
+    {
+      "date": "2026-07-24",
+      "bsr": 34,
+      "sales": 50,
+      "amount": 1500,
+      "price": 30
+    },
+    {
+      "date": "2026-07-25",
+      "bsr": 32,
+      "sales": 55,
+      "amount": 1649,
+      "price": 30
+    },
+    {
+      "date": "2026-07-26",
+      "bsr": 30,
+      "sales": 45,
+      "amount": 1350,
+      "price": 30
+    },
+    {
+      "date": "2026-07-27",
+      "bsr": 38,
+      "sales": 51,
+      "amount": 1529,
+      "price": 30
+    },
+    {
+      "date": "2026-07-28",
+      "bsr": 34,
+      "sales": 49,
+      "amount": 1470,
+      "price": 30
+    },
+    {
+      "date": "2026-07-29",
+      "bsr": 36,
+      "sales": 48,
+      "amount": 1440,
+      "price": 30
+    },
+    {
+      "date": "2026-07-30",
+      "bsr": 35,
+      "sales": 50,
+      "amount": 1500,
+      "price": 30
+    },
+    {
+      "date": "2026-07-31",
+      "bsr": 33,
+      "sales": 54,
+      "amount": 1619,
+      "price": 30
+    },
+    {
+      "date": "2026-08-01",
+      "bsr": 32,
+      "sales": 60,
+      "amount": 1799,
+      "price": 30
+    },
+    {
+      "date": "2026-08-02",
+      "bsr": 30,
+      "sales": 67,
+      "amount": 2009,
+      "price": 30
+    },
+    {
+      "date": "2026-08-03",
+      "bsr": 26,
+      "sales": 68,
+      "amount": 2039,
+      "price": 30
+    },
+    {
+      "date": "2026-08-04",
+      "bsr": 27,
+      "sales": 58,
+      "amount": 1739,
+      "price": 30
+    },
+    {
+      "date": "2026-08-05",
+      "bsr": 27,
+      "sales": 66,
+      "amount": 1979,
+      "price": 30
+    },
+    {
+      "date": "2026-08-06",
+      "bsr": 25,
+      "sales": 58,
+      "amount": 1739,
+      "price": 30
+    },
+    {
+      "date": "2026-08-07",
+      "bsr": 28,
+      "sales": 57,
+      "amount": 1709,
+      "price": 30
+    },
+    {
+      "date": "2026-08-08",
+      "bsr": 28,
+      "sales": 56,
+      "amount": 1679,
+      "price": 30
+    },
+    {
+      "date": "2026-08-09",
+      "bsr": 29,
+      "sales": 63,
+      "amount": 1889,
+      "price": 30
+    },
+    {
+      "date": "2026-08-10",
+      "bsr": 20,
+      "sales": 78,
+      "amount": 2294,
+      "price": 29
+    },
+    {
+      "date": "2026-08-11",
+      "bsr": 14,
+      "sales": 79,
+      "amount": 2291,
+      "price": 29
+    },
+    {
+      "date": "2026-08-12",
+      "bsr": 14,
+      "sales": 65,
+      "amount": 1885,
+      "price": 29
+    },
+    {
+      "date": "2026-08-13",
+      "bsr": 25,
+      "sales": 60,
+      "amount": 1740,
+      "price": 29
+    },
+    {
+      "date": "2026-08-14",
+      "bsr": 21,
+      "sales": 56,
+      "amount": 1624,
+      "price": 29
+    },
+    {
+      "date": "2026-08-15",
+      "bsr": 24,
+      "sales": 60,
+      "amount": 1740,
+      "price": 29
+    },
+    {
+      "date": "2026-08-16",
+      "bsr": 25,
+      "sales": 56,
+      "amount": 1624,
+      "price": 29
+    },
+    {
+      "date": "2026-08-17",
+      "bsr": 25,
+      "sales": 57,
+      "amount": 1605,
+      "price": 28
+    },
+    {
+      "date": "2026-08-18",
+      "bsr": 22,
+      "sales": 71,
+      "amount": 1916,
+      "price": 27
+    },
+    {
+      "date": "2026-08-19",
+      "bsr": 15,
+      "sales": 71,
+      "amount": 1916,
+      "price": 27
+    },
+    {
+      "date": "2026-08-20",
+      "bsr": 15,
+      "sales": 65,
+      "amount": 1754,
+      "price": 27
+    },
+    {
+      "date": "2026-08-21",
+      "bsr": 14,
+      "sales": 64,
+      "amount": 1727,
+      "price": 27
+    },
+    {
+      "date": "2026-08-22",
+      "bsr": 14,
+      "sales": 70,
+      "amount": 1889,
+      "price": 27
+    },
+    {
+      "date": "2026-08-23",
+      "bsr": 11,
+      "sales": 70,
+      "amount": 2091,
+      "price": 30
+    },
+    {
+      "date": "2026-08-24",
+      "bsr": 11,
+      "sales": 75,
+      "amount": 2147,
+      "price": 29
+    },
+    {
+      "date": "2026-08-25",
+      "bsr": 12,
+      "sales": 72,
+      "amount": 1943,
+      "price": 27
+    },
+    {
+      "date": "2026-08-26",
+      "bsr": 13,
+      "sales": 70,
+      "amount": 1889,
+      "price": 27
+    },
+    {
+      "date": "2026-08-27",
+      "bsr": 13,
+      "sales": 70,
+      "amount": 1889,
+      "price": 27
+    },
+    {
+      "date": "2026-08-28",
+      "bsr": 13,
+      "sales": 70,
+      "amount": 1889,
+      "price": 27
+    },
+    {
+      "date": "2026-08-29",
+      "bsr": 16,
+      "sales": 64,
+      "amount": 1727,
+      "price": 27
+    },
+    {
+      "date": "2026-08-30",
+      "bsr": 15,
+      "sales": 66,
+      "amount": 1955,
+      "price": 30
+    }
+  ],
+  "monthItemList": [
+    {
+      "date": "2025-07",
+      "sales": 2506,
+      "amount": 69448,
+      "price": 28
+    },
+    {
+      "date": "2025-08",
+      "sales": 1125,
+      "amount": 34570,
+      "price": 33
+    },
+    {
+      "date": "2025-09",
+      "sales": 192,
+      "amount": 6839,
+      "price": 36
+    },
+    {
+      "date": "2025-10",
+      "sales": 164,
+      "amount": 5842,
+      "price": 36
+    },
+    {
+      "date": "2025-11",
+      "sales": 269,
+      "amount": 8217,
+      "price": 33
+    },
+    {
+      "date": "2025-12",
+      "sales": 1992,
+      "amount": 58943,
+      "price": 30
+    },
+    {
+      "date": "2026-01",
+      "sales": 2264,
+      "amount": 60765,
+      "price": 27
+    },
+    {
+      "date": "2026-02",
+      "sales": 1726,
+      "amount": 49186,
+      "price": 29
+    },
+    {
+      "date": "2026-03",
+      "sales": 1371,
+      "amount": 38762,
+      "price": 28
+    },
+    {
+      "date": "2026-04",
+      "sales": 1343,
+      "amount": 37210,
+      "price": 28
+    },
+    {
+      "date": "2026-05",
+      "sales": 1525,
+      "amount": 43324,
+      "price": 29
+    },
+    {
+      "date": "2026-06",
+      "sales": 1954,
+      "amount": 57342,
+      "price": 29
+    },
+    {
+      "date": "2026-07",
+      "sales": 1481,
+      "amount": 42540,
+      "price": 29
+    },
+    {
+      "date": "2026-08",
+      "sales": 1962,
+      "amount": 56122,
+      "price": 29
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "guestId": null,
+  "pages": 1,
+  "page": 1,
+  "size": 10,
+  "total": 3,
+  "took": 0,
+  "url": null,
+  "order": {
+    "field": "",
+    "desc": true
+  },
+  "items": [
+    {
+      "author": "Austin",
+      "title": "Buy a better one from Aldi!",
+      "content": "Bought it and later saw a better one in Aldi which was thick and of same price. The problem with this is that, it is thin and if you are using it on a hard surface, you don't fill a cushion and slightly hurtful/uncomfortable.",
+      "date": null,
+      "star": 3,
+      "authorLabels": [
+        "Verified Purchase"
+      ],
+      "skus": [
+        "Couleur: Vert/Noir"
+      ],
+      "images": null,
+      "videos": null,
+      "likes": 0,
+      "image": false,
+      "video": false,
+      "verified": true,
+      "vine": false,
+      "free": false,
+      "experience": false
+    },
+    {
+      "author": "Julie B.92",
+      "title": "Très bien mais jamais tout à fait plat",
+      "content": "En termes d'épaisseur et de tenue, c'est nickel. Le coloris est fidèle à la photo.Se lave facilement.Le bémol c'est que malgré plusieurs mois d'utilisation, à chaque fois que je le déroule (3 fois par semaine), les extrémités restent un peu enroulées = il n'est jamais totalement à plat.",
+      "date": null,
+      "star": 3,
+      "authorLabels": null,
+      "skus": [
+        "Couleur: Prune"
+      ],
+      "images": null,
+      "videos": null,
+      "likes": 0,
+      "image": false,
+      "video": false,
+      "verified": true,
+      "vine": false,
+      "free": false,
+      "experience": false
+    },
+    {
+      "author": "Client_Amazon_FR :o)",
+      "title": "Trop fin",
+      "content": "Trop fin.",
+      "date": null,
+      "star": 3,
+      "authorLabels": null,
+      "skus": [
+        "Couleur: Bleu marine/Bleu"
+      ],
+      "images": null,
+      "videos": null,
+      "likes": 0,
+      "image": false,
+      "video": false,
+      "verified": true,
+      "vine": false,
+      "free": false,
+      "experience": false
+    }
+  ],
+  "terminal": null,
+  "hasNextPage": null,
+  "guestVisited": false
+}
