@@ -3,8 +3,12 @@
 import sys, json, urllib.request, urllib.error, time, os
 from datetime import datetime
 
-# === 由用户在对话中提供，仅本次任务使用，不写入任何持久文件 ===
-SECRET_KEY = "__REDACTED__"
+# === 密钥通过环境变量传入，禁止硬编码 ===
+# 使用前请先设置：set SELLERSPRITE_SECRET_KEY=你的密钥   （Windows）
+#               export SELLERSPRITE_SECRET_KEY=你的密钥  （macOS / Linux）
+SECRET_KEY = os.environ.get("SELLERSPRITE_SECRET_KEY", "")
+if not SECRET_KEY:
+    sys.exit("[FATAL] 未设置环境变量 SELLERSPRITE_SECRET_KEY，请配置后重试")
 URL = "https://mcp.sellersprite.com/mcp"
 OUT_DIR = r"p:\trae.ai\TraeCN projects learning\amazon-sellersprite-reasearch-MCP-skill\reports-all\sellersprite-amazon-research-reports\tipsyaudio-us-market"
 

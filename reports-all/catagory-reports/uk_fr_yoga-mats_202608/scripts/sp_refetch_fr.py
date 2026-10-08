@@ -11,7 +11,6 @@ import sp_common as sp   # noqa: E402
 
 ROOT = os.path.dirname(HERE)
 SS = r"C:\Users\HP\AppData\Roaming\Python\Python313\Scripts\sellersprite.exe"
-KEY = "__REDACTED__"
 MP = "fr"
 NP = "325614031:339867031:486077031:486084031"
 KEYWORD = "yoga mats"
